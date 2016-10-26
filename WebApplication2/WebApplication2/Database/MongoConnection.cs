@@ -7,16 +7,17 @@ using MongoDB.Bson;
 
 namespace WebApplication2.Database
 {
-    public class DatabaseConnection : IDatabase
+    public class MongoConnection : IDatabase
     {
-        private IMongoDatabase database;
-        private IMongoCollection<BsonDocument> collection;
+        IMongoDatabase database;
+        IMongoCollection<BsonDocument> collection;
 
-        public DatabaseConnection(string db, string coll)
-        {
+        public MongoConnection(string db, string coll)
+
+        { 
             var client = new MongoClient();
-            var database = client.GetDatabase(db);
-            var collection = database.GetCollection<BsonDocument>(coll);
+            this.database = client.GetDatabase(db);
+            this.collection = database.GetCollection<BsonDocument>(coll);
         }
         public void switchColletion(string sColl)
         {
@@ -35,5 +36,8 @@ namespace WebApplication2.Database
         public void update()
         {
         }
-    }
+        ~MongoConnection()
+        {
+            
+        }
 }
