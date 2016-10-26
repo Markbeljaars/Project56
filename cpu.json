@@ -1,0 +1,129 @@
+{
+ "cpu": [
+  {
+   "name": "Intel Core i7-6700K",
+   "speed": "4.0GHz",
+   "core": "4",
+   "price": "$328.99"
+  },
+  {
+   "name": "Intel Core i5-6600K",
+   "speed": "3.5GHz",
+   "core": "4",
+   "price": "$236.99"
+  },
+  {
+   "name": "Intel Core i5-6500",
+   "speed": "3.2GHz",
+   "core": "4",
+   "price": "$195.79"
+  },
+  {
+   "name": "Intel Core i3-6100",
+   "speed": "3.7GHz",
+   "core": "2",
+   "price": "$110.99"
+  },
+  {
+   "name": "Intel Core i5-6400",
+   "speed": "2.7GHz",
+   "core": "4",
+   "price": "$174.99"
+  },
+  {
+   "name": "Intel Core i7-6700",
+   "speed": "3.4GHz",
+   "core": "4",
+   "price": "$293.99"
+  },
+  {
+   "name": "Intel Core i5-6600",
+   "speed": "3.3GHz",
+   "core": "4",
+   "price": "$214.99"
+  },
+  {
+   "name": "Intel Pentium G4400",
+   "speed": "3.3GHz",
+   "core": "2",
+   "price": "$58.99"
+  },
+  {
+   "name": "Intel Core i3-6320",
+   "speed": "3.9GHz",
+   "core": "2",
+   "price": "$158.99"
+  },
+  {
+   "name": "Intel Core i3-6300",
+   "speed": "3.8GHz",
+   "core": "2",
+   "price": "$141.99"
+  },
+  {
+   "name": "Intel Celeron G3900",
+   "speed": "2.8GHz",
+   "core": "2",
+   "price": "$42.18"
+  },
+  {
+   "name": "Intel Core i7-6700K (OEM/Tray)",
+   "speed": "4.0GHz",
+   "core": "4",
+   "price": "$336.99"
+  },
+  {
+   "name": "Intel Pentium G4500",
+   "speed": "3.5GHz",
+   "core": "2",
+   "price": "$84.80"
+  },
+  {
+   "name": "Intel Core i5-6500 (OEM/Tray)",
+   "speed": "3.2GHz",
+   "core": "4",
+   "price": "$192.99"
+  },
+  {
+   "name": "Intel Core i3-6100T",
+   "speed": "3.2GHz",
+   "core": "2",
+   "price": "$129.98"
+  },
+  {
+   "name": "Intel Core i5-6600 (OEM/Tray)",
+   "speed": "3.3GHz",
+   "core": "4",
+   "price": "$209.99"
+  },
+  {
+   "name": "Intel Core i3-6100 (OEM/Tray)",
+   "speed": "3.7GHz",
+   "core": "2",
+   "price": "$112.99"
+  },
+  {
+   "name": "Intel Core i7-6700 (OEM/Tray)",
+   "speed": "3.4GHz",
+   "core": "4",
+   "price": "$303.99"
+  },
+  {
+   "name": "Intel Core i7-6700T",
+   "speed": "2.8GHz",
+   "core": "4"
+  },
+  {
+   "name": "Intel Core i3-6300T",
+   "speed": "3.3GHz",
+   "core": "2",
+   "price": "$160.49"
+  },
+  {
+   "name": "Intel Pentium G4520",
+   "speed": "3.6GHz",
+   "core": "2",
+   "price": "$105.98"
+  }
+ ]
+}

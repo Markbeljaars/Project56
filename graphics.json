@@ -1,0 +1,136 @@
+{
+ "graphics": [
+  {
+   "name": "Asus ROG STRIX-GTX1070-O8G-GAMING",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "price": "$434.98"
+  },
+  {
+   "name": "Asus ROG STRIX-GTX1080-8G-GAMING",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "price": "$629.99"
+  },
+  {
+   "name": "Asus ROG STRIX-GTX1060-O6G-GAMING",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "price": "$309.99"
+  },
+  {
+   "name": "Gigabyte GV-N960WF2OC-4GD",
+   "chipset": "GeForce GTX 960",
+   "memory": "4GB",
+   "price": "$193.98"
+  },
+  {
+   "name": "Sapphire 11256-01",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "price": "$194.98"
+  },
+  {
+   "name": "Asus ROG STRIX-GTX1080-A8G-GAMING",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "price": "$669.99"
+  },
+  {
+   "name": "Sapphire 11260-01-20G",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "price": "$278.49"
+  },
+  {
+   "name": "Asus ROG STRIX-GTX1070-8G-GAMING",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "price": "$428.99"
+  },
+  {
+   "name": "XFX RX-480P8DBA6",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "price": "$294.98"
+  },
+  {
+   "name": "Zotac ZT-P10800C-10P",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "price": "$603.99"
+  },
+  {
+   "name": "EVGA 06G-P4-6264-KR",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "price": "$264.98"
+  },
+  {
+   "name": "Asus TURBO-GTX1060-6G",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "price": "$259.99"
+  },
+  {
+   "name": "PNY VCGGTX10606PB",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "price": "$247.99"
+  },
+  {
+   "name": "Zotac ZT-P10700C-10P",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "price": "$413.99"
+  },
+  {
+   "name": "Sapphire 11256-00",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "price": "$174.98"
+  },
+  {
+   "name": "Sapphire 11256-02",
+   "chipset": "Radeon RX 470",
+   "memory": "8GB",
+   "price": "$236.99"
+  },
+  {
+   "name": "Gigabyte GV-N970WF3OC-4GD",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "price": "$289.99"
+  },
+  {
+   "name": "Asus ROG STRIX-RX470-4G-GAMING",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "price": "$229.89"
+  },
+  {
+   "name": "Gigabyte GV-N960G1 GAMING-4GD",
+   "chipset": "GeForce GTX 960",
+   "memory": "4GB",
+   "price": "$299.59"
+  },
+  {
+   "name": "Asus ROG STRIX-RX470-O4G-GAMING",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "price": "$299.89"
+  },
+  {
+   "name": "Gigabyte GV-N970IXOC-4GD",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "price": "$291.99"
+  },
+  {
+   "name": "Gigabyte GV-N980WF3OC-4GD",
+   "chipset": "GeForce GTX 980",
+   "memory": "4GB",
+   "price": "$453.87"
+  }
+ ]
+}

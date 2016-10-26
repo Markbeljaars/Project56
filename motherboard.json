@@ -1,0 +1,339 @@
+{
+ "motherboard": [
+  {
+   "name": "MSI B150I GAMING PRO AC",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$71.98"
+  },
+  {
+   "name": "Asus Rampage V Edition 10",
+   "Socket": "LGA2011-3",
+   "formFactor": "EATX",
+   "ramSlots": "8",
+   "price": "$549.99"
+  },
+  {
+   "name": "Asus Z170I PRO GAMING",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$160.99"
+  },
+  {
+   "name": "Asus X99-DELUXE II",
+   "Socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "price": "$393.99"
+  },
+  {
+   "name": "ASRock H110M-ITX/ac",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$67.99"
+  },
+  {
+   "name": "Gigabyte GA-Z170N-WIFI",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$134.99"
+  },
+  {
+   "name": "Asus ROG MAXIMUS VIII HERO ALPHA",
+   "Socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "price": "$227.98"
+  },
+  {
+   "name": "Asus MAXIMUS VIII FORMULA",
+   "Socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "price": "$343.99"
+  },
+  {
+   "name": "MSI X99A GODLIKE GAMING CARBON",
+   "Socket": "LGA2011-3",
+   "formFactor": "EATX",
+   "ramSlots": "8",
+   "price": "$553.98"
+  },
+  {
+   "name": "Asus Z170-DELUXE",
+   "Socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "price": "$272.98"
+  },
+  {
+   "name": "MSI Z170A Tomahawk AC",
+   "Socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "price": "$119.99"
+  },
+  {
+   "name": "Gigabyte GA-Z170N-Gaming 5",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$149.95"
+  },
+  {
+   "name": "Gigabyte GA-H170N-WIFI",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$113.86"
+  },
+  {
+   "name": "MSI Z170I GAMING PRO AC",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$162.98"
+  },
+  {
+   "name": "Asus MAXIMUS VIII IMPACT",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$234.99"
+  },
+  {
+   "name": "Gigabyte GA-Z170X-Gaming G1",
+   "Socket": "LGA1151",
+   "formFactor": "EATX",
+   "ramSlots": "4",
+   "price": "$479.99"
+  },
+  {
+   "name": "Asus MAXIMUS VIII EXTREME",
+   "Socket": "LGA1151",
+   "formFactor": "EATX",
+   "ramSlots": "4",
+   "price": "$434.99"
+  },
+  {
+   "name": "Asus B150I PRO GAMING/WIFI/AURA",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$122.99"
+  },
+  {
+   "name": "Gigabyte GA-F2A88XN-WIFI",
+   "Socket": "FM2+",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$93.99"
+  },
+  {
+   "name": "ASRock Z170M-ITX/ac",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$110.98"
+  },
+  {
+   "name": "Asus X99-M WS",
+   "Socket": "LGA2011-3",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "price": "$263.99"
+  },
+  {
+   "name": "ASRock X99E-ITX/ac",
+   "Socket": "LGA2011-3 Narrow",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$253.99"
+  },
+  {
+   "name": "Gigabyte GA-X99-Designare EX",
+   "Socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "price": "$400.99"
+  },
+  {
+   "name": "MSI H110I PRO AC",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$77.98"
+  },
+  {
+   "name": "ASRock H97M-ITX/AC",
+   "Socket": "LGA1150",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$82.98"
+  },
+  {
+   "name": "MSI Z170A GAMING M9 ACK",
+   "Socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "price": "$346.50"
+  },
+  {
+   "name": "ASRock Fatal1ty Z170 Gaming-ITX/ac",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$157.89"
+  },
+  {
+   "name": "MSI A68HI AC",
+   "Socket": "FM2+",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$81.98"
+  },
+  {
+   "name": "Asus MAXIMUS VIII EXTREME/ASSEMBLY",
+   "Socket": "LGA1151",
+   "formFactor": "EATX",
+   "ramSlots": "4",
+   "price": "$453.98"
+  },
+  {
+   "name": "Gigabyte GA-H97N-WIFI",
+   "Socket": "LGA1150",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$116.99"
+  },
+  {
+   "name": "Gigabyte GA-B150N Phoenix-WIFI",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$117.98"
+  },
+  {
+   "name": "Asus RAMPAGE V EXTREME/U3",
+   "Socket": "LGA2011-3",
+   "formFactor": "EATX",
+   "ramSlots": "8",
+   "price": "$433.98"
+  },
+  {
+   "name": "MSI H170I Pro AC",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$112.98"
+  },
+  {
+   "name": "Asus Z170-PREMIUM",
+   "Socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "price": "$378.99"
+  },
+  {
+   "name": "MSI X99A GAMING 9 ACK",
+   "Socket": "LGA2011-3",
+   "formFactor": "EATX",
+   "ramSlots": "8",
+   "price": "$399.99"
+  },
+  {
+   "name": "Gigabyte GA-X99-Phoenix SLI",
+   "Socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "price": "$308.99"
+  },
+  {
+   "name": "MSI A88XI AC V2",
+   "Socket": "FM2+",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$92.98"
+  },
+  {
+   "name": "ASRock H170M-ITX/ac",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$97.98"
+  },
+  {
+   "name": "Asus X99-DELUXE/U3.1",
+   "Socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "price": "$378.99"
+  },
+  {
+   "name": "Asus X99-PRO/USB 3.1",
+   "Socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "price": "$306.60"
+  },
+  {
+   "name": "Asus H170I-PLUS D3",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$104.99"
+  },
+  {
+   "name": "Asus H170I-PRO/CSM",
+   "Socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "price": "$118.99"
+  },
+  {
+   "name": "Asus Z87-Deluxe",
+   "Socket": "LGA1150",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "price": "$289.99"
+  },
+  {
+   "name": "ASRock X99 Extreme6/ac",
+   "Socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "price": "$263.98"
+  },
+  {
+   "name": "Gigabyte GA-X99-UD5 WIFI",
+   "Socket": "LGA2011-3",
+   "formFactor": "EATX",
+   "ramSlots": "8",
+   "price": "$296.99"
+  },
+  {
+   "name": "MSI X99A XPOWER AC",
+   "Socket": "LGA2011-3",
+   "formFactor": "EATX",
+   "ramSlots": "8",
+   "price": "$404.98"
+  },
+  {
+   "name": "MSI X99S GAMING 9 AC",
+   "Socket": "LGA2011-3",
+   "formFactor": "EATX",
+   "ramSlots": "8"
+  },
+  {
+   "name": "ASRock Z87 Extreme9/ac",
+   "Socket": "LGA1150",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "price": "$442.00"
+  }
+ ]
+}
