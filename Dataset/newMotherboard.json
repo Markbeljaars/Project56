@@ -1,0 +1,803 @@
+ [
+  {
+   "name": "Asus Z170-A",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "151.99"
+  },
+  {
+   "name": "Gigabyte GA-H110M-A",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "53.88"
+  },
+  {
+   "name": "MSI Z170A SLI",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "89.98"
+  },
+  {
+   "name": "MSI Z170A GAMING M5",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "153.98"
+  },
+  {
+   "name": "MSI B150I GAMING PRO AC",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "71.98"
+  },
+  {
+   "name": "Asus Z170-E",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "91.98"
+  },
+  {
+   "name": "MSI 970 GAMING",
+   "socket": "AM3+",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "84.78"
+  },
+  {
+   "name": "Asus H110M-A/M.2",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "47.98"
+  },
+  {
+   "name": "Asus MAXIMUS VIII HERO",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "199.99"
+  },
+  {
+   "name": "MSI B150M MORTAR",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "69.99"
+  },
+  {
+   "name": "Asus M5A78L-M/USB3",
+   "socket": "AM3+",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "36.98"
+  },
+  {
+   "name": "Asus Rampage V Edition 10",
+   "socket": "LGA2011-3",
+   "formFactor": "EATX",
+   "ramSlots": "8",
+   "maxRam": "128GB",
+   "price": "549.99"
+  },
+  {
+   "name": "Asus Z170I PRO GAMING",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "160.99"
+  },
+  {
+   "name": "MSI A68HM-E33 V2",
+   "socket": "FM2+",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "36.98"
+  },
+  {
+   "name": "Asus Z170 PRO GAMING",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "142.98"
+  },
+  {
+   "name": "MSI H110M Gaming",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "69.88"
+  },
+  {
+   "name": "ASRock 970M PRO3",
+   "socket": "AM3+/AM3",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "51.98"
+  },
+  {
+   "name": "MSI H81M-P33",
+   "socket": "LGA1150",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "16GB",
+   "price": "41.88"
+  },
+  {
+   "name": "Asus SABERTOOTH Z170 S",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "179.99"
+  },
+  {
+   "name": "MSI Z97-GAMING 5",
+   "socket": "LGA1150",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "111.98"
+  },
+  {
+   "name": "ASRock Z170 Pro4S",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "82.98"
+  },
+  {
+   "name": "ASRock H110M-HDS",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "49.98"
+  },
+  {
+   "name": "MSI Z170A KRAIT GAMING 3X",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "133.98"
+  },
+  {
+   "name": "MSI B150 Gaming M3",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "96.88"
+  },
+  {
+   "name": "ASRock H110M-ITX/ac",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "67.99"
+  },
+  {
+   "name": "MSI H110M PRO-VD PLUS",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "43.98"
+  },
+  {
+   "name": "Asus X99-DELUXE II",
+   "socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "maxRam": "128GB",
+   "price": "393.99"
+  },
+  {
+   "name": "ASRock H170M Pro4",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "61.98"
+  },
+  {
+   "name": "Asus 970 PRO GAMING/AURA",
+   "socket": "AM3+",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "100.99"
+  },
+  {
+   "name": "Gigabyte GA-B150M-DS3H",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "56.98"
+  },
+  {
+   "name": "Asus ROG STRIX X99 GAMING",
+   "socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "maxRam": "128GB",
+   "price": "306.13"
+  },
+  {
+   "name": "Gigabyte GA-Z170MX-Gaming 5",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "134.17"
+  },
+  {
+   "name": "MSI H110I Pro",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "62.98"
+  },
+  {
+   "name": "ASRock 970 Pro3 R2.0",
+   "socket": "AM3+",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "49.98"
+  },
+  {
+   "name": "Asus X99-E-10G WS",
+   "socket": "LGA2011-3",
+   "formFactor": "SSI CEB",
+   "ramSlots": "8",
+   "maxRam": "128GB",
+   "price": "629.99"
+  },
+  {
+   "name": "Gigabyte GA-970A-D3P",
+   "socket": "AM3+/AM3",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "64.99"
+  },
+  {
+   "name": "Gigabyte GA-B85M-DS3H-A",
+   "socket": "LGA1150",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "54.98"
+  },
+  {
+   "name": "Gigabyte GA-78LMT-USB3",
+   "socket": "AM3+",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "51.98"
+  },
+  {
+   "name": "Asus ROG MAXIMUS VIII HERO ALPHA",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "227.98"
+  },
+  {
+   "name": "Gigabyte GA-Z170N-WIFI",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "134.99"
+  },
+  {
+   "name": "MSI Z170A GAMING PRO CARBON",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "139.99"
+  },
+  {
+   "name": "Asus Z170 PRO GAMING/AURA",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "153.99"
+  },
+  {
+   "name": "Intel DQ45EK",
+   "socket": "LGA775",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "4GB",
+   "price": "106.69"
+  },
+  {
+   "name": "Asus Z170-P",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "92.98"
+  },
+  {
+   "name": "MSI X99A GAMING PRO CARBON",
+   "socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "maxRam": "128GB",
+   "price": "319.99"
+  },
+  {
+   "name": "Gigabyte GA-H170-GAMING 3",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "103.98"
+  },
+  {
+   "name": "Asus MAXIMUS VIII FORMULA",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "343.99"
+  },
+  {
+   "name": "ASRock Z170M Pro4S",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "82.98"
+  },
+  {
+   "name": "MSI Z170A GAMING M7",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "182.98"
+  },
+  {
+   "name": "Asus H170 PRO GAMING",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "117.98"
+  },
+  {
+   "name": "MSI X99A GODLIKE GAMING CARBON",
+   "socket": "LGA2011-3",
+   "formFactor": "EATX",
+   "ramSlots": "8",
+   "maxRam": "128GB",
+   "price": "553.98"
+  },
+  {
+   "name": "ASRock FM2A88M PRO3+",
+   "socket": "FM2+",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "52.38"
+  },
+  {
+   "name": "Asus Z10PE-D16 WS",
+   "socket": "LGA2011-3 x 2",
+   "formFactor": "SSI EEB",
+   "ramSlots": "16",
+   "maxRam": "1TB",
+   "price": "469.99"
+  },
+  {
+   "name": "Gigabyte GA-H170N-WIFI",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "113.86"
+  },
+  {
+   "name": "Asus M5A99FX PRO R2.0",
+   "socket": "AM3+",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "117.98"
+  },
+  {
+   "name": "Asus M5A97 R2.0",
+   "socket": "AM3+",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "72.89"
+  },
+  {
+   "name": "Asus X99-A/USB 3.1",
+   "socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "maxRam": "64GB",
+   "price": "163.98"
+  },
+  {
+   "name": "Asus Z170-DELUXE",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "272.98"
+  },
+  {
+   "name": "MSI Z170A Tomahawk AC",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "119.99"
+  },
+  {
+   "name": "Gigabyte GA-Z170X-Gaming 7",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "190.99"
+  },
+  {
+   "name": "Gigabyte GA-F2A68HM-H",
+   "socket": "FM2+",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "64GB",
+   "price": "45.00"
+  },
+  {
+   "name": "Asus B150-PRO D3",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "62.98"
+  },
+  {
+   "name": "Gigabyte GA-Z170N-Gaming 5",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "149.95"
+  },
+  {
+   "name": "MSI Z97 PC MATE",
+   "socket": "LGA1150",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "88.88"
+  },
+  {
+   "name": "MSI Z170A SLI PLUS",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "137.84"
+  },
+  {
+   "name": "Gigabyte GA-H170M-D3H",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "89.88"
+  },
+  {
+   "name": "Asus MAXIMUS VIII GENE",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "205.99"
+  },
+  {
+   "name": "MSI Z170-A PRO",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "104.99"
+  },
+  {
+   "name": "Gigabyte GA-Z170M-D3H",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "98.99"
+  },
+  {
+   "name": "Asus B150 PRO GAMING/AURA",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "91.99"
+  },
+  {
+   "name": "EVGA Z170 Stinger",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "143.98"
+  },
+  {
+   "name": "MSI Z170M Mortar",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "108.99"
+  },
+  {
+   "name": "Asus Z97-A",
+   "socket": "LGA1150",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "138.99"
+  },
+  {
+   "name": "MSI Z97S SLI Krait Edition",
+   "socket": "LGA1150",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "108.99"
+  },
+  {
+   "name": "Asus Z10PE-D8 WS",
+   "socket": "LGA2011-3 x 2",
+   "formFactor": "SSI EEB",
+   "ramSlots": "8",
+   "maxRam": "512GB",
+   "price": "536.99"
+  },
+  {
+   "name": "ASRock Z97 Anniversary",
+   "socket": "LGA1150",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "72.98"
+  },
+  {
+   "name": "Asus B150I PRO GAMING/WIFI/AURA",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "122.99"
+  },
+  {
+   "name": "Asus P8H61-M LE/CSM R2.0",
+   "socket": "LGA1155",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "16GB",
+   "price": "59.99"
+  },
+  {
+   "name": "Asus X99-A II",
+   "socket": "LGA2011-3",
+   "formFactor": "ATX",
+   "ramSlots": "8",
+   "maxRam": "128GB",
+   "price": "233.99"
+  },
+  {
+   "name": "Gigabyte GA-H97M-D3H",
+   "socket": "LGA1150",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "81.99"
+  },
+  {
+   "name": "MSI H110M Pro-VD",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "53.98"
+  },
+  {
+   "name": "ECS KAM1-I(1.0)",
+   "socket": "AM1",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "16GB",
+   "price": "28.98"
+  },
+  {
+   "name": "MSI B150M MORTAR ARCTIC",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "76.98"
+  },
+  {
+   "name": "Asus MAXIMUS VIII IMPACT",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "234.99"
+  },
+  {
+   "name": "Asus B150M-A D3",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "64.88"
+  },
+  {
+   "name": "ASRock AM1B-M",
+   "socket": "AM1",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "29.99"
+  },
+  {
+   "name": "Gigabyte GA-Z170X-Gaming 5",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "155.58"
+  },
+  {
+   "name": "ASRock H110M-ITX",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "64.99"
+  },
+  {
+   "name": "Gigabyte GA-Z170X-Ultra Gaming",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "159.99"
+  },
+  {
+   "name": "Asus H110M-A",
+   "socket": "LGA1151",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "58.99"
+  },
+  {
+   "name": "MSI 970A SLI Krait Edition",
+   "socket": "AM3+",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "73.98"
+  },
+  {
+   "name": "Asus Sabertooth 990FX R2.0",
+   "socket": "AM3+",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "161.98"
+  },
+  {
+   "name": "MSI 990FXA-GAMING",
+   "socket": "AM3+/AM3",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "32GB",
+   "price": "120.13"
+  },
+  {
+   "name": "Gigabyte GA-Z170-HD3",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "100.49"
+  },
+  {
+   "name": "MSI Z170I GAMING PRO AC",
+   "socket": "LGA1151",
+   "formFactor": "Mini ITX",
+   "ramSlots": "2",
+   "maxRam": "32GB",
+   "price": "162.98"
+  },
+  {
+   "name": "MSI 760GMA-P34(FX)",
+   "socket": "AM3+",
+   "formFactor": "Micro ATX",
+   "ramSlots": "2",
+   "maxRam": "16GB",
+   "price": "56.98"
+  },
+  {
+   "name": "Asus SABERTOOTH Z170 MARK 1",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "239.99"
+  },
+  {
+   "name": "ASRock A88M-G/3.1",
+   "socket": "FM2+",
+   "formFactor": "Micro ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "69.88"
+  },
+  {
+   "name": "MSI Z170A PC MATE",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "112.98"
+  },
+  {
+   "name": "ASRock B150 Gaming K4",
+   "socket": "LGA1151",
+   "formFactor": "ATX",
+   "ramSlots": "4",
+   "maxRam": "64GB",
+   "price": "79.99"
+  }
+ ]
+
