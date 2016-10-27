@@ -1,797 +1,778 @@
  [
   {
-   "name": "Intel Core i7-6700K",
-   "series": "4.0GHz",
-   "chipset": "4",
-   "memory": "91W",
-   "core_clock": "(269)",
-   "price": "328.99"
-  },
-  {
-   "name": "Intel Core i5-6600K",
-   "series": "3.5GHz",
-   "chipset": "4",
-   "memory": "91W",
-   "core_clock": "(236)",
-   "price": "236.99"
-  },
-  {
-   "name": "Intel Core i5-6500",
-   "series": "3.2GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(119)",
-   "price": "194.88"
-  },
-  {
-   "name": "Intel Core i3-6100",
-   "series": "3.7GHz",
-   "chipset": "2",
-   "memory": "47W",
-   "core_clock": "(77)",
-   "price": "110.99"
-  },
-  {
-   "name": "Intel Core i5-6400",
-   "series": "2.7GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(16)",
-   "price": "174.99"
-  },
-  {
-   "name": "AMD FX-8350",
-   "series": "4.0GHz",
-   "chipset": "8",
-   "memory": "125W",
-   "core_clock": "(412)",
-   "price": "149.99"
-  },
-  {
-   "name": "AMD FX-6300",
-   "series": "3.5GHz",
-   "chipset": "6",
-   "memory": "95W",
-   "core_clock": "(490)",
-   "price": "94.89"
-  },
-  {
-   "name": "Intel Core i7-6700",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(14)",
-   "price": "293.99"
-  },
-  {
-   "name": "Intel Core i7-6800K",
-   "series": "3.4GHz",
-   "chipset": "6",
-   "memory": "140W",
-   "core_clock": "(5)",
-   "price": "428.99"
-  },
-  {
-   "name": "Intel Core i5-6600",
-   "series": "3.3GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(29)",
-   "price": "214.99"
-  },
-  {
-   "name": "Intel Core i7-6950X",
-   "series": "3.0GHz",
-   "chipset": "10",
-   "memory": "140W",
-   "core_clock": "(2)",
-   "price": "1649.99"
-  },
-  {
-   "name": "Intel Core i7-4790K",
-   "series": "4.0GHz",
-   "chipset": "4",
-   "memory": "88W",
-   "core_clock": "(549)",
-   "price": "334.99"
-  },
-  {
-   "name": "Intel Pentium G4400",
-   "series": "3.3GHz",
-   "chipset": "2",
-   "memory": "47W",
-   "core_clock": "(7)",
-   "price": "58.99"
-  },
-  {
-   "name": "Intel Core i5-4460",
-   "series": "3.2GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(80)",
-   "price": "175.99"
-  },
-  {
-   "name": "Intel Core i5-4690K",
-   "series": "3.5GHz",
-   "chipset": "4",
-   "memory": "88W",
-   "core_clock": "(554)",
-   "price": "231.99"
-  },
-  {
-   "name": "Intel Core i7-5820K",
-   "series": "3.3GHz",
-   "chipset": "6",
-   "memory": "140W",
-   "core_clock": "(106)",
-   "price": "368.99"
-  },
-  {
-   "name": "Intel Xeon E5-2699 V4 (OEM/Tray)",
-   "series": "2.2GHz",
-   "chipset": "22",
-   "memory": "145W",
-   "core_clock": "(0)",
-   "price": "4422.93"
-  },
-  {
-   "name": "Intel Core i7-6850K",
-   "series": "3.6GHz",
-   "chipset": "6",
-   "memory": "140W",
-   "core_clock": "(2)",
-   "price": "607.99"
-  },
-  {
-   "name": "AMD Athlon X4 845",
-   "series": "3.5GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(1)",
-   "price": "67.99"
-  },
-  {
-   "name": "Intel Core 2 Duo E8400 (OEM/Tray)",
-   "series": "3.0GHz",
-   "chipset": "2",
-   "memory": "65W",
-   "core_clock": "(3)",
-   "price": "14.35"
-  },
-  {
-   "name": "Intel Pentium G3258",
-   "series": "3.2GHz",
-   "chipset": "2",
-   "memory": "53W",
-   "core_clock": "(164)",
-   "price": "64.99"
-  },
-  {
-   "name": "AMD FX-9590 (OEM/Tray)",
-   "series": "4.7GHz",
-   "chipset": "8",
-   "memory": "220W",
-   "core_clock": "(25)",
-   "price": "214.99"
-  },
-  {
-   "name": "AMD FX-4350",
-   "series": "4.2GHz",
-   "chipset": "4",
-   "memory": "125W",
-   "core_clock": "(10)",
-   "price": "79.99"
-  },
-  {
-   "name": "AMD FX-4300",
-   "series": "3.8GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(28)",
-   "price": "77.89"
-  },
-  {
-   "name": "AMD FX-8320",
-   "series": "3.5GHz",
-   "chipset": "8",
-   "memory": "125W",
-   "core_clock": "(261)",
-   "price": "134.99"
-  },
-  {
-   "name": "Intel Core i7-6900K",
-   "series": "3.2GHz",
-   "chipset": "8",
-   "memory": "140W",
-   "core_clock": "(2)",
-   "price": "1041.99"
-  },
-  {
-   "name": "AMD Athlon X4 860K",
-   "series": "3.7GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(69)",
-   "price": "99.89"
-  },
-  {
-   "name": "Intel Core i5-4590",
-   "series": "3.3GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(89)",
-   "price": "189.99"
-  },
-  {
-   "name": "AMD Athlon X4 880K",
-   "series": "4.0GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(0)",
-   "price": "83.99"
-  },
-  {
-   "name": "AMD FX-8300",
-   "series": "3.3GHz",
-   "chipset": "8",
-   "memory": "95W",
-   "core_clock": "(3)",
-   "price": "114.99"
-  },
-  {
-   "name": "Intel Core i3-4160",
-   "series": "3.6GHz",
-   "chipset": "2",
-   "memory": "54W",
-   "core_clock": "(32)",
-   "price": "108.99"
-  },
-  {
-   "name": "Intel Core i3-6320",
-   "series": "3.9GHz",
-   "chipset": "2",
-   "memory": "47W",
-   "core_clock": "(1)",
-   "price": "158.99"
-  },
-  {
-   "name": "AMD 5350",
-   "series": "2.05Ghz",
-   "chipset": "4",
-   "memory": "25W",
-   "core_clock": "(22)",
-   "price": "36.99"
-  },
-  {
-   "name": "Intel Core i3-6300",
-   "series": "3.8GHz",
-   "chipset": "2",
-   "memory": "47W",
-   "core_clock": "(2)",
-   "price": "141.99"
-  },
-  {
-   "name": "Intel Core i5-4690",
-   "series": "3.5GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(44)",
-   "price": "209.99"
-  },
-  {
-   "name": "AMD A8-7600",
-   "series": "3.1GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(17)",
-   "price": "69.99"
-  },
-  {
-   "name": "Intel Core i7-4790K (OEM/Tray)",
-   "series": "4.0GHz",
-   "chipset": "4",
-   "memory": "88W",
-   "core_clock": "(5)",
-   "price": "284.99"
-  },
-  {
-   "name": "AMD A10-7700K",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(10)",
-   "price": "84.99"
-  },
-  {
-   "name": "Intel Core i5-2400",
-   "series": "3.1GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(10)",
-   "price": "160.54"
-  },
-  {
-   "name": "AMD FX-8320E",
-   "series": "3.2GHz",
-   "chipset": "8",
-   "memory": "95W",
-   "core_clock": "(28)",
-   "price": "118.99"
-  },
-  {
-   "name": "Intel Celeron G3900",
-   "series": "2.8GHz",
-   "chipset": "2",
-   "memory": "51W",
-   "core_clock": "(1)",
-   "price": "42.18"
-  },
-  {
-   "name": "Intel Core i7-4790",
-   "series": "3.6GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(37)",
-   "price": "303.88"
-  },
-  {
-   "name": "AMD A6-5400K",
-   "series": "3.6GHz",
-   "chipset": "2",
-   "memory": "65W",
-   "core_clock": "(12)",
-   "price": "36.88"
-  },
-  {
-   "name": "AMD 2650",
-   "series": "1.45Ghz",
-   "chipset": "2",
-   "memory": "25W",
-   "core_clock": "(2)",
-   "price": "25.99"
-  },
-  {
-   "name": "AMD FX-8370",
-   "series": "4.0GHz",
-   "chipset": "8",
-   "memory": "125W",
-   "core_clock": "(2)",
-   "price": "174.99"
-  },
-  {
-   "name": "AMD A10-7850K",
-   "series": "3.7GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(57)",
-   "price": "109.99"
-  },
-  {
-   "name": "Intel Core i7-5960X",
-   "series": "3.0GHz",
-   "chipset": "8",
-   "memory": "140W",
-   "core_clock": "(11)",
-   "price": "1007.99"
-  },
-  {
-   "name": "Intel Core i7-4770K",
-   "series": "3.5GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(486)",
-   "price": "338.99"
-  },
-  {
-   "name": "Intel Core i7-6700K (OEM/Tray)",
-   "series": "4.0GHz",
-   "chipset": "4",
-   "memory": "91W",
-   "core_clock": "(3)",
-   "price": "336.99"
-  },
-  {
-   "name": "AMD A10-7890K",
-   "series": "4.1GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(4)",
-   "price": "148.99"
-  },
-  {
-   "name": "Intel Celeron G1840",
-   "series": "2.8GHz",
-   "chipset": "2",
-   "memory": "53W",
-   "core_clock": "(3)",
-   "price": "39.99"
-  },
-  {
-   "name": "Intel Core i7-5930K",
-   "series": "3.5GHz",
-   "chipset": "6",
-   "memory": "140W",
-   "core_clock": "(34)",
-   "price": "571.99"
-  },
-  {
-   "name": "AMD FX-6350",
-   "series": "3.9GHz",
-   "chipset": "6",
-   "memory": "125W",
-   "core_clock": "(44)",
-   "price": "126.13"
-  },
-  {
-   "name": "Intel Core i5-3570K",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "77W",
-   "core_clock": "(464)"
-  },
-  {
-   "name": "Intel Core i3-4170",
-   "series": "3.7GHz",
-   "chipset": "2",
-   "memory": "54W",
-   "core_clock": "(21)",
-   "price": "117.88"
-  },
-  {
-   "name": "Intel Pentium G4500",
-   "series": "3.5GHz",
-   "chipset": "2",
-   "memory": "51W",
-   "core_clock": "(2)",
-   "price": "84.80"
-  },
-  {
-   "name": "AMD A10-7860k",
-   "series": "3.6GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(3)",
-   "price": "103.99"
-  },
-  {
-   "name": "Intel Xeon E3-1231 V3",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "80W",
-   "core_clock": "(27)",
-   "price": "239.99"
-  },
-  {
-   "name": "Intel Core i5-6500 (OEM/Tray)",
-   "series": "3.2GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(0)",
-   "price": "192.99"
-  },
-  {
-   "name": "Intel Core i5-4440",
-   "series": "3.1GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(35)",
-   "price": "178.88"
-  },
-  {
-   "name": "Intel Core i7-3770K",
-   "series": "3.5GHz",
-   "chipset": "4",
-   "memory": "77W",
-   "core_clock": "(212)"
-  },
-  {
-   "name": "Intel Core i5-2500K",
-   "series": "3.3GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(95)",
-   "price": "239.99"
-  },
-  {
-   "name": "AMD A4-6300",
-   "series": "3.7GHz",
-   "chipset": "2",
-   "memory": "65W",
-   "core_clock": "(7)",
-   "price": "33.33"
-  },
-  {
-   "name": "Intel Xeon E5-2620 V4",
-   "series": "2.1GHz",
-   "chipset": "8",
-   "memory": "85W",
-   "core_clock": "(2)",
-   "price": "407.99"
-  },
-  {
-   "name": "AMD FX-8370",
-   "series": "4.0GHz",
-   "chipset": "8",
-   "memory": "125W",
-   "core_clock": "(12)",
-   "price": "187.99"
-  },
-  {
-   "name": "AMD A10-6800K",
-   "series": "4.1GHz",
-   "chipset": "4",
-   "memory": "100W",
-   "core_clock": "(44)",
+   "name": "MSI GEFORCE GTX 1060 6GT OC",
+   "series": "6GT OC",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.54Ghz",
+   "price": "249.00"
+  },
+  {
+   "name": "EVGA 08G-P4-5173-KR",
+   "series": "SC GAMING",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.59Ghz",
+   "price": "389.99"
+  },
+  {
+   "name": "MSI GTX 1070 GAMING X 8G",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "418.39"
+  },
+  {
+   "name": "EVGA 08G-P4-6286",
+   "series": "FTW Gaming ACX 3.0",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.72Ghz",
+   "price": "679.99"
+  },
+  {
+   "name": "EVGA 03G-P4-6162",
+   "series": "SC GAMING",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.61Ghz",
+   "price": "199.99"
+  },
+  {
+   "name": "MSI RADEON RX 480 GAMING X 8G",
+   "series": "GAMING X",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "259.99"
+  },
+  {
+   "name": "EVGA 06G-P4-6163-KR",
+   "series": "SC GAMING",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.61Ghz",
+   "price": "244.98"
+  },
+  {
+   "name": "Gigabyte GV-RX460WF2OC-4GD",
+   "series": "WINDFORCE OC",
+   "chipset": "Radeon RX 460",
+   "memory": "4GB",
+   "coreclock": "1.09Ghz",
    "price": "119.99"
   },
   {
-   "name": "Intel Core i7-4770",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(35)",
-   "price": "297.99"
+   "name": "MSI GEFORCE GTX 1060 GAMING X 6G",
+   "series": "GAMING X",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.51Ghz",
+   "price": "271.99"
   },
   {
-   "name": "Intel Core i7-3770",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "77W",
-   "core_clock": "(31)",
-   "price": "453.00"
+   "name": "EVGA 06G-P4-6161-KR",
+   "series": "GAMING",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.51Ghz",
+   "price": "234.98"
   },
   {
-   "name": "AMD A6-6400K",
-   "series": "3.9GHz",
-   "chipset": "2",
-   "memory": "65W",
-   "core_clock": "(14)",
-   "price": "49.99"
+   "name": "EVGA 02G-P4-2958-KR",
+   "series": "FTW ACX 2.0",
+   "chipset": "GeForce GTX 950",
+   "memory": "2GB",
+   "coreclock": "1.20Ghz",
+   "price": "109.99"
   },
   {
-   "name": "Intel Core i3-540",
-   "series": "3.06Ghz",
-   "chipset": "2",
-   "memory": "73W",
-   "core_clock": "(2)",
-   "price": "73.82"
+   "name": "Asus ROG STRIX-GTX1070-O8G-GAMING",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.63Ghz",
+   "price": "434.98"
   },
   {
-   "name": "Intel Xeon E5-1620 V4",
-   "series": "3.5GHz",
-   "chipset": "4",
-   "memory": "140W",
-   "core_clock": "(0)",
-   "price": "286.99"
+   "name": "Asus ROG STRIX-GTX1080-8G-GAMING",
+   "series": "STRIX",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "629.99"
   },
   {
-   "name": "AMD A6-7400K",
-   "series": "3.5GHz",
-   "chipset": "2",
-   "memory": "65W",
-   "core_clock": "(6)",
-   "price": "49.99"
+   "name": "Asus STRIX-GTX750TI-OC-2GD5",
+   "series": "STRIX",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "2GB",
+   "coreclock": "1.12Ghz",
+   "price": "109.88"
   },
   {
-   "name": "Intel Core i5-4670K",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(545)"
+   "name": "MSI GTX 1080 GAMING X 8G",
+   "series": "GAMING X 8G",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "664.35"
   },
   {
-   "name": "Intel Xeon E5-2687W V4",
-   "series": "3.0GHz",
-   "chipset": "12",
-   "memory": "160W",
-   "core_clock": "(0)",
-   "price": "2048.99"
+   "name": "EVGA 08G-P4-6173-KR",
+   "series": "SC Gaming ACX 3.0",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.59Ghz",
+   "price": "389.99"
   },
   {
-   "name": "Intel Core i7-2600",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(11)",
-   "price": "387.74"
+   "name": "EVGA 03G-P4-6160-KR",
+   "series": "GAMING",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.51Ghz",
+   "price": "189.99"
   },
   {
-   "name": "Intel Core i5-6600 (OEM/Tray)",
-   "series": "3.3GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(0)",
+   "name": "Asus ROG STRIX-GTX1060-O6G-GAMING",
+   "series": "Strix",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.62Ghz",
+   "price": "309.99"
+  },
+  {
+   "name": "Gigabyte GV-N960WF2OC-4GD",
+   "chipset": "GeForce GTX 960",
+   "memory": "4GB",
+   "coreclock": "1.22Ghz",
+   "price": "193.98"
+  },
+  {
+   "name": "XFX RX-470P4SFD5",
+   "series": "Triple X",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "coreclock": "926MHz",
+   "price": "209.24"
+  },
+  {
+   "name": "EVGA 08G-P4-6276-KR",
+   "series": "FTW Gaming ACX 3.0",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "439.99"
+  },
+  {
+   "name": "Sapphire 11260-02",
+   "series": "NITRO+ 4G",
+   "chipset": "Radeon RX 480",
+   "memory": "4GB",
+   "coreclock": "1.21Ghz",
+   "price": "229.99"
+  },
+  {
+   "name": "PNY VCQM6000-24GB-PB",
+   "chipset": "Quadro M6000",
+   "memory": "24GB",
+   "coreclock": "988MHz",
+   "price": "4739.00"
+  },
+  {
+   "name": "Sapphire 11256-01",
+   "series": "NITRO+",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "coreclock": "1.14Ghz",
+   "price": "184.98"
+  },
+  {
+   "name": "Gigabyte GV-N1070G1-GAMING-8GD",
+   "series": "G1 Gaming",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.59Ghz",
+   "price": "408.99"
+  },
+  {
+   "name": "EVGA 08G-P4-6183",
+   "series": "Superclocked Gaming ACX 3.0",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.71Ghz",
+   "price": "644.99"
+  },
+  {
+   "name": "Gigabyte GV-N1060WF2OC-6GD",
+   "series": "WINDFORCE OC 6G",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.58Ghz",
+   "price": "239.99"
+  },
+  {
+   "name": "Asus STRIXGTX970DC2OC4GD5",
+   "series": "STRIX",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "coreclock": "1.11Ghz",
+   "price": "259.99"
+  },
+  {
+   "name": "Asus ROG STRIX-GTX1080-A8G-GAMING",
+   "series": "ROG STRIX",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.67Ghz",
+   "price": "669.99"
+  },
+  {
+   "name": "Asus DUAL-GTX1070-O8G",
+   "series": "Dual Series",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.58Ghz",
+   "price": "408.99"
+  },
+  {
+   "name": "EVGA 12G-P4-2992-KR",
+   "series": "Superclocked",
+   "chipset": "GeForce GTX Titan X",
+   "memory": "12GB",
+   "coreclock": "1.13Ghz",
+   "price": "2010.00"
+  },
+  {
+   "name": "Gigabyte GV-N1080G1 GAMING-8GD",
+   "series": "G1 Gaming",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.72Ghz",
+   "price": "618.99"
+  },
+  {
+   "name": "MSI RADEON RX 480 GAMING X 4G",
+   "series": "GAMING X",
+   "chipset": "Radeon RX 480",
+   "memory": "4GB",
+   "coreclock": "1.12Ghz",
+   "price": "229.15"
+  },
+  {
+   "name": "XFX RX-460P4DFG5",
+   "series": "Double Dissipation",
+   "chipset": "Radeon RX 460",
+   "memory": "4GB",
+   "coreclock": "1.09Ghz",
+   "price": "144.05"
+  },
+  {
+   "name": "EVGA 02G-P4-3757-KR",
+   "series": "FTW ACX",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "2GB",
+   "coreclock": "1.19Ghz",
+   "price": "103.98"
+  },
+  {
+   "name": "Asus DUAL-GTX1060-O3G",
+   "series": "Dual",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.59Ghz",
+   "price": "199.99"
+  },
+  {
+   "name": "PowerColor AXRX 480 8GBD5-3DH/OC",
+   "series": "Red Devil",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "259.98"
+  },
+  {
+   "name": "MSI Radeon RX 470 GAMING X 4G",
+   "series": "Gaming X",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "coreclock": "926MHz",
+   "price": "199.99"
+  },
+  {
+   "name": "Asus DUAL-GTX1060-O6G",
+   "series": "Dual",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.59Ghz",
+   "price": "259.99"
+  },
+  {
+   "name": "NVIDIA 9001G4132500001",
+   "series": "Founders Edition",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "699.99"
+  },
+  {
+   "name": "MSI GTX 1060 GAMING X 3G",
+   "series": "GAMING X 3G",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.59Ghz",
+   "price": "229.15"
+  },
+  {
+   "name": "Gigabyte GV-RX480D5-8GD-B",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "239.99"
+  },
+  {
+   "name": "Asus GTX750TI-OC-2GD5",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "2GB",
+   "coreclock": "1.07Ghz",
+   "price": "86.99"
+  },
+  {
+   "name": "Gigabyte GV-N1070IXOC-8GD",
+   "series": "Mini ITX OC",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.53Ghz",
+   "price": "384.98"
+  },
+  {
+   "name": "Asus TURBO-GTX1080-8G",
+   "series": "TURBO",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "599.99"
+  },
+  {
+   "name": "PowerColor AXRX 460 2GBD5-DH/OC",
+   "series": "Red Dragon",
+   "chipset": "Radeon RX 460",
+   "memory": "2GB",
+   "coreclock": "1.09Ghz",
+   "price": "89.98"
+  },
+  {
+   "name": "Gigabyte GV-N1080XTREME W-8GD",
+   "series": "Xtreme Gaming Water cooling",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.78Ghz",
+   "price": "776.98"
+  },
+  {
+   "name": "Asus ROG STRIX-GTX1070-8G-GAMING",
+   "series": "STRIX",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "428.99"
+  },
+  {
+   "name": "Gigabyte GV-N1060WF2OC-3GD",
+   "series": "Windforce OC",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.56Ghz",
+   "price": "204.98"
+  },
+  {
+   "name": "MSI GEFORCE GTX 1080 Founders Edition",
+   "series": "Founders Edition",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "658.15"
+  },
+  {
+   "name": "Zotac ZT-P10800C-10P",
+   "series": "AMP! Edition",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.68Ghz",
+   "price": "603.99"
+  },
+  {
+   "name": "Sapphire 11256-00",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "coreclock": "932MHz",
+   "price": "174.98"
+  },
+  {
+   "name": "Asus STRIX-GTX960-DC2OC-4GD5",
+   "chipset": "GeForce GTX 960",
+   "memory": "4GB",
+   "coreclock": "1.25Ghz",
    "price": "209.99"
   },
   {
-   "name": "Intel Xeon E5-2670",
-   "series": "2.6GHz",
-   "chipset": "8",
-   "memory": "115W",
-   "core_clock": "(0)",
-   "price": "1487.99"
+   "name": "Gigabyte GV-RX460WF2OC-2GD",
+   "series": "WINDFORCE OC",
+   "chipset": "Radeon RX 460",
+   "memory": "2GB",
+   "coreclock": "1.09Ghz",
+   "price": "104.98"
   },
   {
-   "name": "Intel Core i7-4770S",
-   "series": "3.1GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(5)",
-   "price": "279.99"
+   "name": "Zotac ZT-P10610A-10L",
+   "series": "Mini",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.51Ghz",
+   "price": "199.00"
   },
   {
-   "name": "Intel Xeon E5-2630 V4",
-   "series": "2.2GHz",
-   "chipset": "10",
-   "memory": "85W",
-   "core_clock": "(0)",
-   "price": "649.99"
+   "name": "Asus TURBO-GTX1070-8G",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "394.99"
   },
   {
-   "name": "AMD FX-9370 (OEM/Tray)",
-   "series": "4.4GHz",
-   "chipset": "8",
-   "memory": "220W",
-   "core_clock": "(8)",
-   "price": "191.98"
+   "name": "EVGA 02G-P4-3753-KR",
+   "series": "Superclocked",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "2GB",
+   "coreclock": "1.18Ghz",
+   "price": "98.98"
   },
   {
-   "name": "Intel Xeon E3-1230 V5",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "80W",
-   "core_clock": "(0)",
-   "price": "251.99"
+   "name": "MSI GTX 950 2GD5 OCV1",
+   "chipset": "GeForce GTX 950",
+   "memory": "2GB",
+   "coreclock": "1.08Ghz",
+   "price": "118.98"
   },
   {
-   "name": "AMD FX-8350",
-   "series": "4.0GHz",
-   "chipset": "8",
-   "memory": "125W",
-   "core_clock": "(0)",
-   "price": "165.99"
+   "name": "NVIDIA 900-1G600-2500-00",
+   "chipset": "GeForce GTX Titan X",
+   "memory": "12GB",
+   "coreclock": "1.0GHz",
+   "price": "1510.32"
   },
   {
-   "name": "Intel Core i3-6100 (OEM/Tray)",
-   "series": "3.7GHz",
-   "chipset": "2",
-   "memory": "47W",
-   "core_clock": "(0)",
-   "price": "112.99"
+   "name": "PNY VCGGTX10606PB",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.51Ghz",
+   "price": "247.99"
   },
   {
-   "name": "Intel Core i3-6100T",
-   "series": "3.2GHz",
-   "chipset": "2",
-   "memory": "35W",
-   "core_clock": "(0)",
-   "price": "129.98"
+   "name": "MSI GTX 970 GAMING 4G",
+   "series": "Twin Frozr V",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "coreclock": "1.14Ghz",
+   "price": "379.89"
   },
   {
-   "name": "Intel Xeon E5-2690 V4",
-   "series": "2.6GHz",
-   "chipset": "14",
-   "memory": "135W",
-   "core_clock": "(1)",
-   "price": "2015.99"
+   "name": "Sapphire 11260-01-20G",
+   "series": "NITRO+ OC",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.21Ghz",
+   "price": "278.49"
   },
   {
-   "name": "Intel Core i5-4670",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(44)",
-   "price": "222.99"
+   "name": "XFX RX-480P8DBA6",
+   "series": "GTR",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "284.98"
   },
   {
-   "name": "Intel Xeon E5-1650 V4",
-   "series": "3.6GHz",
-   "chipset": "6",
-   "memory": "140W",
-   "core_clock": "(0)",
-   "price": "601.99"
+   "name": "AMD FirePro 2270",
+   "chipset": "FirePro 2270",
+   "memory": "512MB",
+   "coreclock": "600MHz",
+   "price": "119.99"
   },
   {
-   "name": "Intel Core i5-4570",
-   "series": "3.2GHz",
-   "chipset": "4",
-   "memory": "84W",
-   "core_clock": "(76)",
-   "price": "192.99"
+   "name": "Asus ROG STRIX-RX460-4G-GAMING",
+   "series": "STRIX",
+   "chipset": "Radeon RX 460",
+   "memory": "4GB",
+   "coreclock": "1.09Ghz",
+   "price": "139.99"
   },
   {
-   "name": "AMD FX-6350",
-   "series": "3.9GHz",
-   "chipset": "6",
-   "memory": "125W",
-   "core_clock": "(1)",
-   "price": "134.99"
+   "name": "Zotac ZT-P10800B-10P",
+   "series": "AMP! Extreme",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.77Ghz",
+   "price": "680.99"
   },
   {
-   "name": "Intel Core i7-4790K",
-   "series": "4.0GHz",
-   "chipset": "4",
-   "memory": "88W",
-   "core_clock": "(2)",
-   "price": "364.98"
+   "name": "XFX RX-480M8BFA6",
+   "series": "XXX OC",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "249.99"
   },
   {
-   "name": "Intel Core i5-6402P",
-   "series": "2.8GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(0)",
-   "price": "202.70"
+   "name": "Asus TURBO-GTX1060-6G",
+   "series": "Turbo",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.51Ghz",
+   "price": "259.99"
   },
   {
-   "name": "Intel Core 2 Duo E8600 (OEM/Tray)",
-   "series": "3.33Ghz",
-   "chipset": "2",
-   "memory": "65W",
-   "core_clock": "(1)",
-   "price": "28.95"
+   "name": "MSI GeForce GTX 1080 ARMOR 8G OC",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.66Ghz",
+   "price": "629.99"
   },
   {
-   "name": "Intel Core i7-2600K",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "95W",
-   "core_clock": "(41)"
+   "name": "Asus STRIX-GTX1080-O8G-GAMING",
+   "series": "STRIX",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.76Ghz",
+   "price": "724.98"
   },
   {
-   "name": "AMD Athlon 5370",
-   "series": "2.2GHz",
-   "chipset": "4",
-   "memory": "25W",
-   "core_clock": "(1)",
-   "price": "55.44"
+   "name": "EVGA 06G-P4-6264-KR",
+   "series": "SSC GAMING",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.61Ghz",
+   "price": "264.98"
   },
   {
-   "name": "Intel Core 2 Quad Q6600 (OEM/Tray)",
-   "series": "2.4GHz",
-   "chipset": "4",
-   "memory": "100W",
-   "core_clock": "(6)",
-   "price": "74.99"
+   "name": "Gigabyte GV-N1070WF2OC-8GD",
+   "series": "Windforce OC",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.56Ghz",
+   "price": "389.99"
   },
   {
-   "name": "AMD FX-9590",
-   "series": "4.7GHz",
-   "chipset": "8",
-   "memory": "220W",
-   "core_clock": "(3)"
+   "name": "Gigabyte GV-RX470G1 GAMING-4GD",
+   "series": "G1 Gaming",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "coreclock": "926MHz",
+   "price": "193.99"
   },
   {
-   "name": "AMD Athlon X4 740",
-   "series": "3.2GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(4)"
+   "name": "Gigabyte GV-N1060G1 GAMING-6GD",
+   "series": "G1 Gaming",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.59Ghz",
+   "price": "274.98"
   },
   {
-   "name": "Intel Core i7-6700 (OEM/Tray)",
-   "series": "3.4GHz",
-   "chipset": "4",
-   "memory": "65W",
-   "core_clock": "(0)",
-   "price": "303.99"
+   "name": "PowerColor AX5450 1GBK3-SH",
+   "chipset": "Radeon HD 5450",
+   "memory": "1GB",
+   "coreclock": "650MHz",
+   "price": "17.98"
   },
   {
-   "name": "AMD FX-6200",
-   "series": "3.8GHz",
-   "chipset": "6",
-   "memory": "125W",
-   "core_clock": "(4)",
-   "price": "102.99"
+   "name": "Asus DUAL-RX480-O4G",
+   "series": "Dual",
+   "chipset": "Radeon RX 480",
+   "memory": "4GB",
+   "coreclock": "1.12Ghz",
+   "price": "229.54"
   },
   {
-   "name": "AMD Athlon II X2 220 (OEM/Tray)",
-   "series": "2.8GHz",
-   "chipset": "2",
-   "memory": "65W",
-   "core_clock": "(1)",
-   "price": "27.31"
+   "name": "Gigabyte GV-N1060D5-6GD",
+   "series": "D5 6G",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.51Ghz",
+   "price": "254.98"
+  },
+  {
+   "name": "Zotac ZT-P10600B-10M",
+   "series": "AMP! Edition",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.56Ghz",
+   "price": "275.99"
+  },
+  {
+   "name": "MSI GEFORCE GTX 1070 FOUNDERS EDITION",
+   "series": "Founders Edition",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "439.45"
+  },
+  {
+   "name": "EVGA 06G-P4-4990-KR",
+   "chipset": "GeForce GTX 980 Ti",
+   "memory": "6GB",
+   "coreclock": "1.0GHz",
+   "price": "429.99"
+  },
+  {
+   "name": "Zotac ZT-P10600A-10L",
+   "series": "Mini",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.51Ghz",
+   "price": "248.99"
+  },
+  {
+   "name": "Zotac ZT-90101-10P",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "coreclock": "1.08Ghz",
+   "price": "236.98"
+  },
+  {
+   "name": "EVGA 08G-P4-6274-KR",
+   "series": "FTW DT GAMING ACX 3.0",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "404.99"
+  },
+  {
+   "name": "PowerColor AXRX 470 4GBD5-3DH/OC",
+   "series": "Red Devil",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "coreclock": "926MHz",
+   "price": "174.98"
+  },
+  {
+   "name": "NVIDIA 9001G4112520001",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "449.99"
+  },
+  {
+   "name": "Zotac ZT-P10700C-10P",
+   "series": "AMP! Edition",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "413.99"
+  },
+  {
+   "name": "Sapphire 11257-00",
+   "chipset": "Radeon RX 460",
+   "memory": "2GB",
+   "coreclock": "1.09Ghz",
+   "price": "94.98"
+  },
+  {
+   "name": "EVGA 08G-P4-6288-KR",
+   "series": "FTW Hybrid Gaming",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.72Ghz",
+   "price": "729.99"
+  },
+  {
+   "name": "Asus ROG STRIX-RX480-O8G-GAMING",
+   "series": "ROG STRIX",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "284.98"
+  },
+  {
+   "name": "EVGA 02G-P4-2956-KR",
+   "series": "Superclocked+ ACX 2.0",
+   "chipset": "GeForce GTX 950",
+   "memory": "2GB",
+   "coreclock": "1.17Ghz",
+   "price": "139.99"
+  },
+  {
+   "name": "MSI R7 250 2GD3 OC",
+   "chipset": "Radeon R7 250",
+   "memory": "2GB",
+   "coreclock": "1.05Ghz",
+   "price": "66.98"
+  },
+  {
+   "name": "MSI GTX 1070 AERO 8G OC",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.53Ghz",
+   "price": "408.88"
+  },
+  {
+   "name": "Sapphire 11257-02",
+   "series": "NITRO",
+   "chipset": "Radeon RX 460",
+   "memory": "4GB",
+   "coreclock": "1.18Ghz",
+   "price": "114.99"
+  },
+  {
+   "name": "MSI GTX 1080 SEA HAWK X",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.71Ghz",
+   "price": "754.98"
+  },
+  {
+   "name": "Zotac ZT-70605-10M",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "2GB",
+   "coreclock": "1.03Ghz",
+   "price": "99.99"
+  },
+  {
+   "name": "XFX HD-545X-ZQH2",
+   "chipset": "Radeon HD 5450",
+   "memory": "1GB",
+   "coreclock": "650MHz",
+   "price": "27.99"
+  },
+  {
+   "name": "Gigabyte GV-N970WF3OC-4GD",
+   "series": "WINDFORCE 3X",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "coreclock": "1.11Ghz",
+   "price": "289.99"
+  },
+  {
+   "name": "EVGA 08G-P4-6386-KR",
+   "series": "CLASSIFIED GAMING ACX 3.0",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.72Ghz",
+   "price": "749.99"
+  },
+  {
+   "name": "Gigabyte GV-N1070XTREME-8GD",
+   "series": "Xtreme Gaming",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.67Ghz",
+   "price": "449.00"
+  },
+  {
+   "name": "MSI GeForce GTX 1070 ARMOR 8G OC",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.56Ghz",
+   "price": "439.83"
   }
  ]
 

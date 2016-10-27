@@ -1,697 +1,703 @@
-[
+ [
   {
-   "name": "Intel Core i7-6700K",
-   "speed": "4.0GHz",
+   "name": "AMD A10-7870K",
+   "speed": "3.9GHz",
    "cores": "4",
-   "TDP": "91W",
-   "price": "328.99"
+   "tdp": "95W",
+   "price": "143.88"
   },
   {
-   "name": "Intel Core i5-6600K",
-   "speed": "3.5GHz",
-   "cores": "4",
-   "TDP": "91W",
-   "price": "236.99"
-  },
-  {
-   "name": "Intel Core i5-6500",
-   "speed": "3.2GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "194.88"
-  },
-  {
-   "name": "Intel Core i3-6100",
-   "speed": "3.7GHz",
-   "cores": "2",
-   "TDP": "47W",
-   "price": "110.99"
-  },
-  {
-   "name": "Intel Core i5-6400",
-   "speed": "2.7GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "174.99"
-  },
-  {
-   "name": "AMD FX-8350",
-   "speed": "4.0GHz",
-   "cores": "8",
-   "TDP": "125W",
-   "price": "149.99"
-  },
-  {
-   "name": "AMD FX-6300",
-   "speed": "3.5GHz",
-   "cores": "6",
-   "TDP": "95W",
-   "price": "94.89"
-  },
-  {
-   "name": "Intel Core i7-6700",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "293.99"
-  },
-  {
-   "name": "Intel Core i7-6800K",
-   "speed": "3.4GHz",
-   "cores": "6",
-   "TDP": "140W",
-   "price": "428.99"
-  },
-  {
-   "name": "Intel Core i5-6600",
-   "speed": "3.3GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "214.99"
-  },
-  {
-   "name": "Intel Core i7-6950X",
+   "name": "Intel Pentium G860",
    "speed": "3.0GHz",
-   "cores": "10",
-   "TDP": "140W",
-   "price": "1649.99"
-  },
-  {
-   "name": "Intel Core i7-4790K",
-   "speed": "4.0GHz",
-   "cores": "4",
-   "TDP": "88W",
-   "price": "334.99"
-  },
-  {
-   "name": "Intel Pentium G4400",
-   "speed": "3.3GHz",
    "cores": "2",
-   "TDP": "47W",
-   "price": "58.99"
+   "tdp": "65W",
+   "price": "35.17"
   },
   {
-   "name": "Intel Core i5-4460",
-   "speed": "3.2GHz",
+   "name": "AMD 3850",
+   "speed": "1.3GHz",
    "cores": "4",
-   "TDP": "84W",
-   "price": "175.99"
+   "tdp": "25W",
+   "price": "29.99"
   },
   {
-   "name": "Intel Core i5-4690K",
-   "speed": "3.5GHz",
+   "name": "AMD Athlon X4 860K (OEM/Tray)",
+   "speed": "3.7GHz",
    "cores": "4",
-   "TDP": "88W",
-   "price": "231.99"
+   "tdp": "95W",
+   "price": "89.89"
   },
   {
-   "name": "Intel Core i7-5820K",
-   "speed": "3.3GHz",
+   "name": "Intel Xeon E5-2603 V3 (OEM/Tray)",
+   "speed": "1.6GHz",
    "cores": "6",
-   "TDP": "140W",
-   "price": "368.99"
+   "tdp": "85W",
+   "price": "188.59"
   },
   {
-   "name": "Intel Xeon E5-2699 V4 (OEM/Tray)",
-   "speed": "2.2GHz",
-   "cores": "22",
-   "TDP": "145W",
-   "price": "4422.93"
+   "name": "Intel Pentium G3250",
+   "speed": "3.2GHz",
+   "cores": "2",
+   "tdp": "53W",
+   "price": "54.99"
   },
   {
-   "name": "Intel Core i7-6850K",
+   "name": "Intel Core i3-4150",
+   "speed": "3.5GHz",
+   "cores": "2",
+   "tdp": "54W",
+   "price": "125.88"
+  },
+  {
+   "name": "Intel Xeon E5-2640 V4",
+   "speed": "2.4GHz",
+   "cores": "10",
+   "tdp": "90W",
+   "price": "918.99"
+  },
+  {
+   "name": "Intel Xeon E5-2650",
+   "speed": "2.0GHz",
+   "cores": "8",
+   "tdp": "95W",
+   "price": "256.00"
+  },
+  {
+   "name": "Intel Core i3-4370",
+   "speed": "3.8GHz",
+   "cores": "2",
+   "tdp": "54W",
+   "price": "142.99"
+  },
+  {
+   "name": "Intel Xeon E5-2603 V4",
+   "speed": "1.7GHz",
+   "cores": "6",
+   "tdp": "85W",
+   "price": "201.99"
+  },
+  {
+   "name": "AMD 5150",
+   "speed": "1.6GHz",
+   "cores": "4",
+   "tdp": "25W",
+   "price": "32.88"
+  },
+  {
+   "name": "Intel Core i3-560",
+   "speed": "3.33Ghz",
+   "cores": "2",
+   "tdp": "73W",
+   "price": "85.54"
+  },
+  {
+   "name": "Intel Core i7-4960X Extreme Edition",
    "speed": "3.6GHz",
    "cores": "6",
-   "TDP": "140W",
-   "price": "607.99"
+   "tdp": "130W",
+   "price": "1034.95"
   },
   {
-   "name": "AMD Athlon X4 845",
-   "speed": "3.5GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "67.99"
-  },
-  {
-   "name": "Intel Core 2 Duo E8400 (OEM/Tray)",
-   "speed": "3.0GHz",
+   "name": "Intel Pentium G3260",
+   "speed": "3.3GHz",
    "cores": "2",
-   "TDP": "65W",
-   "price": "14.35"
+   "tdp": "53W",
+   "price": "55.99"
   },
   {
-   "name": "Intel Pentium G3258",
-   "speed": "3.2GHz",
-   "cores": "2",
-   "TDP": "53W",
-   "price": "64.99"
-  },
-  {
-   "name": "AMD FX-9590 (OEM/Tray)",
-   "speed": "4.7GHz",
-   "cores": "8",
-   "TDP": "220W",
-   "price": "214.99"
-  },
-  {
-   "name": "AMD FX-4350",
-   "speed": "4.2GHz",
-   "cores": "4",
-   "TDP": "125W",
-   "price": "79.99"
-  },
-  {
-   "name": "AMD FX-4300",
-   "speed": "3.8GHz",
-   "cores": "4",
-   "TDP": "95W",
-   "price": "77.89"
-  },
-  {
-   "name": "AMD FX-8320",
-   "speed": "3.5GHz",
-   "cores": "8",
-   "TDP": "125W",
-   "price": "134.99"
-  },
-  {
-   "name": "Intel Core i7-6900K",
-   "speed": "3.2GHz",
-   "cores": "8",
-   "TDP": "140W",
-   "price": "1041.99"
-  },
-  {
-   "name": "AMD Athlon X4 860K",
-   "speed": "3.7GHz",
-   "cores": "4",
-   "TDP": "95W",
-   "price": "99.89"
-  },
-  {
-   "name": "Intel Core i5-4590",
+   "name": "Intel Core i7-5775C",
    "speed": "3.3GHz",
    "cores": "4",
-   "TDP": "84W",
+   "tdp": "65W",
+   "price": "357.23"
+  },
+  {
+   "name": "Intel Xeon E5-1620 V2 (OEM/Tray)",
+   "speed": "3.7GHz",
+   "cores": "4",
+   "tdp": "130W",
+   "price": "289.99"
+  },
+  {
+   "name": "Intel Core i7-3970X Extreme Edition",
+   "speed": "3.5GHz",
+   "cores": "6",
+   "tdp": "150W",
+   "price": "1206.98"
+  },
+  {
+   "name": "Intel Core i3-4130",
+   "speed": "3.4GHz",
+   "cores": "2",
+   "tdp": "54W",
+   "price": "139.67"
+  },
+  {
+   "name": "AMD Phenom II X6 1100T Black",
+   "speed": "3.3GHz",
+   "cores": "6",
+   "tdp": "125W",
+   "price": "355.00"
+  },
+  {
+   "name": "Intel Xeon E5-2690 V2",
+   "speed": "3.0GHz",
+   "cores": "10",
+   "tdp": "130W",
+   "price": "1969.99"
+  },
+  {
+   "name": "Intel Core 2 Quad Q6600",
+   "speed": "2.4GHz",
+   "cores": "4",
+   "tdp": "100W",
+   "price": "245.00"
+  },
+  {
+   "name": "Intel Core 2 Duo E6700 (OEM/Tray)",
+   "speed": "2.66Ghz",
+   "cores": "2",
+   "tdp": "65W",
+   "price": "26.45"
+  },
+  {
+   "name": "Intel Xeon E3-1220 V5",
+   "speed": "3.0GHz",
+   "cores": "4",
+   "tdp": "80W",
+   "price": "197.99"
+  },
+  {
+   "name": "Intel Core i5-4590S",
+   "speed": "3.0GHz",
+   "cores": "4",
+   "tdp": "65W",
    "price": "189.99"
   },
   {
-   "name": "AMD Athlon X4 880K",
-   "speed": "4.0GHz",
+   "name": "Intel Core i5-5675C",
+   "speed": "3.1GHz",
    "cores": "4",
-   "TDP": "95W",
-   "price": "83.99"
+   "tdp": "65W",
+   "price": "290.98"
   },
   {
-   "name": "AMD FX-8300",
+   "name": "AMD A10-7800",
+   "speed": "3.5GHz",
+   "cores": "4",
+   "tdp": "65W",
+   "price": "123.00"
+  },
+  {
+   "name": "Intel Xeon E5-1620 (OEM/Tray)",
+   "speed": "3.6GHz",
+   "cores": "4",
+   "tdp": "130W",
+   "price": "230.10"
+  },
+  {
+   "name": "Intel Core i5-2320",
+   "speed": "3.0GHz",
+   "cores": "4",
+   "tdp": "95W",
+   "price": "200.99"
+  },
+  {
+   "name": "Intel Core i5-3550",
    "speed": "3.3GHz",
-   "cores": "8",
-   "TDP": "95W",
-   "price": "114.99"
+   "cores": "4",
+   "tdp": "77W",
+   "price": "230.10"
   },
   {
-   "name": "Intel Core i3-4160",
+   "name": "Intel Core i5-2300",
+   "speed": "2.8GHz",
+   "cores": "4",
+   "tdp": "95W",
+   "price": "179.69"
+  },
+  {
+   "name": "AMD Athlon X2 370K",
+   "speed": "4.2GHz",
+   "cores": "2",
+   "tdp": "65W",
+   "price": "55.98"
+  },
+  {
+   "name": "Intel Core i3-6098P",
    "speed": "3.6GHz",
    "cores": "2",
-   "TDP": "54W",
-   "price": "108.99"
+   "tdp": "54W",
+   "price": "127.07"
   },
   {
-   "name": "Intel Core i3-6320",
-   "speed": "3.9GHz",
+   "name": "Intel Pentium G4520",
+   "speed": "3.6GHz",
    "cores": "2",
-   "TDP": "47W",
-   "price": "158.99"
+   "tdp": "47W",
+   "price": "105.98"
   },
   {
-   "name": "AMD 5350",
-   "speed": "2.05Ghz",
+   "name": "AMD Opteron 6378",
+   "speed": "2.4GHz",
+   "cores": "16",
+   "tdp": "115W",
+   "price": "827.99"
+  },
+  {
+   "name": "Intel Core i5-660",
+   "speed": "3.33Ghz",
+   "cores": "2",
+   "tdp": "73W",
+   "price": "168.44"
+  },
+  {
+   "name": "Intel Core i5-750",
+   "speed": "2.66Ghz",
    "cores": "4",
-   "TDP": "25W",
+   "tdp": "95W",
+   "price": "255.00"
+  },
+  {
+   "name": "Intel Core i3-4160 (OEM/Tray)",
+   "speed": "3.6GHz",
+   "cores": "2",
+   "tdp": "54W",
+   "price": "107.99"
+  },
+  {
+   "name": "Intel Xeon E3-1225 V5",
+   "speed": "3.3GHz",
+   "cores": "4",
+   "tdp": "80W",
+   "price": "214.99"
+  },
+  {
+   "name": "Intel Xeon E5-1620 V3",
+   "speed": "3.5GHz",
+   "cores": "4",
+   "tdp": "140W",
+   "price": "287.99"
+  },
+  {
+   "name": "Intel Core i3-2100",
+   "speed": "3.1GHz",
+   "cores": "2",
+   "tdp": "65W",
+   "price": "170.55"
+  },
+  {
+   "name": "Intel Core i5-2500",
+   "speed": "3.3GHz",
+   "cores": "4",
+   "tdp": "95W",
+   "price": "301.98"
+  },
+  {
+   "name": "Intel Xeon E5-2609 V4",
+   "speed": "1.7GHz",
+   "cores": "8",
+   "tdp": "85W",
+   "price": "301.99"
+  },
+  {
+   "name": "Intel Xeon E3-1240 V5",
+   "speed": "3.5GHz",
+   "cores": "4",
+   "tdp": "80W",
+   "price": "272.99"
+  },
+  {
+   "name": "Intel Core i3-6300T",
+   "speed": "3.3GHz",
+   "cores": "2",
+   "tdp": "35W",
+   "price": "160.49"
+  },
+  {
+   "name": "AMD A10-6700",
+   "speed": "3.7GHz",
+   "cores": "4",
+   "tdp": "65W",
+   "price": "128.98"
+  },
+  {
+   "name": "AMD Phenom II X4 820 (OEM/Tray)",
+   "speed": "2.8GHz",
+   "cores": "4",
+   "tdp": "95W",
+   "price": "75.07"
+  },
+  {
+   "name": "Intel Core i7-6850K (OEM/Tray)",
+   "speed": "3.6GHz",
+   "cores": "6",
+   "tdp": "140W",
+   "price": "652.96"
+  },
+  {
+   "name": "AMD FX-8320 (OEM/Tray)",
+   "speed": "3.5GHz",
+   "cores": "8",
+   "tdp": "125W",
+   "price": "169.89"
+  },
+  {
+   "name": "Intel Core 2 Duo E7400 (OEM/Tray)",
+   "speed": "2.8GHz",
+   "cores": "2",
+   "tdp": "65W",
+   "price": "45.44"
+  },
+  {
+   "name": "Intel Xeon E3-1275 V5",
+   "speed": "3.6GHz",
+   "cores": "4",
+   "tdp": "80W",
+   "price": "329.99"
+  },
+  {
+   "name": "Intel Celeron G1620",
+   "speed": "2.7GHz",
+   "cores": "2",
+   "tdp": "55W",
    "price": "36.99"
   },
   {
-   "name": "Intel Core i3-6300",
-   "speed": "3.8GHz",
-   "cores": "2",
-   "TDP": "47W",
-   "price": "141.99"
+   "name": "Intel Core i7-4770T (OEM/Tray)",
+   "speed": "2.5GHz",
+   "cores": "4",
+   "tdp": "45W",
+   "price": "376.65"
   },
   {
-   "name": "Intel Core i5-4690",
+   "name": "Intel Pentium G3460",
+   "speed": "3.5GHz",
+   "cores": "2",
+   "tdp": "53W",
+   "price": "88.98"
+  },
+  {
+   "name": "Intel Celeron G540",
+   "speed": "2.5GHz",
+   "cores": "2",
+   "tdp": "65W",
+   "price": "35.00"
+  },
+  {
+   "name": "Intel Core i3-3240",
+   "speed": "3.4GHz",
+   "cores": "2",
+   "tdp": "55W",
+   "price": "147.41"
+  },
+  {
+   "name": "Intel Xeon E3-1241 V3",
    "speed": "3.5GHz",
    "cores": "4",
-   "TDP": "84W",
-   "price": "209.99"
+   "tdp": "80W",
+   "price": "261.99"
   },
   {
-   "name": "AMD A8-7600",
+   "name": "Intel Xeon E3-1245 V5",
+   "speed": "3.5GHz",
+   "cores": "4",
+   "tdp": "80W",
+   "price": "283.99"
+  },
+  {
+   "name": "Intel Xeon E5-1650 V3",
+   "speed": "3.5GHz",
+   "cores": "6",
+   "tdp": "140W",
+   "price": "564.99"
+  },
+  {
+   "name": "Intel Xeon E5-2650 V4",
+   "speed": "2.2GHz",
+   "cores": "12",
+   "tdp": "105W",
+   "price": "1098.14"
+  },
+  {
+   "name": "Intel Xeon E3-1270 V5",
+   "speed": "3.6GHz",
+   "cores": "4",
+   "tdp": "80W",
+   "price": "319.99"
+  },
+  {
+   "name": "Intel Core i7-6800K (OEM/Tray)",
+   "speed": "3.4GHz",
+   "cores": "6",
+   "tdp": "140W",
+   "price": "545.99"
+  },
+  {
+   "name": "Intel Core i5-4570S",
+   "speed": "2.9GHz",
+   "cores": "4",
+   "tdp": "65W",
+   "price": "189.99"
+  },
+  {
+   "name": "Intel Xeon E5-1630 V3 (OEM/Tray)",
+   "speed": "3.7GHz",
+   "cores": "4",
+   "tdp": "140W",
+   "price": "375.99"
+  },
+  {
+   "name": "Intel Core i5-4570T",
+   "speed": "2.9GHz",
+   "cores": "2",
+   "tdp": "35W",
+   "price": "215.98"
+  },
+  {
+   "name": "Intel Xeon E5-2670 V3",
+   "speed": "2.3GHz",
+   "cores": "12",
+   "tdp": "120W",
+   "price": "1518.99"
+  },
+  {
+   "name": "Intel Core 2 Quad Q9400 (OEM/Tray)",
+   "speed": "2.66Ghz",
+   "cores": "4",
+   "tdp": "95W",
+   "price": "94.44"
+  },
+  {
+   "name": "Intel Celeron E1500 (OEM/Tray)",
+   "speed": "2.2GHz",
+   "cores": "2",
+   "tdp": "65W",
+   "price": "30.05"
+  },
+  {
+   "name": "Intel Xeon E5-1620 V3 (OEM/Tray)",
+   "speed": "3.5GHz",
+   "cores": "4",
+   "tdp": "140W",
+   "price": "288.99"
+  },
+  {
+   "name": "Intel Core i5-3470S",
+   "speed": "2.9GHz",
+   "cores": "4",
+   "tdp": "65W",
+   "price": "199.99"
+  },
+  {
+   "name": "Intel Xeon E5-2687W V3 (OEM/Tray)",
+   "speed": "3.1GHz",
+   "cores": "10",
+   "tdp": "160W",
+   "price": "2045.99"
+  },
+  {
+   "name": "AMD A8-7650K",
+   "speed": "3.3GHz",
+   "cores": "4",
+   "tdp": "95W",
+   "price": "119.88"
+  },
+  {
+   "name": "Intel Xeon E3-1220 V3",
    "speed": "3.1GHz",
    "cores": "4",
-   "TDP": "65W",
-   "price": "69.99"
+   "tdp": "80W",
+   "price": "201.46"
   },
   {
-   "name": "Intel Core i7-4790K (OEM/Tray)",
-   "speed": "4.0GHz",
+   "name": "Intel Xeon E5-2697 V4",
+   "speed": "2.3GHz",
+   "cores": "18",
+   "tdp": "145W",
+   "price": "2662.99"
+  },
+  {
+   "name": "Intel Xeon E5-2698 V4 (OEM/Tray)",
+   "speed": "2.2GHz",
+   "cores": "20",
+   "tdp": "135W",
+   "price": "3212.99"
+  },
+  {
+   "name": "Intel Core i3-530",
+   "speed": "2.93Ghz",
+   "cores": "2",
+   "tdp": "73W",
+   "price": "82.94"
+  },
+  {
+   "name": "AMD FX-8370E",
+   "speed": "3.3GHz",
+   "cores": "8",
+   "tdp": "95W",
+   "price": "189.99"
+  },
+  {
+   "name": "AMD Opteron 6344",
+   "speed": "2.6GHz",
+   "cores": "12",
+   "tdp": "115W",
+   "price": "408.99"
+  },
+  {
+   "name": "Intel Core i5-3450",
+   "speed": "3.1GHz",
    "cores": "4",
-   "TDP": "88W",
+   "tdp": "77W",
+   "price": "210.17"
+  },
+  {
+   "name": "Intel Core i7-960",
+   "speed": "3.2GHz",
+   "cores": "4",
+   "tdp": "130W",
+   "price": "321.91"
+  },
+  {
+   "name": "Intel Core i7-6900K (OEM/Tray)",
+   "speed": "3.2GHz",
+   "cores": "8",
+   "tdp": "140W",
+   "price": "1261.89"
+  },
+  {
+   "name": "Intel Xeon E5-2640 V3",
+   "speed": "2.6GHz",
+   "cores": "8",
+   "tdp": "90W",
+   "price": "899.99"
+  },
+  {
+   "name": "Intel Core 2 Quad Q8400 (OEM/Tray)",
+   "speed": "2.66Ghz",
+   "cores": "4",
+   "tdp": "95W",
+   "price": "81.99"
+  },
+  {
+   "name": "Intel Xeon E5-2683 V4",
+   "speed": "2.1GHz",
+   "cores": "16",
+   "tdp": "120W",
+   "price": "1867.95"
+  },
+  {
+   "name": "Intel Xeon E3-1271 V3",
+   "speed": "3.6GHz",
+   "cores": "4",
+   "tdp": "80W",
+   "price": "331.99"
+  },
+  {
+   "name": "Intel Core i5-4440S",
+   "speed": "2.8GHz",
+   "cores": "4",
+   "tdp": "65W",
+   "price": "189.46"
+  },
+  {
+   "name": "Intel Core 2 Duo E6550",
+   "speed": "2.33Ghz",
+   "cores": "2",
+   "tdp": "65W",
+   "price": "54.44"
+  },
+  {
+   "name": "Intel Xeon E5-1650 V3 (OEM/Tray)",
+   "speed": "3.5GHz",
+   "cores": "6",
+   "tdp": "140W",
+   "price": "564.99"
+  },
+  {
+   "name": "Intel Core i7-5930K (OEM/Tray)",
+   "speed": "3.5GHz",
+   "cores": "6",
+   "tdp": "140W",
+   "price": "721.04"
+  },
+  {
+   "name": "Intel Xeon E5-2667 V2 (OEM/Tray)",
+   "speed": "3.3GHz",
+   "cores": "8",
+   "tdp": "130W",
+   "price": "1899.99"
+  },
+  {
+   "name": "Intel Xeon E5-2699 V3 (OEM/Tray)",
+   "speed": "2.3GHz",
+   "cores": "18",
+   "tdp": "145W",
+   "price": "3550.46"
+  },
+  {
+   "name": "AMD Athlon X2 340",
+   "speed": "3.2GHz",
+   "cores": "2",
+   "tdp": "65W",
+   "price": "55.88"
+  },
+  {
+   "name": "Intel Core i5-4690S",
+   "speed": "3.2GHz",
+   "cores": "4",
+   "tdp": "65W",
+   "price": "217.99"
+  },
+  {
+   "name": "Intel Xeon E5-2697 V2",
+   "speed": "2.7GHz",
+   "cores": "12",
+   "tdp": "130W",
+   "price": "2479.99"
+  },
+  {
+   "name": "Intel Core 2 Extreme QX9770",
+   "speed": "3.2GHz",
+   "cores": "4",
+   "tdp": "136W",
+   "price": "1603.35"
+  },
+  {
+   "name": "Intel Xeon E5-2680 V4",
+   "speed": "2.4GHz",
+   "cores": "14",
+   "tdp": "120W",
+   "price": "1689.99"
+  },
+  {
+   "name": "Intel Xeon E5-2660 V4",
+   "speed": "2.0GHz",
+   "cores": "14",
+   "tdp": "105W",
+   "price": "1389.99"
+  },
+  {
+   "name": "AMD Opteron 6320",
+   "speed": "2.8GHz",
+   "cores": "8",
+   "tdp": "115W",
    "price": "284.99"
   },
   {
-   "name": "AMD A10-7700K",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "95W",
-   "price": "84.99"
-  },
-  {
-   "name": "Intel Core i5-2400",
-   "speed": "3.1GHz",
-   "cores": "4",
-   "TDP": "95W",
-   "price": "160.54"
-  },
-  {
-   "name": "AMD FX-8320E",
-   "speed": "3.2GHz",
-   "cores": "8",
-   "TDP": "95W",
-   "price": "118.99"
-  },
-  {
-   "name": "Intel Celeron G3900",
-   "speed": "2.8GHz",
-   "cores": "2",
-   "TDP": "51W",
-   "price": "42.18"
-  },
-  {
-   "name": "Intel Core i7-4790",
-   "speed": "3.6GHz",
-   "cores": "4",
-   "TDP": "84W",
-   "price": "303.88"
-  },
-  {
-   "name": "AMD A6-5400K",
-   "speed": "3.6GHz",
-   "cores": "2",
-   "TDP": "65W",
-   "price": "36.88"
-  },
-  {
-   "name": "AMD 2650",
-   "speed": "1.45Ghz",
-   "cores": "2",
-   "TDP": "25W",
-   "price": "25.99"
-  },
-  {
-   "name": "AMD FX-8370",
-   "speed": "4.0GHz",
-   "cores": "8",
-   "TDP": "125W",
-   "price": "174.99"
-  },
-  {
-   "name": "AMD A10-7850K",
-   "speed": "3.7GHz",
-   "cores": "4",
-   "TDP": "95W",
-   "price": "109.99"
-  },
-  {
-   "name": "Intel Core i7-5960X",
-   "speed": "3.0GHz",
-   "cores": "8",
-   "TDP": "140W",
-   "price": "1007.99"
-  },
-  {
-   "name": "Intel Core i7-4770K",
-   "speed": "3.5GHz",
-   "cores": "4",
-   "TDP": "84W",
-   "price": "338.99"
-  },
-  {
-   "name": "Intel Core i7-6700K (OEM/Tray)",
-   "speed": "4.0GHz",
-   "cores": "4",
-   "TDP": "91W",
-   "price": "336.99"
-  },
-  {
-   "name": "AMD A10-7890K",
-   "speed": "4.1GHz",
-   "cores": "4",
-   "TDP": "95W",
-   "price": "148.99"
-  },
-  {
-   "name": "Intel Celeron G1840",
-   "speed": "2.8GHz",
-   "cores": "2",
-   "TDP": "53W",
-   "price": "39.99"
-  },
-  {
-   "name": "Intel Core i7-5930K",
-   "speed": "3.5GHz",
-   "cores": "6",
-   "TDP": "140W",
-   "price": "571.99"
-  },
-  {
-   "name": "AMD FX-6350",
-   "speed": "3.9GHz",
-   "cores": "6",
-   "TDP": "125W",
-   "price": "126.13"
-  },
-  {
-   "name": "Intel Core i5-3570K",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "77W"
-  },
-  {
-   "name": "Intel Core i3-4170",
-   "speed": "3.7GHz",
-   "cores": "2",
-   "TDP": "54W",
-   "price": "117.88"
-  },
-  {
-   "name": "Intel Pentium G4500",
-   "speed": "3.5GHz",
-   "cores": "2",
-   "TDP": "51W",
-   "price": "84.80"
-  },
-  {
-   "name": "AMD A10-7860k",
-   "speed": "3.6GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "103.99"
-  },
-  {
-   "name": "Intel Xeon E3-1231 V3",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "80W",
-   "price": "239.99"
-  },
-  {
-   "name": "Intel Core i5-6500 (OEM/Tray)",
-   "speed": "3.2GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "192.99"
-  },
-  {
-   "name": "Intel Core i5-4440",
-   "speed": "3.1GHz",
-   "cores": "4",
-   "TDP": "84W",
-   "price": "178.88"
-  },
-  {
-   "name": "Intel Core i7-3770K",
-   "speed": "3.5GHz",
-   "cores": "4",
-   "TDP": "77W"
-  },
-  {
-   "name": "Intel Core i5-2500K",
-   "speed": "3.3GHz",
-   "cores": "4",
-   "TDP": "95W",
-   "price": "239.99"
-  },
-  {
-   "name": "AMD A4-6300",
-   "speed": "3.7GHz",
-   "cores": "2",
-   "TDP": "65W",
-   "price": "33.33"
-  },
-  {
-   "name": "Intel Xeon E5-2620 V4",
-   "speed": "2.1GHz",
-   "cores": "8",
-   "TDP": "85W",
-   "price": "407.99"
-  },
-  {
-   "name": "AMD FX-8370",
-   "speed": "4.0GHz",
-   "cores": "8",
-   "TDP": "125W",
-   "price": "187.99"
-  },
-  {
-   "name": "AMD A10-6800K",
-   "speed": "4.1GHz",
-   "cores": "4",
-   "TDP": "100W",
-   "price": "119.99"
-  },
-  {
-   "name": "Intel Core i7-4770",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "84W",
-   "price": "297.99"
-  },
-  {
-   "name": "Intel Core i7-3770",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "77W",
-   "price": "453.00"
-  },
-  {
-   "name": "AMD A6-6400K",
-   "speed": "3.9GHz",
-   "cores": "2",
-   "TDP": "65W",
-   "price": "49.99"
-  },
-  {
-   "name": "Intel Core i3-540",
-   "speed": "3.06Ghz",
-   "cores": "2",
-   "TDP": "73W",
-   "price": "73.82"
-  },
-  {
-   "name": "Intel Xeon E5-1620 V4",
-   "speed": "3.5GHz",
-   "cores": "4",
-   "TDP": "140W",
-   "price": "286.99"
-  },
-  {
-   "name": "AMD A6-7400K",
-   "speed": "3.5GHz",
-   "cores": "2",
-   "TDP": "65W",
-   "price": "49.99"
-  },
-  {
-   "name": "Intel Core i5-4670K",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "84W"
-  },
-  {
-   "name": "Intel Xeon E5-2687W V4",
-   "speed": "3.0GHz",
-   "cores": "12",
-   "TDP": "160W",
-   "price": "2048.99"
-  },
-  {
-   "name": "Intel Core i7-2600",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "95W",
-   "price": "387.74"
-  },
-  {
-   "name": "Intel Core i5-6600 (OEM/Tray)",
-   "speed": "3.3GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "209.99"
-  },
-  {
-   "name": "Intel Xeon E5-2670",
+   "name": "Intel Pentium E5300",
    "speed": "2.6GHz",
-   "cores": "8",
-   "TDP": "115W",
-   "price": "1487.99"
-  },
-  {
-   "name": "Intel Core i7-4770S",
-   "speed": "3.1GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "279.99"
-  },
-  {
-   "name": "Intel Xeon E5-2630 V4",
-   "speed": "2.2GHz",
-   "cores": "10",
-   "TDP": "85W",
-   "price": "649.99"
-  },
-  {
-   "name": "AMD FX-9370 (OEM/Tray)",
-   "speed": "4.4GHz",
-   "cores": "8",
-   "TDP": "220W",
-   "price": "191.98"
-  },
-  {
-   "name": "Intel Xeon E3-1230 V5",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "80W",
-   "price": "251.99"
-  },
-  {
-   "name": "AMD FX-8350",
-   "speed": "4.0GHz",
-   "cores": "8",
-   "TDP": "125W",
-   "price": "165.99"
-  },
-  {
-   "name": "Intel Core i3-6100 (OEM/Tray)",
-   "speed": "3.7GHz",
    "cores": "2",
-   "TDP": "47W",
-   "price": "112.99"
+   "tdp": "65W",
+   "price": "100.00"
   },
   {
-   "name": "Intel Core i3-6100T",
-   "speed": "3.2GHz",
-   "cores": "2",
-   "TDP": "35W",
-   "price": "129.98"
-  },
-  {
-   "name": "Intel Xeon E5-2690 V4",
-   "speed": "2.6GHz",
-   "cores": "14",
-   "TDP": "135W",
-   "price": "2015.99"
-  },
-  {
-   "name": "Intel Core i5-4670",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "84W",
-   "price": "222.99"
-  },
-  {
-   "name": "Intel Xeon E5-1650 V4",
+   "name": "Intel Core i3-4350",
    "speed": "3.6GHz",
-   "cores": "6",
-   "TDP": "140W",
-   "price": "601.99"
-  },
-  {
-   "name": "Intel Core i5-4570",
-   "speed": "3.2GHz",
-   "cores": "4",
-   "TDP": "84W",
-   "price": "192.99"
-  },
-  {
-   "name": "AMD FX-6350",
-   "speed": "3.9GHz",
-   "cores": "6",
-   "TDP": "125W",
-   "price": "134.99"
-  },
-  {
-   "name": "Intel Core i7-4790K",
-   "speed": "4.0GHz",
-   "cores": "4",
-   "TDP": "88W",
-   "price": "364.98"
-  },
-  {
-   "name": "Intel Core i5-6402P",
-   "speed": "2.8GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "202.70"
-  },
-  {
-   "name": "Intel Core 2 Duo E8600 (OEM/Tray)",
-   "speed": "3.33Ghz",
    "cores": "2",
-   "TDP": "65W",
-   "price": "28.95"
-  },
-  {
-   "name": "Intel Core i7-2600K",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "95W"
-  },
-  {
-   "name": "AMD Athlon 5370",
-   "speed": "2.2GHz",
-   "cores": "4",
-   "TDP": "25W",
-   "price": "55.44"
-  },
-  {
-   "name": "Intel Core 2 Quad Q6600 (OEM/Tray)",
-   "speed": "2.4GHz",
-   "cores": "4",
-   "TDP": "100W",
-   "price": "74.99"
-  },
-  {
-   "name": "AMD FX-9590",
-   "speed": "4.7GHz",
-   "cores": "8",
-   "TDP": "220W"
-  },
-  {
-   "name": "AMD Athlon X4 740",
-   "speed": "3.2GHz",
-   "cores": "4",
-   "TDP": "65W"
-  },
-  {
-   "name": "Intel Core i7-6700 (OEM/Tray)",
-   "speed": "3.4GHz",
-   "cores": "4",
-   "TDP": "65W",
-   "price": "303.99"
-  },
-  {
-   "name": "AMD FX-6200",
-   "speed": "3.8GHz",
-   "cores": "6",
-   "TDP": "125W",
-   "price": "102.99"
-  },
-  {
-   "name": "AMD Athlon II X2 220 (OEM/Tray)",
-   "speed": "2.8GHz",
-   "cores": "2",
-   "TDP": "65W",
-   "price": "27.31"
+   "tdp": "54W",
+   "price": "167.98"
   }
  ]
 
