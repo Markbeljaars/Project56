@@ -1,0 +1,797 @@
+ [
+  {
+   "name": "Intel Core i7-6700K",
+   "speed": "4.0GHz",
+   "type": "4",
+   "cas": "91W",
+   "modules": "(269)",
+   "price": "328.99"
+  },
+  {
+   "name": "Intel Core i5-6600K",
+   "speed": "3.5GHz",
+   "type": "4",
+   "cas": "91W",
+   "modules": "(236)",
+   "price": "236.99"
+  },
+  {
+   "name": "Intel Core i5-6500",
+   "speed": "3.2GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(119)",
+   "price": "194.88"
+  },
+  {
+   "name": "Intel Core i3-6100",
+   "speed": "3.7GHz",
+   "type": "2",
+   "cas": "47W",
+   "modules": "(77)",
+   "price": "110.99"
+  },
+  {
+   "name": "Intel Core i5-6400",
+   "speed": "2.7GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(16)",
+   "price": "174.99"
+  },
+  {
+   "name": "AMD FX-8350",
+   "speed": "4.0GHz",
+   "type": "8",
+   "cas": "125W",
+   "modules": "(412)",
+   "price": "149.99"
+  },
+  {
+   "name": "AMD FX-6300",
+   "speed": "3.5GHz",
+   "type": "6",
+   "cas": "95W",
+   "modules": "(490)",
+   "price": "94.89"
+  },
+  {
+   "name": "Intel Core i7-6700",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(14)",
+   "price": "293.99"
+  },
+  {
+   "name": "Intel Core i7-6800K",
+   "speed": "3.4GHz",
+   "type": "6",
+   "cas": "140W",
+   "modules": "(5)",
+   "price": "428.99"
+  },
+  {
+   "name": "Intel Core i5-6600",
+   "speed": "3.3GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(29)",
+   "price": "214.99"
+  },
+  {
+   "name": "Intel Core i7-6950X",
+   "speed": "3.0GHz",
+   "type": "10",
+   "cas": "140W",
+   "modules": "(2)",
+   "price": "1649.99"
+  },
+  {
+   "name": "Intel Core i7-4790K",
+   "speed": "4.0GHz",
+   "type": "4",
+   "cas": "88W",
+   "modules": "(549)",
+   "price": "334.99"
+  },
+  {
+   "name": "Intel Pentium G4400",
+   "speed": "3.3GHz",
+   "type": "2",
+   "cas": "47W",
+   "modules": "(7)",
+   "price": "58.99"
+  },
+  {
+   "name": "Intel Core i5-4460",
+   "speed": "3.2GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(80)",
+   "price": "175.99"
+  },
+  {
+   "name": "Intel Core i5-4690K",
+   "speed": "3.5GHz",
+   "type": "4",
+   "cas": "88W",
+   "modules": "(554)",
+   "price": "231.99"
+  },
+  {
+   "name": "Intel Core i7-5820K",
+   "speed": "3.3GHz",
+   "type": "6",
+   "cas": "140W",
+   "modules": "(106)",
+   "price": "368.99"
+  },
+  {
+   "name": "Intel Xeon E5-2699 V4 (OEM/Tray)",
+   "speed": "2.2GHz",
+   "type": "22",
+   "cas": "145W",
+   "modules": "(0)",
+   "price": "4422.93"
+  },
+  {
+   "name": "Intel Core i7-6850K",
+   "speed": "3.6GHz",
+   "type": "6",
+   "cas": "140W",
+   "modules": "(2)",
+   "price": "607.99"
+  },
+  {
+   "name": "AMD Athlon X4 845",
+   "speed": "3.5GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(1)",
+   "price": "67.99"
+  },
+  {
+   "name": "Intel Core 2 Duo E8400 (OEM/Tray)",
+   "speed": "3.0GHz",
+   "type": "2",
+   "cas": "65W",
+   "modules": "(3)",
+   "price": "14.35"
+  },
+  {
+   "name": "Intel Pentium G3258",
+   "speed": "3.2GHz",
+   "type": "2",
+   "cas": "53W",
+   "modules": "(164)",
+   "price": "64.99"
+  },
+  {
+   "name": "AMD FX-9590 (OEM/Tray)",
+   "speed": "4.7GHz",
+   "type": "8",
+   "cas": "220W",
+   "modules": "(25)",
+   "price": "214.99"
+  },
+  {
+   "name": "AMD FX-4350",
+   "speed": "4.2GHz",
+   "type": "4",
+   "cas": "125W",
+   "modules": "(10)",
+   "price": "79.99"
+  },
+  {
+   "name": "AMD FX-4300",
+   "speed": "3.8GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(28)",
+   "price": "77.89"
+  },
+  {
+   "name": "AMD FX-8320",
+   "speed": "3.5GHz",
+   "type": "8",
+   "cas": "125W",
+   "modules": "(261)",
+   "price": "134.99"
+  },
+  {
+   "name": "Intel Core i7-6900K",
+   "speed": "3.2GHz",
+   "type": "8",
+   "cas": "140W",
+   "modules": "(2)",
+   "price": "1041.99"
+  },
+  {
+   "name": "AMD Athlon X4 860K",
+   "speed": "3.7GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(69)",
+   "price": "99.89"
+  },
+  {
+   "name": "Intel Core i5-4590",
+   "speed": "3.3GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(89)",
+   "price": "189.99"
+  },
+  {
+   "name": "AMD Athlon X4 880K",
+   "speed": "4.0GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(0)",
+   "price": "83.99"
+  },
+  {
+   "name": "AMD FX-8300",
+   "speed": "3.3GHz",
+   "type": "8",
+   "cas": "95W",
+   "modules": "(3)",
+   "price": "114.99"
+  },
+  {
+   "name": "Intel Core i3-4160",
+   "speed": "3.6GHz",
+   "type": "2",
+   "cas": "54W",
+   "modules": "(32)",
+   "price": "108.99"
+  },
+  {
+   "name": "Intel Core i3-6320",
+   "speed": "3.9GHz",
+   "type": "2",
+   "cas": "47W",
+   "modules": "(1)",
+   "price": "158.99"
+  },
+  {
+   "name": "AMD 5350",
+   "speed": "2.05Ghz",
+   "type": "4",
+   "cas": "25W",
+   "modules": "(22)",
+   "price": "36.99"
+  },
+  {
+   "name": "Intel Core i3-6300",
+   "speed": "3.8GHz",
+   "type": "2",
+   "cas": "47W",
+   "modules": "(2)",
+   "price": "141.99"
+  },
+  {
+   "name": "Intel Core i5-4690",
+   "speed": "3.5GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(44)",
+   "price": "209.99"
+  },
+  {
+   "name": "AMD A8-7600",
+   "speed": "3.1GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(17)",
+   "price": "69.99"
+  },
+  {
+   "name": "Intel Core i7-4790K (OEM/Tray)",
+   "speed": "4.0GHz",
+   "type": "4",
+   "cas": "88W",
+   "modules": "(5)",
+   "price": "284.99"
+  },
+  {
+   "name": "AMD A10-7700K",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(10)",
+   "price": "84.99"
+  },
+  {
+   "name": "Intel Core i5-2400",
+   "speed": "3.1GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(10)",
+   "price": "160.54"
+  },
+  {
+   "name": "AMD FX-8320E",
+   "speed": "3.2GHz",
+   "type": "8",
+   "cas": "95W",
+   "modules": "(28)",
+   "price": "118.99"
+  },
+  {
+   "name": "Intel Celeron G3900",
+   "speed": "2.8GHz",
+   "type": "2",
+   "cas": "51W",
+   "modules": "(1)",
+   "price": "42.18"
+  },
+  {
+   "name": "Intel Core i7-4790",
+   "speed": "3.6GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(37)",
+   "price": "303.88"
+  },
+  {
+   "name": "AMD A6-5400K",
+   "speed": "3.6GHz",
+   "type": "2",
+   "cas": "65W",
+   "modules": "(12)",
+   "price": "36.88"
+  },
+  {
+   "name": "AMD 2650",
+   "speed": "1.45Ghz",
+   "type": "2",
+   "cas": "25W",
+   "modules": "(2)",
+   "price": "25.99"
+  },
+  {
+   "name": "AMD FX-8370",
+   "speed": "4.0GHz",
+   "type": "8",
+   "cas": "125W",
+   "modules": "(2)",
+   "price": "174.99"
+  },
+  {
+   "name": "AMD A10-7850K",
+   "speed": "3.7GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(57)",
+   "price": "109.99"
+  },
+  {
+   "name": "Intel Core i7-5960X",
+   "speed": "3.0GHz",
+   "type": "8",
+   "cas": "140W",
+   "modules": "(11)",
+   "price": "1007.99"
+  },
+  {
+   "name": "Intel Core i7-4770K",
+   "speed": "3.5GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(486)",
+   "price": "338.99"
+  },
+  {
+   "name": "Intel Core i7-6700K (OEM/Tray)",
+   "speed": "4.0GHz",
+   "type": "4",
+   "cas": "91W",
+   "modules": "(3)",
+   "price": "336.99"
+  },
+  {
+   "name": "AMD A10-7890K",
+   "speed": "4.1GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(4)",
+   "price": "148.99"
+  },
+  {
+   "name": "Intel Celeron G1840",
+   "speed": "2.8GHz",
+   "type": "2",
+   "cas": "53W",
+   "modules": "(3)",
+   "price": "39.99"
+  },
+  {
+   "name": "Intel Core i7-5930K",
+   "speed": "3.5GHz",
+   "type": "6",
+   "cas": "140W",
+   "modules": "(34)",
+   "price": "571.99"
+  },
+  {
+   "name": "AMD FX-6350",
+   "speed": "3.9GHz",
+   "type": "6",
+   "cas": "125W",
+   "modules": "(44)",
+   "price": "126.13"
+  },
+  {
+   "name": "Intel Core i5-3570K",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "77W",
+   "modules": "(464)"
+  },
+  {
+   "name": "Intel Core i3-4170",
+   "speed": "3.7GHz",
+   "type": "2",
+   "cas": "54W",
+   "modules": "(21)",
+   "price": "117.88"
+  },
+  {
+   "name": "Intel Pentium G4500",
+   "speed": "3.5GHz",
+   "type": "2",
+   "cas": "51W",
+   "modules": "(2)",
+   "price": "84.80"
+  },
+  {
+   "name": "AMD A10-7860k",
+   "speed": "3.6GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(3)",
+   "price": "103.99"
+  },
+  {
+   "name": "Intel Xeon E3-1231 V3",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "80W",
+   "modules": "(27)",
+   "price": "239.99"
+  },
+  {
+   "name": "Intel Core i5-6500 (OEM/Tray)",
+   "speed": "3.2GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(0)",
+   "price": "192.99"
+  },
+  {
+   "name": "Intel Core i5-4440",
+   "speed": "3.1GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(35)",
+   "price": "178.88"
+  },
+  {
+   "name": "Intel Core i7-3770K",
+   "speed": "3.5GHz",
+   "type": "4",
+   "cas": "77W",
+   "modules": "(212)"
+  },
+  {
+   "name": "Intel Core i5-2500K",
+   "speed": "3.3GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(95)",
+   "price": "239.99"
+  },
+  {
+   "name": "AMD A4-6300",
+   "speed": "3.7GHz",
+   "type": "2",
+   "cas": "65W",
+   "modules": "(7)",
+   "price": "33.33"
+  },
+  {
+   "name": "Intel Xeon E5-2620 V4",
+   "speed": "2.1GHz",
+   "type": "8",
+   "cas": "85W",
+   "modules": "(2)",
+   "price": "407.99"
+  },
+  {
+   "name": "AMD FX-8370",
+   "speed": "4.0GHz",
+   "type": "8",
+   "cas": "125W",
+   "modules": "(12)",
+   "price": "187.99"
+  },
+  {
+   "name": "AMD A10-6800K",
+   "speed": "4.1GHz",
+   "type": "4",
+   "cas": "100W",
+   "modules": "(44)",
+   "price": "119.99"
+  },
+  {
+   "name": "Intel Core i7-4770",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(35)",
+   "price": "297.99"
+  },
+  {
+   "name": "Intel Core i7-3770",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "77W",
+   "modules": "(31)",
+   "price": "453.00"
+  },
+  {
+   "name": "AMD A6-6400K",
+   "speed": "3.9GHz",
+   "type": "2",
+   "cas": "65W",
+   "modules": "(14)",
+   "price": "49.99"
+  },
+  {
+   "name": "Intel Core i3-540",
+   "speed": "3.06Ghz",
+   "type": "2",
+   "cas": "73W",
+   "modules": "(2)",
+   "price": "73.82"
+  },
+  {
+   "name": "Intel Xeon E5-1620 V4",
+   "speed": "3.5GHz",
+   "type": "4",
+   "cas": "140W",
+   "modules": "(0)",
+   "price": "286.99"
+  },
+  {
+   "name": "AMD A6-7400K",
+   "speed": "3.5GHz",
+   "type": "2",
+   "cas": "65W",
+   "modules": "(6)",
+   "price": "49.99"
+  },
+  {
+   "name": "Intel Core i5-4670K",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(545)"
+  },
+  {
+   "name": "Intel Xeon E5-2687W V4",
+   "speed": "3.0GHz",
+   "type": "12",
+   "cas": "160W",
+   "modules": "(0)",
+   "price": "2048.99"
+  },
+  {
+   "name": "Intel Core i7-2600",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(11)",
+   "price": "387.74"
+  },
+  {
+   "name": "Intel Core i5-6600 (OEM/Tray)",
+   "speed": "3.3GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(0)",
+   "price": "209.99"
+  },
+  {
+   "name": "Intel Xeon E5-2670",
+   "speed": "2.6GHz",
+   "type": "8",
+   "cas": "115W",
+   "modules": "(0)",
+   "price": "1487.99"
+  },
+  {
+   "name": "Intel Core i7-4770S",
+   "speed": "3.1GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(5)",
+   "price": "279.99"
+  },
+  {
+   "name": "Intel Xeon E5-2630 V4",
+   "speed": "2.2GHz",
+   "type": "10",
+   "cas": "85W",
+   "modules": "(0)",
+   "price": "649.99"
+  },
+  {
+   "name": "AMD FX-9370 (OEM/Tray)",
+   "speed": "4.4GHz",
+   "type": "8",
+   "cas": "220W",
+   "modules": "(8)",
+   "price": "191.98"
+  },
+  {
+   "name": "Intel Xeon E3-1230 V5",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "80W",
+   "modules": "(0)",
+   "price": "251.99"
+  },
+  {
+   "name": "AMD FX-8350",
+   "speed": "4.0GHz",
+   "type": "8",
+   "cas": "125W",
+   "modules": "(0)",
+   "price": "165.99"
+  },
+  {
+   "name": "Intel Core i3-6100 (OEM/Tray)",
+   "speed": "3.7GHz",
+   "type": "2",
+   "cas": "47W",
+   "modules": "(0)",
+   "price": "112.99"
+  },
+  {
+   "name": "Intel Core i3-6100T",
+   "speed": "3.2GHz",
+   "type": "2",
+   "cas": "35W",
+   "modules": "(0)",
+   "price": "129.98"
+  },
+  {
+   "name": "Intel Xeon E5-2690 V4",
+   "speed": "2.6GHz",
+   "type": "14",
+   "cas": "135W",
+   "modules": "(1)",
+   "price": "2015.99"
+  },
+  {
+   "name": "Intel Core i5-4670",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(44)",
+   "price": "222.99"
+  },
+  {
+   "name": "Intel Xeon E5-1650 V4",
+   "speed": "3.6GHz",
+   "type": "6",
+   "cas": "140W",
+   "modules": "(0)",
+   "price": "601.99"
+  },
+  {
+   "name": "Intel Core i5-4570",
+   "speed": "3.2GHz",
+   "type": "4",
+   "cas": "84W",
+   "modules": "(76)",
+   "price": "192.99"
+  },
+  {
+   "name": "AMD FX-6350",
+   "speed": "3.9GHz",
+   "type": "6",
+   "cas": "125W",
+   "modules": "(1)",
+   "price": "134.99"
+  },
+  {
+   "name": "Intel Core i7-4790K",
+   "speed": "4.0GHz",
+   "type": "4",
+   "cas": "88W",
+   "modules": "(2)",
+   "price": "364.98"
+  },
+  {
+   "name": "Intel Core i5-6402P",
+   "speed": "2.8GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(0)",
+   "price": "202.70"
+  },
+  {
+   "name": "Intel Core 2 Duo E8600 (OEM/Tray)",
+   "speed": "3.33Ghz",
+   "type": "2",
+   "cas": "65W",
+   "modules": "(1)",
+   "price": "28.95"
+  },
+  {
+   "name": "Intel Core i7-2600K",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "95W",
+   "modules": "(41)"
+  },
+  {
+   "name": "AMD Athlon 5370",
+   "speed": "2.2GHz",
+   "type": "4",
+   "cas": "25W",
+   "modules": "(1)",
+   "price": "55.44"
+  },
+  {
+   "name": "Intel Core 2 Quad Q6600 (OEM/Tray)",
+   "speed": "2.4GHz",
+   "type": "4",
+   "cas": "100W",
+   "modules": "(6)",
+   "price": "74.99"
+  },
+  {
+   "name": "AMD FX-9590",
+   "speed": "4.7GHz",
+   "type": "8",
+   "cas": "220W",
+   "modules": "(3)"
+  },
+  {
+   "name": "AMD Athlon X4 740",
+   "speed": "3.2GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(4)"
+  },
+  {
+   "name": "Intel Core i7-6700 (OEM/Tray)",
+   "speed": "3.4GHz",
+   "type": "4",
+   "cas": "65W",
+   "modules": "(0)",
+   "price": "303.99"
+  },
+  {
+   "name": "AMD FX-6200",
+   "speed": "3.8GHz",
+   "type": "6",
+   "cas": "125W",
+   "modules": "(4)",
+   "price": "102.99"
+  },
+  {
+   "name": "AMD Athlon II X2 220 (OEM/Tray)",
+   "speed": "2.8GHz",
+   "type": "2",
+   "cas": "65W",
+   "modules": "(1)",
+   "price": "27.31"
+  }
+ ]
+

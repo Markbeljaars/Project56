@@ -1,0 +1,797 @@
+ [
+  {
+   "name": "Intel Core i7-6700K",
+   "type": "4.0GHz",
+   "ext5": "4",
+   "int3": "91W",
+   "powersupply": "(269)",
+   "price": "328.99"
+  },
+  {
+   "name": "Intel Core i5-6600K",
+   "type": "3.5GHz",
+   "ext5": "4",
+   "int3": "91W",
+   "powersupply": "(236)",
+   "price": "236.99"
+  },
+  {
+   "name": "Intel Core i5-6500",
+   "type": "3.2GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(119)",
+   "price": "194.88"
+  },
+  {
+   "name": "Intel Core i3-6100",
+   "type": "3.7GHz",
+   "ext5": "2",
+   "int3": "47W",
+   "powersupply": "(77)",
+   "price": "110.99"
+  },
+  {
+   "name": "Intel Core i5-6400",
+   "type": "2.7GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(16)",
+   "price": "174.99"
+  },
+  {
+   "name": "AMD FX-8350",
+   "type": "4.0GHz",
+   "ext5": "8",
+   "int3": "125W",
+   "powersupply": "(412)",
+   "price": "149.99"
+  },
+  {
+   "name": "AMD FX-6300",
+   "type": "3.5GHz",
+   "ext5": "6",
+   "int3": "95W",
+   "powersupply": "(490)",
+   "price": "94.89"
+  },
+  {
+   "name": "Intel Core i7-6700",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(14)",
+   "price": "293.99"
+  },
+  {
+   "name": "Intel Core i7-6800K",
+   "type": "3.4GHz",
+   "ext5": "6",
+   "int3": "140W",
+   "powersupply": "(5)",
+   "price": "428.99"
+  },
+  {
+   "name": "Intel Core i5-6600",
+   "type": "3.3GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(29)",
+   "price": "214.99"
+  },
+  {
+   "name": "Intel Core i7-6950X",
+   "type": "3.0GHz",
+   "ext5": "10",
+   "int3": "140W",
+   "powersupply": "(2)",
+   "price": "1649.99"
+  },
+  {
+   "name": "Intel Core i7-4790K",
+   "type": "4.0GHz",
+   "ext5": "4",
+   "int3": "88W",
+   "powersupply": "(549)",
+   "price": "334.99"
+  },
+  {
+   "name": "Intel Pentium G4400",
+   "type": "3.3GHz",
+   "ext5": "2",
+   "int3": "47W",
+   "powersupply": "(7)",
+   "price": "58.99"
+  },
+  {
+   "name": "Intel Core i5-4460",
+   "type": "3.2GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(80)",
+   "price": "175.99"
+  },
+  {
+   "name": "Intel Core i5-4690K",
+   "type": "3.5GHz",
+   "ext5": "4",
+   "int3": "88W",
+   "powersupply": "(554)",
+   "price": "231.99"
+  },
+  {
+   "name": "Intel Core i7-5820K",
+   "type": "3.3GHz",
+   "ext5": "6",
+   "int3": "140W",
+   "powersupply": "(106)",
+   "price": "368.99"
+  },
+  {
+   "name": "Intel Xeon E5-2699 V4 (OEM/Tray)",
+   "type": "2.2GHz",
+   "ext5": "22",
+   "int3": "145W",
+   "powersupply": "(0)",
+   "price": "4422.93"
+  },
+  {
+   "name": "Intel Core i7-6850K",
+   "type": "3.6GHz",
+   "ext5": "6",
+   "int3": "140W",
+   "powersupply": "(2)",
+   "price": "607.99"
+  },
+  {
+   "name": "AMD Athlon X4 845",
+   "type": "3.5GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(1)",
+   "price": "67.99"
+  },
+  {
+   "name": "Intel Core 2 Duo E8400 (OEM/Tray)",
+   "type": "3.0GHz",
+   "ext5": "2",
+   "int3": "65W",
+   "powersupply": "(3)",
+   "price": "14.35"
+  },
+  {
+   "name": "Intel Pentium G3258",
+   "type": "3.2GHz",
+   "ext5": "2",
+   "int3": "53W",
+   "powersupply": "(164)",
+   "price": "64.99"
+  },
+  {
+   "name": "AMD FX-9590 (OEM/Tray)",
+   "type": "4.7GHz",
+   "ext5": "8",
+   "int3": "220W",
+   "powersupply": "(25)",
+   "price": "214.99"
+  },
+  {
+   "name": "AMD FX-4350",
+   "type": "4.2GHz",
+   "ext5": "4",
+   "int3": "125W",
+   "powersupply": "(10)",
+   "price": "79.99"
+  },
+  {
+   "name": "AMD FX-4300",
+   "type": "3.8GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(28)",
+   "price": "77.89"
+  },
+  {
+   "name": "AMD FX-8320",
+   "type": "3.5GHz",
+   "ext5": "8",
+   "int3": "125W",
+   "powersupply": "(261)",
+   "price": "134.99"
+  },
+  {
+   "name": "Intel Core i7-6900K",
+   "type": "3.2GHz",
+   "ext5": "8",
+   "int3": "140W",
+   "powersupply": "(2)",
+   "price": "1041.99"
+  },
+  {
+   "name": "AMD Athlon X4 860K",
+   "type": "3.7GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(69)",
+   "price": "99.89"
+  },
+  {
+   "name": "Intel Core i5-4590",
+   "type": "3.3GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(89)",
+   "price": "189.99"
+  },
+  {
+   "name": "AMD Athlon X4 880K",
+   "type": "4.0GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(0)",
+   "price": "83.99"
+  },
+  {
+   "name": "AMD FX-8300",
+   "type": "3.3GHz",
+   "ext5": "8",
+   "int3": "95W",
+   "powersupply": "(3)",
+   "price": "114.99"
+  },
+  {
+   "name": "Intel Core i3-4160",
+   "type": "3.6GHz",
+   "ext5": "2",
+   "int3": "54W",
+   "powersupply": "(32)",
+   "price": "108.99"
+  },
+  {
+   "name": "Intel Core i3-6320",
+   "type": "3.9GHz",
+   "ext5": "2",
+   "int3": "47W",
+   "powersupply": "(1)",
+   "price": "158.99"
+  },
+  {
+   "name": "AMD 5350",
+   "type": "2.05Ghz",
+   "ext5": "4",
+   "int3": "25W",
+   "powersupply": "(22)",
+   "price": "36.99"
+  },
+  {
+   "name": "Intel Core i3-6300",
+   "type": "3.8GHz",
+   "ext5": "2",
+   "int3": "47W",
+   "powersupply": "(2)",
+   "price": "141.99"
+  },
+  {
+   "name": "Intel Core i5-4690",
+   "type": "3.5GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(44)",
+   "price": "209.99"
+  },
+  {
+   "name": "AMD A8-7600",
+   "type": "3.1GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(17)",
+   "price": "69.99"
+  },
+  {
+   "name": "Intel Core i7-4790K (OEM/Tray)",
+   "type": "4.0GHz",
+   "ext5": "4",
+   "int3": "88W",
+   "powersupply": "(5)",
+   "price": "284.99"
+  },
+  {
+   "name": "AMD A10-7700K",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(10)",
+   "price": "84.99"
+  },
+  {
+   "name": "Intel Core i5-2400",
+   "type": "3.1GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(10)",
+   "price": "160.54"
+  },
+  {
+   "name": "AMD FX-8320E",
+   "type": "3.2GHz",
+   "ext5": "8",
+   "int3": "95W",
+   "powersupply": "(28)",
+   "price": "118.99"
+  },
+  {
+   "name": "Intel Celeron G3900",
+   "type": "2.8GHz",
+   "ext5": "2",
+   "int3": "51W",
+   "powersupply": "(1)",
+   "price": "42.18"
+  },
+  {
+   "name": "Intel Core i7-4790",
+   "type": "3.6GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(37)",
+   "price": "303.88"
+  },
+  {
+   "name": "AMD A6-5400K",
+   "type": "3.6GHz",
+   "ext5": "2",
+   "int3": "65W",
+   "powersupply": "(12)",
+   "price": "36.88"
+  },
+  {
+   "name": "AMD 2650",
+   "type": "1.45Ghz",
+   "ext5": "2",
+   "int3": "25W",
+   "powersupply": "(2)",
+   "price": "25.99"
+  },
+  {
+   "name": "AMD FX-8370",
+   "type": "4.0GHz",
+   "ext5": "8",
+   "int3": "125W",
+   "powersupply": "(2)",
+   "price": "174.99"
+  },
+  {
+   "name": "AMD A10-7850K",
+   "type": "3.7GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(57)",
+   "price": "109.99"
+  },
+  {
+   "name": "Intel Core i7-5960X",
+   "type": "3.0GHz",
+   "ext5": "8",
+   "int3": "140W",
+   "powersupply": "(11)",
+   "price": "1007.99"
+  },
+  {
+   "name": "Intel Core i7-4770K",
+   "type": "3.5GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(486)",
+   "price": "338.99"
+  },
+  {
+   "name": "Intel Core i7-6700K (OEM/Tray)",
+   "type": "4.0GHz",
+   "ext5": "4",
+   "int3": "91W",
+   "powersupply": "(3)",
+   "price": "336.99"
+  },
+  {
+   "name": "AMD A10-7890K",
+   "type": "4.1GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(4)",
+   "price": "148.99"
+  },
+  {
+   "name": "Intel Celeron G1840",
+   "type": "2.8GHz",
+   "ext5": "2",
+   "int3": "53W",
+   "powersupply": "(3)",
+   "price": "39.99"
+  },
+  {
+   "name": "Intel Core i7-5930K",
+   "type": "3.5GHz",
+   "ext5": "6",
+   "int3": "140W",
+   "powersupply": "(34)",
+   "price": "571.99"
+  },
+  {
+   "name": "AMD FX-6350",
+   "type": "3.9GHz",
+   "ext5": "6",
+   "int3": "125W",
+   "powersupply": "(44)",
+   "price": "126.13"
+  },
+  {
+   "name": "Intel Core i5-3570K",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "77W",
+   "powersupply": "(464)"
+  },
+  {
+   "name": "Intel Core i3-4170",
+   "type": "3.7GHz",
+   "ext5": "2",
+   "int3": "54W",
+   "powersupply": "(21)",
+   "price": "117.88"
+  },
+  {
+   "name": "Intel Pentium G4500",
+   "type": "3.5GHz",
+   "ext5": "2",
+   "int3": "51W",
+   "powersupply": "(2)",
+   "price": "84.80"
+  },
+  {
+   "name": "AMD A10-7860k",
+   "type": "3.6GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(3)",
+   "price": "103.99"
+  },
+  {
+   "name": "Intel Xeon E3-1231 V3",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "80W",
+   "powersupply": "(27)",
+   "price": "239.99"
+  },
+  {
+   "name": "Intel Core i5-6500 (OEM/Tray)",
+   "type": "3.2GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(0)",
+   "price": "192.99"
+  },
+  {
+   "name": "Intel Core i5-4440",
+   "type": "3.1GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(35)",
+   "price": "178.88"
+  },
+  {
+   "name": "Intel Core i7-3770K",
+   "type": "3.5GHz",
+   "ext5": "4",
+   "int3": "77W",
+   "powersupply": "(212)"
+  },
+  {
+   "name": "Intel Core i5-2500K",
+   "type": "3.3GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(95)",
+   "price": "239.99"
+  },
+  {
+   "name": "AMD A4-6300",
+   "type": "3.7GHz",
+   "ext5": "2",
+   "int3": "65W",
+   "powersupply": "(7)",
+   "price": "33.33"
+  },
+  {
+   "name": "Intel Xeon E5-2620 V4",
+   "type": "2.1GHz",
+   "ext5": "8",
+   "int3": "85W",
+   "powersupply": "(2)",
+   "price": "407.99"
+  },
+  {
+   "name": "AMD FX-8370",
+   "type": "4.0GHz",
+   "ext5": "8",
+   "int3": "125W",
+   "powersupply": "(12)",
+   "price": "187.99"
+  },
+  {
+   "name": "AMD A10-6800K",
+   "type": "4.1GHz",
+   "ext5": "4",
+   "int3": "100W",
+   "powersupply": "(44)",
+   "price": "119.99"
+  },
+  {
+   "name": "Intel Core i7-4770",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(35)",
+   "price": "297.99"
+  },
+  {
+   "name": "Intel Core i7-3770",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "77W",
+   "powersupply": "(31)",
+   "price": "453.00"
+  },
+  {
+   "name": "AMD A6-6400K",
+   "type": "3.9GHz",
+   "ext5": "2",
+   "int3": "65W",
+   "powersupply": "(14)",
+   "price": "49.99"
+  },
+  {
+   "name": "Intel Core i3-540",
+   "type": "3.06Ghz",
+   "ext5": "2",
+   "int3": "73W",
+   "powersupply": "(2)",
+   "price": "73.82"
+  },
+  {
+   "name": "Intel Xeon E5-1620 V4",
+   "type": "3.5GHz",
+   "ext5": "4",
+   "int3": "140W",
+   "powersupply": "(0)",
+   "price": "286.99"
+  },
+  {
+   "name": "AMD A6-7400K",
+   "type": "3.5GHz",
+   "ext5": "2",
+   "int3": "65W",
+   "powersupply": "(6)",
+   "price": "49.99"
+  },
+  {
+   "name": "Intel Core i5-4670K",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(545)"
+  },
+  {
+   "name": "Intel Xeon E5-2687W V4",
+   "type": "3.0GHz",
+   "ext5": "12",
+   "int3": "160W",
+   "powersupply": "(0)",
+   "price": "2048.99"
+  },
+  {
+   "name": "Intel Core i7-2600",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(11)",
+   "price": "387.74"
+  },
+  {
+   "name": "Intel Core i5-6600 (OEM/Tray)",
+   "type": "3.3GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(0)",
+   "price": "209.99"
+  },
+  {
+   "name": "Intel Xeon E5-2670",
+   "type": "2.6GHz",
+   "ext5": "8",
+   "int3": "115W",
+   "powersupply": "(0)",
+   "price": "1487.99"
+  },
+  {
+   "name": "Intel Core i7-4770S",
+   "type": "3.1GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(5)",
+   "price": "279.99"
+  },
+  {
+   "name": "Intel Xeon E5-2630 V4",
+   "type": "2.2GHz",
+   "ext5": "10",
+   "int3": "85W",
+   "powersupply": "(0)",
+   "price": "649.99"
+  },
+  {
+   "name": "AMD FX-9370 (OEM/Tray)",
+   "type": "4.4GHz",
+   "ext5": "8",
+   "int3": "220W",
+   "powersupply": "(8)",
+   "price": "191.98"
+  },
+  {
+   "name": "Intel Xeon E3-1230 V5",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "80W",
+   "powersupply": "(0)",
+   "price": "251.99"
+  },
+  {
+   "name": "AMD FX-8350",
+   "type": "4.0GHz",
+   "ext5": "8",
+   "int3": "125W",
+   "powersupply": "(0)",
+   "price": "165.99"
+  },
+  {
+   "name": "Intel Core i3-6100 (OEM/Tray)",
+   "type": "3.7GHz",
+   "ext5": "2",
+   "int3": "47W",
+   "powersupply": "(0)",
+   "price": "112.99"
+  },
+  {
+   "name": "Intel Core i3-6100T",
+   "type": "3.2GHz",
+   "ext5": "2",
+   "int3": "35W",
+   "powersupply": "(0)",
+   "price": "129.98"
+  },
+  {
+   "name": "Intel Xeon E5-2690 V4",
+   "type": "2.6GHz",
+   "ext5": "14",
+   "int3": "135W",
+   "powersupply": "(1)",
+   "price": "2015.99"
+  },
+  {
+   "name": "Intel Core i5-4670",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(44)",
+   "price": "222.99"
+  },
+  {
+   "name": "Intel Xeon E5-1650 V4",
+   "type": "3.6GHz",
+   "ext5": "6",
+   "int3": "140W",
+   "powersupply": "(0)",
+   "price": "601.99"
+  },
+  {
+   "name": "Intel Core i5-4570",
+   "type": "3.2GHz",
+   "ext5": "4",
+   "int3": "84W",
+   "powersupply": "(76)",
+   "price": "192.99"
+  },
+  {
+   "name": "AMD FX-6350",
+   "type": "3.9GHz",
+   "ext5": "6",
+   "int3": "125W",
+   "powersupply": "(1)",
+   "price": "134.99"
+  },
+  {
+   "name": "Intel Core i7-4790K",
+   "type": "4.0GHz",
+   "ext5": "4",
+   "int3": "88W",
+   "powersupply": "(2)",
+   "price": "364.98"
+  },
+  {
+   "name": "Intel Core i5-6402P",
+   "type": "2.8GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(0)",
+   "price": "202.70"
+  },
+  {
+   "name": "Intel Core 2 Duo E8600 (OEM/Tray)",
+   "type": "3.33Ghz",
+   "ext5": "2",
+   "int3": "65W",
+   "powersupply": "(1)",
+   "price": "28.95"
+  },
+  {
+   "name": "Intel Core i7-2600K",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "95W",
+   "powersupply": "(41)"
+  },
+  {
+   "name": "AMD Athlon 5370",
+   "type": "2.2GHz",
+   "ext5": "4",
+   "int3": "25W",
+   "powersupply": "(1)",
+   "price": "55.44"
+  },
+  {
+   "name": "Intel Core 2 Quad Q6600 (OEM/Tray)",
+   "type": "2.4GHz",
+   "ext5": "4",
+   "int3": "100W",
+   "powersupply": "(6)",
+   "price": "74.99"
+  },
+  {
+   "name": "AMD FX-9590",
+   "type": "4.7GHz",
+   "ext5": "8",
+   "int3": "220W",
+   "powersupply": "(3)"
+  },
+  {
+   "name": "AMD Athlon X4 740",
+   "type": "3.2GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(4)"
+  },
+  {
+   "name": "Intel Core i7-6700 (OEM/Tray)",
+   "type": "3.4GHz",
+   "ext5": "4",
+   "int3": "65W",
+   "powersupply": "(0)",
+   "price": "303.99"
+  },
+  {
+   "name": "AMD FX-6200",
+   "type": "3.8GHz",
+   "ext5": "6",
+   "int3": "125W",
+   "powersupply": "(4)",
+   "price": "102.99"
+  },
+  {
+   "name": "AMD Athlon II X2 220 (OEM/Tray)",
+   "type": "2.8GHz",
+   "ext5": "2",
+   "int3": "65W",
+   "powersupply": "(1)",
+   "price": "27.31"
+  }
+ ]
+
