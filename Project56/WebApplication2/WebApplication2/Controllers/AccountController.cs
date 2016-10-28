@@ -18,14 +18,14 @@ namespace WebApplication2.Controllers
             var stmt = new MySqlCommand("SELECT * FROM users", conn);
             MySqlDataReader myReader = stmt.ExecuteReader();
 
-            var account = new Account;
+            var account = new Account();
 
             while (myReader.Read())
             {
                 ViewBag.Message = myReader.GetValue(0);
             }
                        
-             = new Account() { Id = 1, name = "Admin", adress = "Wijnhaven 107" };
+             //= new Account() { Id = 1, name = "Admin", adress = "Wijnhaven 107" };
             return View(account);
         }
     }
