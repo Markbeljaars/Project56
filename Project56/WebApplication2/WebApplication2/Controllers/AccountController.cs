@@ -12,7 +12,7 @@ namespace WebApplication2.Controllers
         // GET: account/profile
         public ActionResult profile()
         {
-            var conn = new MySqlConnection("server = localhost; user id = root; database = project56; password = msige602qd");
+            var conn = new MySqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=***********");
             conn.Open();
 
             var stmt = new MySqlCommand("SELECT * FROM users", conn);
