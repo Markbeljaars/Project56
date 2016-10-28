@@ -28,5 +28,17 @@ namespace WebApplication2.Controllers
              //= new Account() { Id = 1, name = "Admin", address = "Wijnhaven 107" };
             return View(account);
         }
+
+        //[HttpPost]
+        //public ActionResult Register(Account account) { 
+
+        //    if (ModelState.IsValid)
+        //    {
+                
+        //    }
+        //}
+        
+
+        
     }
 }
