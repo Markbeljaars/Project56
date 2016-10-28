@@ -25,7 +25,7 @@ namespace WebApplication2.Controllers
                 ViewBag.Message = myReader.GetValue(0);
             }
                        
-             //= new Account() { Id = 1, name = "Admin", adress = "Wijnhaven 107" };
+             //= new Account() { Id = 1, name = "Admin", address = "Wijnhaven 107" };
             return View(account);
         }
     }
