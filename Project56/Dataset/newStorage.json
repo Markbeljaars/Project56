@@ -1,0 +1,903 @@
+ [
+  {
+   "name": "Western Digital WD10EZEX",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "1TB",
+   "cache": "64MB",
+   "price_gb": "0.049",
+   "price": "49.49"
+  },
+  {
+   "name": "Samsung MZ-75E250B/AM",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "250GB",
+   "cache": "N/A",
+   "price_gb": "0.380",
+   "price": "94.99"
+  },
+  {
+   "name": "Samsung MZ-75E500B/AM",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "500GB",
+   "cache": "N/A",
+   "price_gb": "0.315",
+   "price": "157.30"
+  },
+  {
+   "name": "Seagate ST2000DM001",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "2TB",
+   "cache": "64MB",
+   "price_gb": "0.037",
+   "price": "73.80"
+  },
+  {
+   "name": "Seagate ST1000DM003",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "1TB",
+   "cache": "64MB",
+   "price_gb": "0.047",
+   "price": "47.39"
+  },
+  {
+   "name": "Kingston SV300S37A/120G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "120GB",
+   "cache": "N/A",
+   "price_gb": "0.370",
+   "price": "44.39"
+  },
+  {
+   "name": "Samsung MZ-75E1T0B/AM",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "1TB",
+   "cache": "N/A",
+   "price_gb": "0.306",
+   "price": "306.07"
+  },
+  {
+   "name": "Samsung MZ-V5P512BW",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "512GB",
+   "cache": "512MB",
+   "price_gb": "0.615",
+   "price": "314.99"
+  },
+  {
+   "name": "Sandisk SDSSDA-120G-G25",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "120GB",
+   "cache": "N/A",
+   "price_gb": "0.337",
+   "price": "40.46"
+  },
+  {
+   "name": "Intel SSDPECME040T401",
+   "form": "PCI-E",
+   "type": "SSD",
+   "capacity": "4TB",
+   "cache": "N/A",
+   "price_gb": "2.000",
+   "price": "7999.99"
+  },
+  {
+   "name": "Crucial CT275MX300SSD1",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "275GB",
+   "cache": "N/A",
+   "price_gb": "0.254",
+   "price": "69.95"
+  },
+  {
+   "name": "Western Digital WD2003FZEX",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "2TB",
+   "cache": "64MB",
+   "price_gb": "0.059",
+   "price": "118.99"
+  },
+  {
+   "name": "Hitachi E7K1000",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "1TB",
+   "cache": "32MB",
+   "price_gb": "0.037",
+   "price": "37.50"
+  },
+  {
+   "name": "A-Data ASP550SS3-240GM-C",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.258",
+   "price": "61.99"
+  },
+  {
+   "name": "Crucial CT525MX300SSD1",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "525GB",
+   "cache": "N/A",
+   "price_gb": "0.229",
+   "price": "119.98"
+  },
+  {
+   "name": "Samsung MZ-V5P256BW",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "256GB",
+   "cache": "512MB",
+   "price_gb": "0.723",
+   "price": "184.99"
+  },
+  {
+   "name": "Western Digital WD1003FZEX",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "1TB",
+   "cache": "64MB",
+   "price_gb": "0.069",
+   "price": "69.00"
+  },
+  {
+   "name": "Seagate ST3000DM001",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "3TB",
+   "cache": "64MB",
+   "price_gb": "0.031",
+   "price": "92.99"
+  },
+  {
+   "name": "Sandisk SDSSDA-240G-G25",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.262",
+   "price": "62.99"
+  },
+  {
+   "name": "Kingston SUV400S37/240G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.266",
+   "price": "63.88"
+  },
+  {
+   "name": "Samsung 750 EVO",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "250GB",
+   "cache": "N/A",
+   "price_gb": "0.292",
+   "price": "72.89"
+  },
+  {
+   "name": "Hitachi HUA723020ALA641",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "2TB",
+   "cache": "64MB",
+   "price_gb": "0.026",
+   "price": "51.90"
+  },
+  {
+   "name": "Western Digital WD4003FZEX",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "4TB",
+   "cache": "64MB",
+   "price_gb": "0.049",
+   "price": "196.99"
+  },
+  {
+   "name": "Samsung MZ-75E4T0B",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "4TB",
+   "cache": "3.9GB",
+   "price_gb": "0.350",
+   "price": "1399.99"
+  },
+  {
+   "name": "Seagate ST2000DM006",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "2TB",
+   "cache": "64MB",
+   "price_gb": "0.035",
+   "price": "69.89"
+  },
+  {
+   "name": "OCZ TRN150-25SAT3-480G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "480GB",
+   "cache": "N/A",
+   "price_gb": "0.229",
+   "price": "109.99"
+  },
+  {
+   "name": "PNY SSD7CS1311-240-RB",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.279",
+   "price": "66.99"
+  },
+  {
+   "name": "Seagate ST31000340NS - FFP",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "1TB",
+   "cache": "32MB",
+   "price_gb": "0.041",
+   "price": "40.95"
+  },
+  {
+   "name": "Samsung MZ-7KE512BW",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "512GB",
+   "cache": "N/A",
+   "price_gb": "0.422",
+   "price": "215.99"
+  },
+  {
+   "name": "Samsung MZ-7KE1T0BW",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "1TB",
+   "cache": "N/A",
+   "price_gb": "0.419",
+   "price": "418.99"
+  },
+  {
+   "name": "Samsung 750 EVO",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "120GB",
+   "cache": "N/A",
+   "price_gb": "0.433",
+   "price": "51.99"
+  },
+  {
+   "name": "Samsung MZ-7KE2T0BW",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "2TB",
+   "cache": "N/A",
+   "price_gb": "0.414",
+   "price": "827.99"
+  },
+  {
+   "name": "Sandisk SDSSDHII-960G-G25",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "960GB",
+   "cache": "N/A",
+   "price_gb": "0.221",
+   "price": "211.77"
+  },
+  {
+   "name": "Seagate ST2000DX001",
+   "form": "3.5\"",
+   "type": "Hybrid",
+   "capacity": "2TB",
+   "cache": "64MB",
+   "price_gb": "0.045",
+   "price": "89.99"
+  },
+  {
+   "name": "Samsung MZ-7KE256BW",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "256GB",
+   "cache": "N/A",
+   "price_gb": "0.477",
+   "price": "121.99"
+  },
+  {
+   "name": "Samsung MZ-N5E500BW",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "500GB",
+   "cache": "N/A",
+   "price_gb": "0.338",
+   "price": "168.95"
+  },
+  {
+   "name": "PNY SSD7CS1311-120-RB",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "120GB",
+   "cache": "N/A",
+   "price_gb": "0.392",
+   "price": "46.99"
+  },
+  {
+   "name": "Samsung MZ-750500BW",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "500GB",
+   "cache": "512MB",
+   "price_gb": "0.276",
+   "price": "137.99"
+  },
+  {
+   "name": "Samsung MZ-7PD128BW",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "128GB",
+   "cache": "N/A",
+   "price_gb": "0.570",
+   "price": "73.00"
+  },
+  {
+   "name": "Samsung MZ-N5E250BW",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "250GB",
+   "cache": "N/A",
+   "price_gb": "0.381",
+   "price": "95.32"
+  },
+  {
+   "name": "Samsung MZ-75E2T0B/AM",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "2TB",
+   "cache": "N/A",
+   "price_gb": "0.304",
+   "price": "608.18"
+  },
+  {
+   "name": "Seagate ST10000DM0004",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "10TB",
+   "cache": "256MB",
+   "price_gb": "0.050",
+   "price": "499.99"
+  },
+  {
+   "name": "Samsung MZ-7TE250BW",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "250GB",
+   "cache": "N/A",
+   "price_gb": "0.424",
+   "price": "105.99"
+  },
+  {
+   "name": "Crucial CT750MX300SSD1",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "750GB",
+   "cache": "N/A",
+   "price_gb": "0.227",
+   "price": "169.98"
+  },
+  {
+   "name": "Toshiba DT01ACA300",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "3TB",
+   "cache": "64MB",
+   "price_gb": "0.028",
+   "price": "84.80"
+  },
+  {
+   "name": "Western Digital WD20EZRZ",
+   "form": "3.5\"",
+   "type": "5400RPM",
+   "capacity": "2TB",
+   "cache": "64MB",
+   "price_gb": "0.035",
+   "price": "69.33"
+  },
+  {
+   "name": "Western Digital WD5000AAKS",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "500GB",
+   "cache": "16MB",
+   "price_gb": "0.080",
+   "price": "39.99"
+  },
+  {
+   "name": "Western Digital WD1002FBYS",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "1TB",
+   "cache": "32MB",
+   "price_gb": "0.042",
+   "price": "41.95"
+  },
+  {
+   "name": "Kingston SUV400S37/120G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "120GB",
+   "cache": "N/A",
+   "price_gb": "0.342",
+   "price": "40.99"
+  },
+  {
+   "name": "Seagate ST1000DX001",
+   "form": "3.5\"",
+   "type": "Hybrid",
+   "capacity": "1TB",
+   "cache": "64MB",
+   "price_gb": "0.075",
+   "price": "74.89"
+  },
+  {
+   "name": "Western Digital WD6001FZWX",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "6TB",
+   "cache": "128MB",
+   "price_gb": "0.047",
+   "price": "279.99"
+  },
+  {
+   "name": "Crucial CT275MX300SSD4",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "275GB",
+   "cache": "N/A",
+   "price_gb": "0.258",
+   "price": "70.98"
+  },
+  {
+   "name": "Seagate ST3000DM008",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "3TB",
+   "cache": "64MB",
+   "price_gb": "0.031",
+   "price": "93.98"
+  },
+  {
+   "name": "Kingston SHFS37A/120G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "120GB",
+   "cache": "N/A",
+   "price_gb": "0.375",
+   "price": "44.99"
+  },
+  {
+   "name": "Seagate ST10000NM0016",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "10TB",
+   "cache": "256MB",
+   "price_gb": "0.056",
+   "price": "562.86"
+  },
+  {
+   "name": "A-Data ASP550SS3-120GM-C",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "120GB",
+   "cache": "N/A",
+   "price_gb": "0.333",
+   "price": "39.98"
+  },
+  {
+   "name": "Western Digital WD5001FZWX",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "5TB",
+   "cache": "128MB",
+   "price_gb": "0.044",
+   "price": "219.85"
+  },
+  {
+   "name": "Toshiba DT01ACA100",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "1TB",
+   "cache": "32MB",
+   "price_gb": "0.045",
+   "price": "44.99"
+  },
+  {
+   "name": "Intel SSDPEKKW512G7X1",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "512GB",
+   "cache": "N/A",
+   "price_gb": "0.340",
+   "price": "173.99"
+  },
+  {
+   "name": "Hitachi 0F10452",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "2TB",
+   "cache": "32MB",
+   "price_gb": "0.026",
+   "price": "52.00"
+  },
+  {
+   "name": "Samsung MZ-7LM3T8E",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "3.8TB",
+   "cache": "N/A",
+   "price_gb": "0.476",
+   "price": "1826.99"
+  },
+  {
+   "name": "Samsung MZ-7PD256BW",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "256GB",
+   "cache": "N/A",
+   "price_gb": "0.898",
+   "price": "229.89"
+  },
+  {
+   "name": "Crucial CT1050MX300SSD1",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "1.1TB",
+   "cache": "N/A",
+   "price_gb": "0.234",
+   "price": "245.99"
+  },
+  {
+   "name": "Seagate ST4000DM000",
+   "form": "3.5\"",
+   "type": "5900RPM",
+   "capacity": "4TB",
+   "cache": "64MB",
+   "price_gb": "0.028",
+   "price": "113.99"
+  },
+  {
+   "name": "Samsung MZ-7TE1T0BW",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "1TB",
+   "cache": "N/A",
+   "price_gb": "0.399",
+   "price": "398.98"
+  },
+  {
+   "name": "Sandisk SD8SN8U-512G-1122",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "512GB",
+   "cache": "N/A",
+   "price_gb": "0.270",
+   "price": "137.99"
+  },
+  {
+   "name": "Western Digital WD10EZRZ",
+   "form": "3.5\"",
+   "type": "5400RPM",
+   "capacity": "1TB",
+   "cache": "64MB",
+   "price_gb": "0.050",
+   "price": "50.39"
+  },
+  {
+   "name": "Sandisk SD8SBAT-128G-1122",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "128GB",
+   "cache": "N/A",
+   "price_gb": "0.344",
+   "price": "43.99"
+  },
+  {
+   "name": "OCZ TRN150-25SAT3-240G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.304",
+   "price": "72.99"
+  },
+  {
+   "name": "Sandisk SDSSDHII-480G-G25",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "480GB",
+   "cache": "N/A",
+   "price_gb": "0.258",
+   "price": "123.86"
+  },
+  {
+   "name": "Crucial CT525MX300SSD4",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "525GB",
+   "cache": "N/A",
+   "price_gb": "0.232",
+   "price": "121.80"
+  },
+  {
+   "name": "Hitachi Travelstar",
+   "form": "2.5\"",
+   "type": "7200RPM",
+   "capacity": "1TB",
+   "cache": "32MB",
+   "price_gb": "0.059",
+   "price": "58.99"
+  },
+  {
+   "name": "Intel SSDPEDMW400G4X1",
+   "form": "PCI-E",
+   "type": "SSD",
+   "capacity": "400GB",
+   "cache": "N/A",
+   "price_gb": "0.800",
+   "price": "319.99"
+  },
+  {
+   "name": "Toshiba HDWD110XZSTA",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "1TB",
+   "cache": "64MB",
+   "price_gb": "0.050",
+   "price": "49.88"
+  },
+  {
+   "name": "Mushkin MKNSSDRE1TB",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "1TB",
+   "cache": "N/A",
+   "price_gb": "0.235",
+   "price": "234.58"
+  },
+  {
+   "name": "Intel SSDPEKKW256G7X1",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "256GB",
+   "cache": "N/A",
+   "price_gb": "0.379",
+   "price": "96.99"
+  },
+  {
+   "name": "Sandisk SD8SBAT-256G-1122",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "256GB",
+   "cache": "N/A",
+   "price_gb": "0.273",
+   "price": "69.89"
+  },
+  {
+   "name": "OCZ TRN150-25SAT3-120G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "120GB",
+   "cache": "N/A",
+   "price_gb": "0.384",
+   "price": "46.10"
+  },
+  {
+   "name": "PNY SSD7CS1311-480-RB",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "480GB",
+   "cache": "N/A",
+   "price_gb": "0.248",
+   "price": "118.99"
+  },
+  {
+   "name": "Western Digital WD40EFRX",
+   "form": "3.5\"",
+   "type": "5400RPM",
+   "capacity": "4TB",
+   "cache": "64MB",
+   "price_gb": "0.037",
+   "price": "149.89"
+  },
+  {
+   "name": "Western Digital WD1000CHTZ",
+   "form": "2.5\"",
+   "type": "10000RPM",
+   "capacity": "1TB",
+   "cache": "64MB",
+   "price_gb": "0.094",
+   "price": "94.00"
+  },
+  {
+   "name": "Western Digital WD5000AAKX",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "500GB",
+   "cache": "16MB",
+   "price_gb": "0.083",
+   "price": "41.50"
+  },
+  {
+   "name": "Hitachi 0F10311",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "2TB",
+   "cache": "32MB",
+   "price_gb": "0.029",
+   "price": "58.82"
+  },
+  {
+   "name": "Western Digital WD30EFRX",
+   "form": "3.5\"",
+   "type": "5400RPM",
+   "capacity": "3TB",
+   "cache": "64MB",
+   "price_gb": "0.036",
+   "price": "108.69"
+  },
+  {
+   "name": "Samsung MZ-N5E1T0BW",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "1TB",
+   "cache": "N/A",
+   "price_gb": "0.310",
+   "price": "310.00"
+  },
+  {
+   "name": "Western Digital WD3003FZEX",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "3TB",
+   "cache": "64MB",
+   "price_gb": "0.056",
+   "price": "166.99"
+  },
+  {
+   "name": "Intel SSDPEDMW012T4X1",
+   "form": "PCI-E",
+   "type": "SSD",
+   "capacity": "1.2TB",
+   "cache": "N/A",
+   "price_gb": "0.633",
+   "price": "759.99"
+  },
+  {
+   "name": "Seagate ST1000DX002",
+   "form": "3.5\"",
+   "type": "Hybrid",
+   "capacity": "1TB",
+   "cache": "64MB",
+   "price_gb": "0.077",
+   "price": "76.99"
+  },
+  {
+   "name": "Toshiba DT01ACA200",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "2TB",
+   "cache": "64MB",
+   "price_gb": "0.032",
+   "price": "64.99"
+  },
+  {
+   "name": "Kingston SV300S37A/240G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.308",
+   "price": "73.89"
+  },
+  {
+   "name": "Kingston SHFS37A/240G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.329",
+   "price": "78.99"
+  },
+  {
+   "name": "Hitachi 0F12455",
+   "form": "3.5\"",
+   "type": "7200RPM",
+   "capacity": "2TB",
+   "cache": "64MB",
+   "price_gb": "0.027",
+   "price": "54.88"
+  },
+  {
+   "name": "Crucial CT256MX100SSD1",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "256GB",
+   "cache": "N/A",
+   "price_gb": "0.383",
+   "price": "98.15"
+  },
+  {
+   "name": "OCZ RVD400-M22280-1T",
+   "form": "M.2-2280",
+   "type": "SSD",
+   "capacity": "1TB",
+   "cache": "N/A",
+   "price_gb": "0.720",
+   "price": "719.99"
+  },
+  {
+   "name": "Kingston SHSS37A/480G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "480GB",
+   "cache": "N/A",
+   "price_gb": "0.298",
+   "price": "142.99"
+  },
+  {
+   "name": "Intel SSDPEDMW012T4R5",
+   "form": "PCI-E",
+   "type": "SSD",
+   "capacity": "1.2TB",
+   "cache": "N/A",
+   "price_gb": "0.747",
+   "price": "896.99"
+  },
+  {
+   "name": "Crucial CT240BX200SSD1",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.290",
+   "price": "69.49"
+  },
+  {
+   "name": "Kingston SHSS37A/240G",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.371",
+   "price": "88.99"
+  },
+  {
+   "name": "SK hynix HFS250G32TND-N1A2A",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "250GB",
+   "cache": "N/A",
+   "price_gb": "0.260",
+   "price": "64.99"
+  },
+  {
+   "name": "Corsair CSSD-F240GBLEB",
+   "form": "2.5\"",
+   "type": "SSD",
+   "capacity": "240GB",
+   "cache": "N/A",
+   "price_gb": "0.303",
+   "price": "72.63"
+  }
+ ]
+

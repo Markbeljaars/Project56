@@ -1,0 +1,702 @@
+[
+  {
+    "name": "EVGA 500B",
+    "form": "ATX",
+    "watts": "500W",
+    "modular": "No",
+    "price": "42.79"
+  },
+  {
+    "name": "Corsair CX450M",
+    "form": "ATX",
+    "watts": "450W",
+    "modular": "Semi",
+    "price": "39.98"
+  },
+  {
+    "name": "EVGA SuperNOVA 650",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Full",
+    "price": "79.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 750",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "79.99"
+  },
+  {
+    "name": "EVGA 210-GQ-0650-V1",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Semi",
+    "price": "77.99"
+  },
+  {
+    "name": "Corsair CX550M",
+    "form": "ATX",
+    "watts": "550W",
+    "modular": "Semi",
+    "price": "49.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 850",
+    "form": "ATX",
+    "watts": "850W",
+    "modular": "Full",
+    "price": "118.99"
+  },
+  {
+    "name": "Corsair CX600",
+    "form": "ATX",
+    "watts": "600W",
+    "modular": "No",
+    "price": "36.99"
+  },
+  {
+    "name": "EVGA 100-W1-0430-KR",
+    "form": "ATX",
+    "watts": "430W",
+    "modular": "No",
+    "price": "32.99"
+  },
+  {
+    "name": "Corsair CX500",
+    "form": "ATX",
+    "watts": "500W",
+    "modular": "No",
+    "price": "29.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 550",
+    "form": "ATX",
+    "watts": "550W",
+    "modular": "Full",
+    "price": "74.99"
+  },
+  {
+    "name": "Corsair RM650x",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Full",
+    "price": "69.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 650",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Full",
+    "price": "89.99"
+  },
+  {
+    "name": "Corsair RM750x",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "99.99"
+  },
+  {
+    "name": "EVGA 600B",
+    "form": "ATX",
+    "watts": "600W",
+    "modular": "No",
+    "price": "44.99"
+  },
+  {
+    "name": "EVGA 100-W1-0500-KR",
+    "form": "ATX",
+    "watts": "500W",
+    "modular": "No",
+    "price": "36.99"
+  },
+  {
+    "name": "Corsair AX1500i",
+    "form": "ATX",
+    "watts": "1500W",
+    "modular": "Full",
+    "price": "399.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 1000",
+    "form": "ATX",
+    "watts": "1000W",
+    "modular": "Full",
+    "price": "179.99"
+  },
+  {
+    "name": "EVGA 100-N1-0400-L1",
+    "form": "ATX",
+    "watts": "400W",
+    "modular": "No",
+    "price": "27.99"
+  },
+  {
+    "name": "SeaSonic M12II 520 Bronze",
+    "form": "ATX",
+    "watts": "520W",
+    "modular": "Full",
+    "price": "62.99"
+  },
+  {
+    "name": "Rosewill PHOTON-550",
+    "form": "ATX",
+    "watts": "550W",
+    "modular": "Full",
+    "price": "59.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 750",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "104.99"
+  },
+  {
+    "name": "Corsair CX750M",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Semi",
+    "price": "79.89"
+  },
+  {
+    "name": "Corsair RM550x",
+    "form": "ATX",
+    "watts": "550W",
+    "modular": "Full",
+    "price": "79.99"
+  },
+  {
+    "name": "Thermaltake PS-TPG-1500DPCTUS-T",
+    "form": "ATX",
+    "watts": "1500W",
+    "modular": "Full",
+    "price": "445.36"
+  },
+  {
+    "name": "Corsair RM850x",
+    "form": "ATX",
+    "watts": "850W",
+    "modular": "Full",
+    "price": "109.99"
+  },
+  {
+    "name": "EVGA 100-B1-0450-K1",
+    "form": "ATX",
+    "watts": "450W",
+    "modular": "No",
+    "price": "38.99"
+  },
+  {
+    "name": "Logisys PS480D-BK",
+    "form": "ATX",
+    "watts": "480W",
+    "modular": "No",
+    "price": "12.99"
+  },
+  {
+    "name": "EVGA SuperNOVA NEX750B",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Semi",
+    "price": "59.99"
+  },
+  {
+    "name": "Corsair SF450",
+    "form": "SFX",
+    "watts": "450W",
+    "modular": "Full",
+    "price": "89.99"
+  },
+  {
+    "name": "Corsair RM1000x",
+    "form": "ATX",
+    "watts": "1000W",
+    "modular": "Full",
+    "price": "119.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 550",
+    "form": "ATX",
+    "watts": "550W",
+    "modular": "Full",
+    "price": "84.88"
+  },
+  {
+    "name": "EVGA 210-GQ-0750-V1",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Semi",
+    "price": "84.37"
+  },
+  {
+    "name": "SeaSonic X-850",
+    "form": "ATX",
+    "watts": "850W",
+    "modular": "Full",
+    "price": "104.88"
+  },
+  {
+    "name": "Corsair AX760",
+    "form": "ATX",
+    "watts": "760W",
+    "modular": "Full",
+    "price": "148.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 650",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Full",
+    "price": "105.99"
+  },
+  {
+    "name": "Logisys PS480D2",
+    "form": "ATX",
+    "watts": "480W",
+    "modular": "No",
+    "price": "12.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 1600",
+    "form": "ATX",
+    "watts": "1600W",
+    "modular": "Full",
+    "price": "382.99"
+  },
+  {
+    "name": "SeaSonic SS-760XP2",
+    "form": "ATX",
+    "watts": "760W",
+    "modular": "Full",
+    "price": "79.99"
+  },
+  {
+    "name": "Silverstone SST-SX500-LG",
+    "form": "SFX",
+    "watts": "500W",
+    "modular": "Full",
+    "price": "90.99"
+  },
+  {
+    "name": "Corsair AX1200i",
+    "form": "ATX",
+    "watts": "1200W",
+    "modular": "Full",
+    "price": "285.98"
+  },
+  {
+    "name": "Corsair SF600",
+    "form": "SFX",
+    "watts": "600W",
+    "modular": "Full",
+    "price": "119.99"
+  },
+  {
+    "name": "Corsair RM750",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "109.99"
+  },
+  {
+    "name": "Silverstone ST30SF",
+    "form": "SFX",
+    "watts": "300W",
+    "modular": "No",
+    "price": "48.49"
+  },
+  {
+    "name": "EVGA SuperNOVA 850",
+    "form": "ATX",
+    "watts": "850W",
+    "modular": "Full",
+    "price": "138.49"
+  },
+  {
+    "name": "EVGA SuperNOVA 750",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "128.49"
+  },
+  {
+    "name": "Corsair CX650M",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Semi",
+    "price": "80.98"
+  },
+  {
+    "name": "Corsair HX750i",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "107.50"
+  },
+  {
+    "name": "SeaSonic SSR-550RM",
+    "form": "ATX",
+    "watts": "550W",
+    "modular": "Semi",
+    "price": "76.99"
+  },
+  {
+    "name": "SeaSonic S12II 520 Bronze",
+    "form": "ATX",
+    "watts": "520W",
+    "modular": "No",
+    "price": "54.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 1600",
+    "form": "ATX",
+    "watts": "1600W",
+    "modular": "Full",
+    "price": "334.49"
+  },
+  {
+    "name": "Corsair HX1000i",
+    "form": "ATX",
+    "watts": "1000W",
+    "modular": "Full",
+    "price": "184.78"
+  },
+  {
+    "name": "Corsair CX750",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "No",
+    "price": "42.98"
+  },
+  {
+    "name": "Corsair CS550M",
+    "form": "ATX",
+    "watts": "550W",
+    "modular": "Semi",
+    "price": "75.98"
+  },
+  {
+    "name": "Silverstone ST45SF-G",
+    "form": "SFX",
+    "watts": "450W",
+    "modular": "Full",
+    "price": "87.99"
+  },
+  {
+    "name": "Corsair CX430",
+    "form": "ATX",
+    "watts": "430W",
+    "modular": "No",
+    "price": "47.83"
+  },
+  {
+    "name": "Corsair AX860i",
+    "form": "ATX",
+    "watts": "860W",
+    "modular": "Full",
+    "price": "185.98"
+  },
+  {
+    "name": "NZXT HALE82 V2 550W",
+    "form": "ATX",
+    "watts": "550W",
+    "modular": "Full",
+    "price": "65.98"
+  },
+  {
+    "name": "Corsair CX600M",
+    "form": "ATX",
+    "watts": "600W",
+    "modular": "Semi",
+    "price": "99.88"
+  },
+  {
+    "name": "EVGA 220-T2-1000-X1",
+    "form": "ATX",
+    "watts": "1000W",
+    "modular": "Full",
+    "price": "275.55"
+  },
+  {
+    "name": "EVGA SuperNOVA 650",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Full",
+    "price": "92.88"
+  },
+  {
+    "name": "Corsair CX430M",
+    "form": "ATX",
+    "watts": "430W",
+    "modular": "Semi",
+    "price": "69.88"
+  },
+  {
+    "name": "Athena Power AP-MP4ATX30",
+    "form": "SFX",
+    "watts": "300W",
+    "modular": "No",
+    "price": "23.93"
+  },
+  {
+    "name": "EVGA 210-GQ-0850-V1",
+    "form": "ATX",
+    "watts": "850W",
+    "modular": "Semi",
+    "price": "99.99"
+  },
+  {
+    "name": "Corsair HX850i",
+    "form": "ATX",
+    "watts": "850W",
+    "modular": "Full",
+    "price": "139.99"
+  },
+  {
+    "name": "Logisys PS575XBK",
+    "form": "ATX",
+    "watts": "575W",
+    "modular": "No",
+    "price": "22.49"
+  },
+  {
+    "name": "Fractal Design FD-PSU-IN3B-450W",
+    "form": "ATX",
+    "watts": "450W",
+    "modular": "Semi",
+    "price": "49.99"
+  },
+  {
+    "name": "SeaSonic SSR-750TD",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "152.99"
+  },
+  {
+    "name": "Raidmax RX-700GH",
+    "form": "ATX",
+    "watts": "700W",
+    "modular": "Semi",
+    "price": "59.50"
+  },
+  {
+    "name": "EVGA 100-B1-0700-K1",
+    "form": "ATX",
+    "watts": "700W",
+    "modular": "No",
+    "price": "58.99"
+  },
+  {
+    "name": "SeaSonic S12II 430B",
+    "form": "ATX",
+    "watts": "430W",
+    "modular": "No",
+    "price": "44.99"
+  },
+  {
+    "name": "Silverstone ST45SF",
+    "form": "SFX",
+    "watts": "450W",
+    "modular": "No",
+    "price": "59.99"
+  },
+  {
+    "name": "SeaSonic SSR-450RM",
+    "form": "ATX",
+    "watts": "450W",
+    "modular": "Semi",
+    "price": "69.99"
+  },
+  {
+    "name": "EVGA 110-BQ-0750-V1",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Semi",
+    "price": "56.89"
+  },
+  {
+    "name": "Corsair RM750i",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "104.79"
+  },
+  {
+    "name": "Corsair AX860",
+    "form": "ATX",
+    "watts": "860W",
+    "modular": "Full",
+    "price": "169.99"
+  },
+  {
+    "name": "Silverstone SX600-G",
+    "form": "SFX",
+    "watts": "600W",
+    "modular": "Full",
+    "price": "109.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 1000",
+    "form": "ATX",
+    "watts": "1000W",
+    "modular": "Full",
+    "price": "149.99"
+  },
+  {
+    "name": "EVGA 220-T2-0750-X1",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "159.99"
+  },
+  {
+    "name": "SeaSonic SSR-350ST",
+    "form": "ATX",
+    "watts": "350W",
+    "modular": "No",
+    "price": "46.99"
+  },
+  {
+    "name": "Corsair HX1200i",
+    "form": "ATX",
+    "watts": "1200W",
+    "modular": "Full",
+    "price": "239.99"
+  },
+  {
+    "name": "Enermax EMR1350EWT",
+    "form": "ATX",
+    "watts": "1350W",
+    "modular": "Full",
+    "price": "303.99"
+  },
+  {
+    "name": "Thermaltake TR-500",
+    "form": "ATX",
+    "watts": "500W",
+    "modular": "No",
+    "price": "34.99"
+  },
+  {
+    "name": "NZXT HALE82 V2 700W",
+    "form": "ATX",
+    "watts": "700W",
+    "modular": "Full",
+    "price": "78.23"
+  },
+  {
+    "name": "EVGA 220-T2-0850-X1",
+    "form": "ATX",
+    "watts": "850W",
+    "modular": "Full",
+    "price": "179.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 1000",
+    "form": "ATX",
+    "watts": "1000W",
+    "modular": "Full",
+    "price": "169.99"
+  },
+  {
+    "name": "Corsair CS650M",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Semi",
+    "price": "85.98"
+  },
+  {
+    "name": "Raidmax RX-600AF-B",
+    "form": "ATX",
+    "watts": "600W",
+    "modular": "No",
+    "price": "55.99"
+  },
+  {
+    "name": "Thermaltake TR-600",
+    "form": "ATX",
+    "watts": "600W",
+    "modular": "No",
+    "price": "39.99"
+  },
+  {
+    "name": "Corsair RM650i",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Full",
+    "price": "129.99"
+  },
+  {
+    "name": "Corsair RM1000i",
+    "form": "ATX",
+    "watts": "1000W",
+    "modular": "Full",
+    "price": "149.99"
+  },
+  {
+    "name": "Rosewill ARC M550",
+    "form": "ATX",
+    "watts": "550W",
+    "modular": "Semi",
+    "price": "49.88"
+  },
+  {
+    "name": "SeaSonic SS-650KM",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Full",
+    "price": "89.99"
+  },
+  {
+    "name": "Rosewill Glacier 500M",
+    "form": "ATX",
+    "watts": "500W",
+    "modular": "Semi",
+    "price": "54.99"
+  },
+  {
+    "name": "Corsair CX500M",
+    "form": "ATX",
+    "watts": "500W",
+    "modular": "Semi",
+    "price": "99.98"
+  },
+  {
+    "name": "Rosewill PHOTON-750",
+    "form": "ATX",
+    "watts": "750W",
+    "modular": "Full",
+    "price": "79.99"
+  },
+  {
+    "name": "SeaSonic SS-300ES Bronze",
+    "form": "ATX",
+    "watts": "300W",
+    "modular": "No",
+    "price": "37.98"
+  },
+  {
+    "name": "SeaSonic S12II 620 Bronze",
+    "form": "ATX",
+    "watts": "620W",
+    "modular": "No",
+    "price": "62.99"
+  },
+  {
+    "name": "EVGA SuperNOVA 1200",
+    "form": "ATX",
+    "watts": "1200W",
+    "modular": "Full",
+    "price": "219.99"
+  },
+  {
+    "name": "Cooler Master V650",
+    "form": "ATX",
+    "watts": "650W",
+    "modular": "Full",
+    "price": "97.99"
+  }
+]

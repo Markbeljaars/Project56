@@ -1,0 +1,701 @@
+ [
+  {
+   "name": "NZXT S340 (Black/Red)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "66.99"
+  },
+  {
+   "name": "Deepcool TESSERACT SW",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "4",
+   "price": "39.99"
+  },
+  {
+   "name": "NZXT S340 (White)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "66.69"
+  },
+  {
+   "name": "Fractal Design Core 2300",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "4",
+   "price": "34.99"
+  },
+  {
+   "name": "Fractal Design Core 1000 USB 3.0",
+   "type": "MicroATX Mid Tower",
+   "ext": "2",
+   "int": "2",
+   "price": "24.99"
+  },
+  {
+   "name": "Corsair 200R",
+   "type": "ATX Mid Tower",
+   "ext": "3",
+   "int": "4",
+   "price": "59.99"
+  },
+  {
+   "name": "Corsair 750D",
+   "type": "ATX Full Tower",
+   "ext": "3",
+   "int": "6",
+   "price": "145.44"
+  },
+  {
+   "name": "Cooler Master N200",
+   "type": "MicroATX Mini Tower",
+   "ext": "1",
+   "int": "3",
+   "price": "45.99"
+  },
+  {
+   "name": "Xion XON-310_BK",
+   "type": "MicroATX Mid Tower",
+   "ext": "0",
+   "int": "1",
+   "price": "21.98"
+  },
+  {
+   "name": "Corsair Carbide 400C",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "2",
+   "price": "97.49"
+  },
+  {
+   "name": "Thermaltake Core V21",
+   "type": "MicroATX Mini Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "56.99"
+  },
+  {
+   "name": "NZXT S340 (Black)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "66.99"
+  },
+  {
+   "name": "Cooler Master Cosmos II (Black)",
+   "type": "ATX Full Tower",
+   "ext": "3",
+   "int": "13",
+   "price": "309.98"
+  },
+  {
+   "name": "Corsair SPEC-02",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "3",
+   "price": "49.99"
+  },
+  {
+   "name": "Fractal Design Define R4 w/Window (Black Pearl)",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "8",
+   "price": "74.99"
+  },
+  {
+   "name": "Thermaltake Versa H23",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "3",
+   "price": "24.99"
+  },
+  {
+   "name": "NZXT H440 (Matte Black/Red)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "8",
+   "price": "119.99"
+  },
+  {
+   "name": "Zalman Z1",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "4",
+   "price": "24.00"
+  },
+  {
+   "name": "Phanteks Enthoo Pro",
+   "type": "ATX Full Tower",
+   "ext": "3",
+   "int": "6",
+   "price": "79.99"
+  },
+  {
+   "name": "Corsair 100R",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "4",
+   "price": "42.99"
+  },
+  {
+   "name": "NZXT Phantom 530 (White)",
+   "type": "ATX Full Tower",
+   "ext": "3",
+   "int": "6",
+   "price": "115.99"
+  },
+  {
+   "name": "Zalman Z3 Plus White",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "4",
+   "price": "32.50"
+  },
+  {
+   "name": "Deepcool DUKASE V2",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "3",
+   "price": "51.99"
+  },
+  {
+   "name": "Phanteks Enthoo EVOLV ITX",
+   "type": "Mini ITX Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "59.99"
+  },
+  {
+   "name": "Rosewill FBM-01",
+   "type": "MicroATX Mini Tower",
+   "ext": "2",
+   "int": "2",
+   "price": "21.99"
+  },
+  {
+   "name": "Fractal Design Define S w/Window",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "69.99"
+  },
+  {
+   "name": "Thermaltake Core V1",
+   "type": "Mini ITX Tower",
+   "ext": "0",
+   "int": "2",
+   "price": "42.99"
+  },
+  {
+   "name": "Corsair Carbide Series 88R",
+   "type": "MicroATX Mid Tower",
+   "ext": "1",
+   "int": "2",
+   "price": "39.99"
+  },
+  {
+   "name": "Fractal Design Node 202",
+   "type": "HTPC",
+   "ext": "0",
+   "int": "0",
+   "price": "64.99"
+  },
+  {
+   "name": "Fractal Design Node 202",
+   "type": "HTPC",
+   "ext": "0",
+   "int": "0",
+   "price": "114.99"
+  },
+  {
+   "name": "NZXT S340 (Black/Blue)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "66.99"
+  },
+  {
+   "name": "Cooler Master Elite 110",
+   "type": "Mini ITX Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "29.99"
+  },
+  {
+   "name": "Phanteks Enthoo Evolv ATX Glass",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "5",
+   "price": "189.99"
+  },
+  {
+   "name": "Corsair SPEC-01 RED",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "4",
+   "price": "39.98"
+  },
+  {
+   "name": "NZXT S340 Elite (Black)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "2"
+  },
+  {
+   "name": "Fractal Design Define Nano S",
+   "type": "Mini ITX Desktop",
+   "ext": "0",
+   "int": "2",
+   "price": "54.99"
+  },
+  {
+   "name": "NZXT Phantom 410 (White)",
+   "type": "ATX Mid Tower",
+   "ext": "3",
+   "int": "6",
+   "price": "85.00"
+  },
+  {
+   "name": "Fractal Design Define R5 (Black)",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "8",
+   "price": "89.99"
+  },
+  {
+   "name": "Phanteks Enthoo Pro M",
+   "type": "ATX Mid Tower",
+   "ext": "1",
+   "int": "8",
+   "price": "59.99"
+  },
+  {
+   "name": "Cooler Master Elite 130",
+   "type": "Mini ITX Tower",
+   "ext": "1",
+   "int": "3",
+   "price": "34.99"
+  },
+  {
+   "name": "Fractal Design Define R4 (Black Pearl)",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "8",
+   "price": "69.99"
+  },
+  {
+   "name": "Cooler Master MasterCase Pro 5",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "5",
+   "price": "110.50"
+  },
+  {
+   "name": "Fractal Design Define S",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "59.99"
+  },
+  {
+   "name": "Corsair Carbide 400C White",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "2",
+   "price": "99.99"
+  },
+  {
+   "name": "Thermaltake Versa H15",
+   "type": "MicroATX Mid Tower",
+   "ext": "1",
+   "int": "3",
+   "price": "34.99"
+  },
+  {
+   "name": "Corsair Air 540",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "2",
+   "price": "129.79"
+  },
+  {
+   "name": "Cooler Master MasterBox 5 (Black)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "2",
+   "price": "59.50"
+  },
+  {
+   "name": "Phanteks ECLIPSE P400",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "2",
+   "price": "59.99"
+  },
+  {
+   "name": "Rosewill FBM-02",
+   "type": "MicroATX Mini Tower",
+   "ext": "1",
+   "int": "2",
+   "price": "24.99"
+  },
+  {
+   "name": "Corsair 750D Airflow Edition",
+   "type": "ATX Full Tower",
+   "ext": "3",
+   "int": "6",
+   "price": "119.99"
+  },
+  {
+   "name": "Corsair 900D",
+   "type": "ATX Full Tower",
+   "ext": "4",
+   "int": "9",
+   "price": "333.49"
+  },
+  {
+   "name": "NZXT Source 210 (Black)",
+   "type": "ATX Mid Tower",
+   "ext": "3",
+   "int": "8",
+   "price": "39.89"
+  },
+  {
+   "name": "Fractal Design Node 304",
+   "type": "Mini ITX Tower",
+   "ext": "0",
+   "int": "6",
+   "price": "59.99"
+  },
+  {
+   "name": "Fractal Design Core 1100",
+   "type": "MicroATX Mini Tower",
+   "ext": "2",
+   "int": "2",
+   "price": "26.99"
+  },
+  {
+   "name": "Corsair SPEC-ALPHA",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "85.98"
+  },
+  {
+   "name": "Fractal Design Define R5 Blackout Edition w/ Window",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "8",
+   "price": "89.99"
+  },
+  {
+   "name": "Corsair Air 240",
+   "type": "MicroATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "84.93"
+  },
+  {
+   "name": "Cooler Master HAF 912",
+   "type": "ATX Mid Tower",
+   "ext": "4",
+   "int": "6",
+   "price": "44.99"
+  },
+  {
+   "name": "NZXT H440 (Glossy White/Black)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "8",
+   "price": "108.99"
+  },
+  {
+   "name": "Phanteks ECLIPSE P400S",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "2",
+   "price": "69.99"
+  },
+  {
+   "name": "Phanteks Enthoo Evolv ATX Glass",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "5",
+   "price": "169.99"
+  },
+  {
+   "name": "Fractal Design Node 804",
+   "type": "MicroATX Mid Tower",
+   "ext": "0",
+   "int": "10",
+   "price": "69.99"
+  },
+  {
+   "name": "NZXT S340 - Designed by Razer",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "88.99"
+  },
+  {
+   "name": "Corsair Vengeance C70 (Black)",
+   "type": "ATX Mid Tower",
+   "ext": "3",
+   "int": "6",
+   "price": "109.99"
+  },
+  {
+   "name": "ABS R206-ITX",
+   "type": "MicroATX Slim",
+   "ext": "0",
+   "int": "1",
+   "price": "24.99"
+  },
+  {
+   "name": "Phanteks ECLIPSE P400",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "2",
+   "price": "59.99"
+  },
+  {
+   "name": "Phanteks Enthoo Pro M Acrylic",
+   "type": "ATX Mid Tower",
+   "ext": "1",
+   "int": "8",
+   "price": "74.99"
+  },
+  {
+   "name": "Rosewill RANGER-M",
+   "type": "MicroATX Mini Tower",
+   "ext": "2",
+   "int": "2",
+   "price": "25.50"
+  },
+  {
+   "name": "NZXT Noctis 450",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "6",
+   "price": "136.99"
+  },
+  {
+   "name": "Fractal Design Define Nano S",
+   "type": "Mini ITX Desktop",
+   "ext": "0",
+   "int": "2",
+   "price": "49.99"
+  },
+  {
+   "name": "Corsair 760T White V2",
+   "type": "ATX Full Tower",
+   "ext": "3",
+   "int": "6",
+   "price": "169.99"
+  },
+  {
+   "name": "NZXT H440 (White/Black)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "8",
+   "price": "154.47"
+  },
+  {
+   "name": "NZXT H440 (Matte Black)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "8",
+   "price": "109.99"
+  },
+  {
+   "name": "Silverstone RVZ02B",
+   "type": "HTPC",
+   "ext": "0",
+   "int": "1",
+   "price": "64.99"
+  },
+  {
+   "name": "Corsair Carbide SPEC-M2",
+   "type": "MicroATX Mid Tower",
+   "ext": "1",
+   "int": "2",
+   "price": "48.99"
+  },
+  {
+   "name": "Corsair 350D Window",
+   "type": "MicroATX Mid Tower",
+   "ext": "2",
+   "int": "2",
+   "price": "96.99"
+  },
+  {
+   "name": "Thermaltake Core V1 Snow Edition",
+   "type": "Mini ITX Tower",
+   "ext": "0",
+   "int": "2",
+   "price": "49.99"
+  },
+  {
+   "name": "Fractal Design Define Mini",
+   "type": "MicroATX Mini Tower",
+   "ext": "2",
+   "int": "6",
+   "price": "64.99"
+  },
+  {
+   "name": "Rosewill Galaxy-03",
+   "type": "ATX Mid Tower",
+   "ext": "3",
+   "int": "4",
+   "price": "34.99"
+  },
+  {
+   "name": "Deepcool TESSERACT BF",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "4",
+   "price": "34.99"
+  },
+  {
+   "name": "Cooler Master Storm Stryker (White)",
+   "type": "ATX Full Tower",
+   "ext": "9",
+   "int": "8",
+   "price": "139.99"
+  },
+  {
+   "name": "Corsair 250D",
+   "type": "Mini ITX Tower",
+   "ext": "1",
+   "int": "2",
+   "price": "81.99"
+  },
+  {
+   "name": "NZXT S340 Elite (White)",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "3"
+  },
+  {
+   "name": "NZXT Source 530",
+   "type": "ATX Full Tower",
+   "ext": "3",
+   "int": "6",
+   "price": "79.99"
+  },
+  {
+   "name": "Corsair 780T",
+   "type": "ATX Full Tower",
+   "ext": "2",
+   "int": "6",
+   "price": "176.34"
+  },
+  {
+   "name": "Phanteks Enthoo EVOLV ATX",
+   "type": "ATX Mid Tower",
+   "ext": "0",
+   "int": "5",
+   "price": "159.99"
+  },
+  {
+   "name": "Fractal Design Define R5 Blackout Edition",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "8",
+   "price": "79.99"
+  },
+  {
+   "name": "DIYPC Zondda-O",
+   "type": "ATX Mid Tower",
+   "ext": "1",
+   "int": "4",
+   "price": "25.99"
+  },
+  {
+   "name": "Corsair 500R Black",
+   "type": "ATX Mid Tower",
+   "ext": "4",
+   "int": "6",
+   "price": "101.99"
+  },
+  {
+   "name": "Fractal Design Core 500",
+   "type": "Mini ITX Desktop",
+   "ext": "1",
+   "int": "3",
+   "price": "49.99"
+  },
+  {
+   "name": "Corsair 450D",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "3",
+   "price": "102.00"
+  },
+  {
+   "name": "Lian-Li PC-V2120X",
+   "type": "ATX Full Tower",
+   "ext": "5",
+   "int": "10",
+   "price": "440.99"
+  },
+  {
+   "name": "Enermax Thorex",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "3",
+   "price": "28.99"
+  },
+  {
+   "name": "Phanteks Enthoo Primo",
+   "type": "ATX Full Tower",
+   "ext": "5",
+   "int": "6",
+   "price": "267.56"
+  },
+  {
+   "name": "DIYPC Ranger-R4-R",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "4",
+   "price": "34.79"
+  },
+  {
+   "name": "NZXT Phantom 240",
+   "type": "ATX Mid Tower",
+   "ext": "3",
+   "int": "6",
+   "price": "67.99"
+  },
+  {
+   "name": "Deepcool DUKASE WHV2",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "3",
+   "price": "46.74"
+  },
+  {
+   "name": "Cooler Master MasterCase Maker 5",
+   "type": "ATX Mid Tower",
+   "ext": "2",
+   "int": "5",
+   "price": "169.99"
+  },
+  {
+   "name": "Silverstone TJ07B-W-USB3.0 (Black)",
+   "type": "ATX Full Tower",
+   "ext": "7",
+   "int": "6",
+   "price": "354.99"
+  },
+  {
+   "name": "Corsair Air 240",
+   "type": "MicroATX Mid Tower",
+   "ext": "0",
+   "int": "3",
+   "price": "79.99"
+  }
+ ]
+

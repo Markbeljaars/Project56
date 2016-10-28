@@ -19,8 +19,8 @@ namespace WebApplication2.Database
             MySqlDataAdapter adp = new MySqlDataAdapter(cmd);
             DataSet ds = new DataSet();
             adp.Fill(ds);
-            GridView1.Datasource = ds;
-            GridView1.Databind();
+            //GridView1.Datasource = ds;
+            //GridView1.Databind();
             cmd.Dispose();
             conn.Close();
         }

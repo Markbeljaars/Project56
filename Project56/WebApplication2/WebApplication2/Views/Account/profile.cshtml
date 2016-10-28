@@ -1,0 +1,12 @@
+﻿@model WebApplication2.Models.Account
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>@ViewBag.Title</h1>
+<h2>@ViewBag.Message @Model.name @Model.surname</h2>
+<h4>Account id: @Model.Id</h4>
+<h4>Adress: @Model.adress</h4>
+<h4>E-mail: @Model.email</h4>
+<h4>Phone: @Model.phone</h4>
+

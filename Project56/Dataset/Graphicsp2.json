@@ -1,0 +1,803 @@
+ [
+  {
+   "name": "EVGA 12G-P4-3990-KR",
+   "series": "",
+   "chipset": "GeForce GTX Titan Z",
+   "memory": "12GB",
+   "coreclock": "705MHz",
+   "price": "3310.61"
+  },
+  {
+   "name": "MSI GeForce GTX 1060 3G OCV1",
+   "series": "OCV1",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.54Ghz",
+   "price": "199.99"
+  },
+  {
+   "name": "XFX RX-460P2SFG5",
+   "series": "",
+   "chipset": "Radeon RX 460",
+   "memory": "2GB",
+   "coreclock": "1.09Ghz",
+   "price": "104.98"
+  },
+  {
+   "name": "Gigabyte GV-N1080XTREME-8GD Premium pack",
+   "series": "Xtreme Gaming Premium Pack",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.76Ghz",
+   "price": "680.99"
+  },
+  {
+   "name": "MSI GeForce GTX 1060 3GT OC",
+   "series": "GT OC",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.54Ghz",
+   "price": "206.01"
+  },
+  {
+   "name": "Zotac ZT-90301-10M",
+   "series": "",
+   "chipset": "GeForce GTX 960",
+   "memory": "2GB",
+   "coreclock": "1.18Ghz",
+   "price": "171.99"
+  },
+  {
+   "name": "MSI GTX 980 4GD5T OC",
+   "series": "Armor 2X",
+   "chipset": "GeForce GTX 980",
+   "memory": "4GB",
+   "coreclock": "1.19Ghz",
+   "price": "379.99"
+  },
+  {
+   "name": "Sapphire 11260-07",
+   "series": "NITRO+",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.21Ghz",
+   "price": "269.99"
+  },
+  {
+   "name": "EVGA 08G-P4-6180-KR",
+   "series": "Founders Edition",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "699.89"
+  },
+  {
+   "name": "Zotac ZT-P10700G-10M",
+   "series": "Mini",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.52Ghz",
+   "price": "379.99"
+  },
+  {
+   "name": "MSI GTX 1070 GAMING Z 8G",
+   "series": "",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.66Ghz",
+   "price": "469.99"
+  },
+  {
+   "name": "MSI R7 240 2GD3 LP",
+   "series": "",
+   "chipset": "Radeon R7 240",
+   "memory": "2GB",
+   "coreclock": "730MHz",
+   "price": "37.98"
+  },
+  {
+   "name": "Sapphire 11256-02",
+   "series": "NITRO+",
+   "chipset": "Radeon RX 470",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "224.98"
+  },
+  {
+   "name": "EVGA 03G-P4-6367",
+   "series": "FTW+ GAMING",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.63Ghz",
+   "price": "219.99"
+  },
+  {
+   "name": "EVGA 08G-P4-6170-KR",
+   "series": "Founders Edition",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "444.99"
+  },
+  {
+   "name": "EVGA 06G-P4-6368-KR",
+   "series": "FTW+ GAMING",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.63Ghz",
+   "price": "304.98"
+  },
+  {
+   "name": "EVGA 08G-P4-6278-KR",
+   "series": "FTW HYBRID",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "494.98"
+  },
+  {
+   "name": "PNY VCGGTX10808XGPB-OC",
+   "series": "XLR8",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.71Ghz",
+   "price": "604.98"
+  },
+  {
+   "name": "Gigabyte GV-N75TWF2OC-4GI",
+   "series": "",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "4GB",
+   "coreclock": "1.06Ghz",
+   "price": "125.99"
+  },
+  {
+   "name": "Asus STRIX-R9380-DC2OC-4GD5-GAMING",
+   "series": "",
+   "chipset": "Radeon R9 380",
+   "memory": "4GB",
+   "coreclock": "990MHz",
+   "price": "203.98"
+  },
+  {
+   "name": "XFX R9-FURY-4QFA",
+   "series": "",
+   "chipset": "Radeon R9 Fury X",
+   "memory": "4GB",
+   "coreclock": "1.05Ghz",
+   "price": "364.98"
+  },
+  {
+   "name": "EVGA 04G-P4-2974-KR",
+   "series": "Superclocked ACX 2.0",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "coreclock": "1.17Ghz",
+   "price": "320.00"
+  },
+  {
+   "name": "MSI R9 390 GAMING 8G",
+   "series": "",
+   "chipset": "Radeon R9 390",
+   "memory": "8GB",
+   "coreclock": "1.0GHz",
+   "price": "399.88"
+  },
+  {
+   "name": "Zotac ZT-P10700B-10P",
+   "series": "AMP! Extreme",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.63Ghz",
+   "price": "443.44"
+  },
+  {
+   "name": "MSI GEFORCE GTX 1080 GAMING Z 8G",
+   "series": "GAMING Z",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "754.98"
+  },
+  {
+   "name": "Asus ROG STRIX-RX460-O4G-GAMING",
+   "series": "STRIX OC",
+   "chipset": "Radeon RX 460",
+   "memory": "4GB",
+   "coreclock": "1.09Ghz",
+   "price": "135.67"
+  },
+  {
+   "name": "EVGA 08G-P4-6284-KR",
+   "series": "FTW DT GAMING",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "649.88"
+  },
+  {
+   "name": "Gigabyte GV-R736OC-2GD (rev. 2.0)",
+   "series": "Ultra Durable 2",
+   "chipset": "Radeon R7 360",
+   "memory": "2GB",
+   "coreclock": "1.2GHz",
+   "price": "89.99"
+  },
+  {
+   "name": "MSI GEFORCE GTX 1070 SEA HAWK X",
+   "series": "",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "479.99"
+  },
+  {
+   "name": "Asus DUAL-RX460-O2G",
+   "series": "Dual OC",
+   "chipset": "Radeon RX 460",
+   "memory": "2GB",
+   "coreclock": "1.09Ghz",
+   "price": "116.99"
+  },
+  {
+   "name": "Gigabyte GV-N730-2GI",
+   "series": "",
+   "chipset": "GeForce GT 730",
+   "memory": "2GB",
+   "coreclock": "700MHz",
+   "price": "58.99"
+  },
+  {
+   "name": "Gigabyte GV-N1060IXOC-6GD",
+   "series": "Mini ITX OC",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.53Ghz",
+   "price": "254.98"
+  },
+  {
+   "name": "Gigabyte GV-RX480G1 GAMING-8GD",
+   "series": "G1 Gaming",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "252.99"
+  },
+  {
+   "name": "MSI GeForce GTX 1060 ARMOR 6G OCV1",
+   "series": "ARMOR OCV1",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.54Ghz",
+   "price": "269.99"
+  },
+  {
+   "name": "Gigabyte GV-N75TOC-2GL",
+   "series": "",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "2GB",
+   "coreclock": "1.03Ghz",
+   "price": "113.98"
+  },
+  {
+   "name": "EVGA 02G-P4-2966-KR",
+   "series": "SuperSC ACX 2.0+",
+   "chipset": "GeForce GTX 960",
+   "memory": "2GB",
+   "coreclock": "1.28Ghz",
+   "price": "299.98"
+  },
+  {
+   "name": "Zotac ZT-90107-10P",
+   "series": "AMP! Extreme Core Edition",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "coreclock": "1.23Ghz",
+   "price": "255.99"
+  },
+  {
+   "name": "Asus GTX1070-8G",
+   "series": "Founders Edition",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "434.00"
+  },
+  {
+   "name": "MSI Radeon RX 470 GAMING X 8G",
+   "series": "Gaming X",
+   "chipset": "Radeon RX 470",
+   "memory": "8GB",
+   "coreclock": "926MHz",
+   "price": "244.96"
+  },
+  {
+   "name": "MSI GTX 950 GAMING 2G",
+   "series": "",
+   "chipset": "GeForce GTX 950",
+   "memory": "2GB",
+   "coreclock": "1.13Ghz",
+   "price": "158.98"
+  },
+  {
+   "name": "Asus 710-2-SL-CSM",
+   "series": "",
+   "chipset": "GeForce GT 710",
+   "memory": "2GB",
+   "coreclock": "954MHz",
+   "price": "32.98"
+  },
+  {
+   "name": "Asus STRIX-GTX950-DC2OC-2GD5-GAMING",
+   "series": "",
+   "chipset": "GeForce GTX 950",
+   "memory": "2GB",
+   "coreclock": "1.02Ghz",
+   "price": "159.99"
+  },
+  {
+   "name": "MSI N750Ti TF 2GD5/OC",
+   "series": "TWIN FROZR",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "2GB",
+   "coreclock": "1.08Ghz",
+   "price": "149.98"
+  },
+  {
+   "name": "Zotac ZT-P10700A-10P",
+   "series": "Founders Edition",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "424.99"
+  },
+  {
+   "name": "Asus GTX1080-8G",
+   "series": "Founders Edition",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "689.99"
+  },
+  {
+   "name": "Asus MINI-GTX950-2G",
+   "series": "",
+   "chipset": "GeForce GTX 950 75W",
+   "memory": "2GB",
+   "coreclock": "1.03Ghz",
+   "price": "108.98"
+  },
+  {
+   "name": "EVGA 02G-P4-2951-KR",
+   "series": "Superclocked",
+   "chipset": "GeForce GTX 950",
+   "memory": "2GB",
+   "coreclock": "1.15Ghz",
+   "price": "153.99"
+  },
+  {
+   "name": "EVGA 02G-P4-3751-KR",
+   "series": "",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "2GB",
+   "coreclock": "1.02Ghz",
+   "price": "119.13"
+  },
+  {
+   "name": "AMD 100-505989",
+   "series": "",
+   "chipset": "FirePro W9100",
+   "memory": "32GB",
+   "coreclock": "930MHz",
+   "price": "2875.00"
+  },
+  {
+   "name": "Sapphire 100384NT4GOC-2L",
+   "series": "NITRO Dual-X OC",
+   "chipset": "Radeon R9 380",
+   "memory": "4GB",
+   "coreclock": "1.01Ghz",
+   "price": "204.99"
+  },
+  {
+   "name": "MSI R9 380 GAMING 4G",
+   "series": "",
+   "chipset": "Radeon R9 380",
+   "memory": "4GB",
+   "coreclock": "970MHz",
+   "price": "299.89"
+  },
+  {
+   "name": "MSI GeForce GTX 1060 ARMOR 3G OCV1",
+   "series": "ARMOR OCV1",
+   "chipset": "GeForce GTX 1060 3GB",
+   "memory": "3GB",
+   "coreclock": "1.54Ghz",
+   "price": "219.99"
+  },
+  {
+   "name": "EVGA 02G-P4-2968-KR",
+   "series": "FTW ACX 2.0+",
+   "chipset": "GeForce GTX 960",
+   "memory": "2GB",
+   "coreclock": "1.30Ghz",
+   "price": "198.99"
+  },
+  {
+   "name": "Asus ROG STRIX-RX470-4G-GAMING",
+   "series": "STRIX",
+   "chipset": "Radeon RX 470",
+   "memory": "4GB",
+   "coreclock": "926MHz",
+   "price": "229.89"
+  },
+  {
+   "name": "MSI GEFORCE GTX 1060 ARMOR 6G OC",
+   "series": "ARMOR OC",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.51Ghz",
+   "price": "315.89"
+  },
+  {
+   "name": "MSI N750ti-2GD5TLP",
+   "series": "",
+   "chipset": "GeForce GTX 750 Ti",
+   "memory": "2GB",
+   "coreclock": "1.02Ghz",
+   "price": "120.99"
+  },
+  {
+   "name": "Asus ROG STRIX-RX480-8G-GAMING",
+   "series": "ROG STRIX",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "289.99"
+  },
+  {
+   "name": "EVGA 04G-P4-3973-KR",
+   "series": "ACX 2.0+",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "coreclock": "1.05Ghz",
+   "price": "379.99"
+  },
+  {
+   "name": "XFX R7-250X-CGF4",
+   "series": "Core Edition",
+   "chipset": "Radeon R7 250X",
+   "memory": "2GB",
+   "coreclock": "1.0GHz",
+   "price": "78.98"
+  },
+  {
+   "name": "Asus STRIX-GTX980TI-DC3OC-6GD5-GAMING",
+   "series": "STRIX",
+   "chipset": "GeForce GTX 980 Ti",
+   "memory": "6GB",
+   "coreclock": "1.22Ghz",
+   "price": "649.99"
+  },
+  {
+   "name": "PNY VCQM6000-PB",
+   "series": "",
+   "chipset": "Quadro M6000",
+   "memory": "12GB",
+   "coreclock": "988MHz",
+   "price": "4499.99"
+  },
+  {
+   "name": "Asus RX480-8G",
+   "series": "",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "249.99"
+  },
+  {
+   "name": "MSI GEFORCE GTX 1060 GAMING 6G",
+   "series": "GAMING",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.51Ghz",
+   "price": "284.98"
+  },
+  {
+   "name": "XFX RX-480P4LFB6",
+   "series": "RS",
+   "chipset": "Radeon RX 480",
+   "memory": "4GB",
+   "coreclock": "1.12Ghz",
+   "price": "224.98"
+  },
+  {
+   "name": "EVGA 04G-P4-3748-KR",
+   "series": "Superclocked",
+   "chipset": "GeForce GT 740",
+   "memory": "4GB",
+   "coreclock": "1.08Ghz",
+   "price": "109.99"
+  },
+  {
+   "name": "EVGA 08G-P4-6178-KR",
+   "series": "HYBRID GAMING",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.59Ghz",
+   "price": "424.98"
+  },
+  {
+   "name": "Asus EAH6450 Silent/DI/1GD3(LP)",
+   "series": "",
+   "chipset": "Radeon HD 6450",
+   "memory": "1GB",
+   "coreclock": "625MHz",
+   "price": "34.89"
+  },
+  {
+   "name": "PowerColor AXRX 460 4GBD5-DHV2/OC",
+   "series": "Red Dragon",
+   "chipset": "Radeon RX 460",
+   "memory": "4GB",
+   "coreclock": "1.09Ghz",
+   "price": "118.98"
+  },
+  {
+   "name": "MSI GeForce GTX 1080 AERO 8G OC",
+   "series": "",
+   "chipset": "GeForce GTX 1080",
+   "memory": "8GB",
+   "coreclock": "1.63Ghz",
+   "price": "659.89"
+  },
+  {
+   "name": "EVGA 06G-P4-4995-KR",
+   "series": "Superclocked+ ACX 2.0+",
+   "chipset": "GeForce GTX 980 Ti",
+   "memory": "6GB",
+   "coreclock": "1.10Ghz",
+   "price": "689.89"
+  },
+  {
+   "name": "Gigabyte GV-N1060XTREME-6GD",
+   "series": "Xtreme Gaming",
+   "chipset": "GeForce GTX 1060 6GB",
+   "memory": "6GB",
+   "coreclock": "1.62Ghz",
+   "price": "297.49"
+  },
+  {
+   "name": "XFX RX-480M8BBA6",
+   "series": "Black Edition",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "269.88"
+  },
+  {
+   "name": "MSI GTX 960 GAMING 2G",
+   "series": "",
+   "chipset": "GeForce GTX 960",
+   "memory": "2GB",
+   "coreclock": "1.22Ghz",
+   "price": "299.99"
+  },
+  {
+   "name": "EVGA 01G-P3-2710-KR",
+   "series": "",
+   "chipset": "GeForce GT 710",
+   "memory": "1GB",
+   "coreclock": "954MHz",
+   "price": "27.98"
+  },
+  {
+   "name": "EVGA 02G-P4-2957-KR",
+   "series": "SSC ACX 2.0",
+   "chipset": "GeForce GTX 950",
+   "memory": "2GB",
+   "coreclock": "1.19Ghz",
+   "price": "179.42"
+  },
+  {
+   "name": "Gigabyte GV-N960XTREME-4GD",
+   "series": "XTREME",
+   "chipset": "GeForce GTX 960",
+   "memory": "4GB",
+   "coreclock": "1.28Ghz",
+   "price": "203.98"
+  },
+  {
+   "name": "EVGA 06G-P4-4996-KR",
+   "series": "FTW ACX 2.0+",
+   "chipset": "GeForce GTX 980 Ti",
+   "memory": "6GB",
+   "coreclock": "1.19Ghz",
+   "price": "599.11"
+  },
+  {
+   "name": "Asus TURBO-GTX960-OC-4GD5",
+   "series": "",
+   "chipset": "GeForce GTX 960",
+   "memory": "4GB",
+   "coreclock": "1.19Ghz",
+   "price": "211.99"
+  },
+  {
+   "name": "Asus STRIX-GTX980-DC2OC-4GD5",
+   "series": "STRIX",
+   "chipset": "GeForce GTX 980",
+   "memory": "4GB",
+   "coreclock": "1.18Ghz",
+   "price": "504.99"
+  },
+  {
+   "name": "Gigabyte GV-N950WF2OC-2GD",
+   "series": "Dual WindForce",
+   "chipset": "GeForce GTX 950",
+   "memory": "2GB",
+   "coreclock": "1.10Ghz",
+   "price": "133.98"
+  },
+  {
+   "name": "MSI RADEON RX 460 2G OC",
+   "series": "",
+   "chipset": "Radeon RX 460",
+   "memory": "2GB",
+   "coreclock": "1.09Ghz",
+   "price": "119.99"
+  },
+  {
+   "name": "Asus GTX950-2G",
+   "series": "",
+   "chipset": "GeForce GTX 950 75W",
+   "memory": "2GB",
+   "coreclock": "1.03Ghz",
+   "price": "119.98"
+  },
+  {
+   "name": "MSI N730K-1GD5LP/OC",
+   "series": "",
+   "chipset": "GeForce GT 730",
+   "memory": "1GB",
+   "coreclock": "1.01Ghz",
+   "price": "43.99"
+  },
+  {
+   "name": "Zotac ZT-71115-20L",
+   "series": "",
+   "chipset": "GeForce GT 730",
+   "memory": "4GB",
+   "coreclock": "902MHz",
+   "price": "68.99"
+  },
+  {
+   "name": "EVGA 08G-P4-6171-KR",
+   "series": "ACX 3.0",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "404.89"
+  },
+  {
+   "name": "Sapphire 21260-00-20G",
+   "series": "",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "359.99"
+  },
+  {
+   "name": "MSI GTX 960 GAMING 4G",
+   "series": "",
+   "chipset": "GeForce GTX 960",
+   "memory": "4GB",
+   "coreclock": "1.24Ghz",
+   "price": "399.88"
+  },
+  {
+   "name": "Asus TURBO-GTX970-OC-4GD5",
+   "series": "",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "coreclock": "1.09Ghz",
+   "price": "299.99"
+  },
+  {
+   "name": "EVGA 04G-P4-2978-KR",
+   "series": "FTW ACX 2.0",
+   "chipset": "GeForce GTX 970",
+   "memory": "4GB",
+   "coreclock": "1.22Ghz",
+   "price": "399.89"
+  },
+  {
+   "name": "PNY VCGGTX10708XGPB-OC",
+   "series": "XLR8",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.61Ghz",
+   "price": "409.98"
+  },
+  {
+   "name": "XFX R7-360P-2SF5",
+   "series": "Core Edition",
+   "chipset": "Radeon R7 360",
+   "memory": "2GB",
+   "coreclock": "1.05Ghz",
+   "price": "113.89"
+  },
+  {
+   "name": "MSI RX480-8G",
+   "series": "",
+   "chipset": "Radeon RX 480",
+   "memory": "8GB",
+   "coreclock": "1.12Ghz",
+   "price": "259.99"
+  },
+  {
+   "name": "XFX R9-390X-8256",
+   "series": "Double Dissipation",
+   "chipset": "Radeon R9 390X",
+   "memory": "8GB",
+   "coreclock": "1.05Ghz",
+   "price": "362.89"
+  },
+  {
+   "name": "Sapphire 100382NTOC-2L",
+   "series": "Nitro",
+   "chipset": "Radeon R9 390",
+   "memory": "8GB",
+   "coreclock": "1.04Ghz",
+   "price": "314.99"
+  },
+  {
+   "name": "Gigabyte GV-R938XG1 GAMING-4G",
+   "series": "WINDFORCE 2X",
+   "chipset": "Radeon R9 380X",
+   "memory": "4GB",
+   "coreclock": "980MHz",
+   "price": "213.98"
+  },
+  {
+   "name": "EVGA 02G-P4-2742-KR",
+   "series": "Superclocked",
+   "chipset": "GeForce GT 740",
+   "memory": "2GB",
+   "coreclock": "1.06Ghz",
+   "price": "81.99"
+  },
+  {
+   "name": "Zotac ZT-71113-20L",
+   "series": "",
+   "chipset": "GeForce GT 730",
+   "memory": "2GB",
+   "coreclock": "902MHz",
+   "price": "59.99"
+  },
+  {
+   "name": "EVGA 04G-P4-2744-KR",
+   "series": "Superclocked",
+   "chipset": "GeForce GT 740",
+   "memory": "4GB",
+   "coreclock": "1.06Ghz",
+   "price": "94.99"
+  },
+  {
+   "name": "EVGA 08G-P4-5170-KR",
+   "series": "GAMING",
+   "chipset": "GeForce GTX 1070",
+   "memory": "8GB",
+   "coreclock": "1.51Ghz",
+   "price": "399.99"
+  },
+  {
+   "name": "MSI R5 230 2GD3H LP",
+   "series": "",
+   "chipset": "Radeon R5 230",
+   "memory": "2GB",
+   "coreclock": "625MHz",
+   "price": "31.99"
+  }
+ ]
+

@@ -1,0 +1,902 @@
+ [
+  {
+   "name": "Kingston HyperX Fury Black",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "14",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "44.18"
+  },
+  {
+   "name": "G.Skill Ripjaws V Series",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "89.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "35.98"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "76.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "93.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "73.99"
+  },
+  {
+   "name": "Kingston HyperX Fury Black",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "40.56"
+  },
+  {
+   "name": "Kingston HyperX Fury Black",
+   "speed": "DDR3-1866",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "75.30"
+  },
+  {
+   "name": "Kingston HyperX Fury Black",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "14",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "93.99"
+  },
+  {
+   "name": "Crucial",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "4x32GB",
+   "size": "128GB",
+   "price": "1071.99"
+  },
+  {
+   "name": "Corsair Vengeance",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "44.88"
+  },
+  {
+   "name": "Kingston HyperX Fury Black",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "14",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "48.76"
+  },
+  {
+   "name": "G.Skill Ripjaws V Series",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x16GB",
+   "size": "32GB",
+   "price": "194.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "38.99"
+  },
+  {
+   "name": "GeIL EVO POTENZA",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "81.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "97.12"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "73.99"
+  },
+  {
+   "name": "PNY",
+   "speed": "DDR3-1866",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "68.21"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "78.99"
+  },
+  {
+   "name": "Crucial Ballistix Sport LT",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "85.00"
+  },
+  {
+   "name": "Patriot Viper 3",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "35.00"
+  },
+  {
+   "name": "G.Skill Ripjaws V Series",
+   "speed": "DDR4-2800",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "94.99"
+  },
+  {
+   "name": "Corsair Dominator Platinum",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "119.89"
+  },
+  {
+   "name": "Corsair Dominator Platinum",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "4x8GB",
+   "size": "32GB",
+   "price": "269.99"
+  },
+  {
+   "name": "Corsair Vengeance",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "83.99"
+  },
+  {
+   "name": "Crucial",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "39.99"
+  },
+  {
+   "name": "Kingston HyperX Fury Black",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "70.92"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "13",
+   "modules": "2x16GB",
+   "size": "32GB",
+   "price": "158.14"
+  },
+  {
+   "name": "G.Skill Ripjaws 4 Series",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "91.88"
+  },
+  {
+   "name": "Corsair Dominator Platinum",
+   "speed": "DDR4-2800",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "8x16GB",
+   "size": "128GB",
+   "price": "1039.00"
+  },
+  {
+   "name": "Crucial Ballistix Sport",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "39.99"
+  },
+  {
+   "name": "G.Skill Ripjaws Series",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "50.88"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2666",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "44.99"
+  },
+  {
+   "name": "Crucial",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "1x4GB",
+   "size": "4GB",
+   "price": "19.99"
+  },
+  {
+   "name": "G.Skill Ripjaws 4 Series",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "79.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2666",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "82.99"
+  },
+  {
+   "name": "Kingston ValueRAM",
+   "speed": "DDR2-667",
+   "type": "240-pin DIMM",
+   "cas": "5",
+   "modules": "1x1GB",
+   "size": "1GB",
+   "price": "6.50"
+  },
+  {
+   "name": "Corsair Vengeance Pro",
+   "speed": "DDR3-2400",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "76.80"
+  },
+  {
+   "name": "G.Skill Ripjaws X Series",
+   "speed": "DDR3-2400",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "94.99"
+  },
+  {
+   "name": "Crucial Ballistix Sport LT",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "43.98"
+  },
+  {
+   "name": "Corsair Vengeance LED",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "99.99"
+  },
+  {
+   "name": "Crucial",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "17",
+   "modules": "1x64GB",
+   "size": "64GB",
+   "price": "739.99"
+  },
+  {
+   "name": "Crucial Ballistix Sport LT",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "4x16GB",
+   "size": "64GB",
+   "price": "288.24"
+  },
+  {
+   "name": "Crucial Ballistix Sport LT",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "48.96"
+  },
+  {
+   "name": "G.Skill TridentZ Series",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "99.99"
+  },
+  {
+   "name": "G.Skill Ripjaws X Series",
+   "speed": "DDR3-1866",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "39.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "91.83"
+  },
+  {
+   "name": "Mushkin Essentials",
+   "speed": "DDR3-1333",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "34.83"
+  },
+  {
+   "name": "Crucial Ballistix Sport",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "44.89"
+  },
+  {
+   "name": "Corsair Vengeance LED",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "106.99"
+  },
+  {
+   "name": "Kingston HyperX Fury Black",
+   "speed": "DDR3-1866",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "1x4GB",
+   "size": "4GB",
+   "price": "25.88"
+  },
+  {
+   "name": "Kingston FURY",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "14",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "43.88"
+  },
+  {
+   "name": "Kingston HyperX Fury Red",
+   "speed": "DDR3-1866",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "44.49"
+  },
+  {
+   "name": "Mushkin Stealth",
+   "speed": "DDR3-2133",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "39.89"
+  },
+  {
+   "name": "Kingston",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "1x2GB",
+   "size": "2GB",
+   "price": "12.98"
+  },
+  {
+   "name": "G.Skill Ripjaws V Series",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "53.88"
+  },
+  {
+   "name": "Kingston",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "43.98"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2666",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "4x8GB",
+   "size": "32GB",
+   "price": "156.21"
+  },
+  {
+   "name": "Kingston",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "32.20"
+  },
+  {
+   "name": "Kingston HyperX Fury Black",
+   "speed": "DDR3-1866",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "41.92"
+  },
+  {
+   "name": "Corsair Dominator Platinum",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "134.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2666",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "83.31"
+  },
+  {
+   "name": "Kingston FURY",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "56.99"
+  },
+  {
+   "name": "Mushkin Essentials",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "39.99"
+  },
+  {
+   "name": "GeIL EVO POTENZA",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "73.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "99.99"
+  },
+  {
+   "name": "Crucial",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "45.04"
+  },
+  {
+   "name": "Corsair Vengeance Pro",
+   "speed": "DDR3-2400",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "4x8GB",
+   "size": "32GB",
+   "price": "169.99"
+  },
+  {
+   "name": "G.Skill TridentZ Series",
+   "speed": "DDR4-3466",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "4x16GB",
+   "size": "64GB",
+   "price": "539.99"
+  },
+  {
+   "name": "G.Skill Ripjaws V Series",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "84.88"
+  },
+  {
+   "name": "G.Skill Ripjaws X Series",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "50.89"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2666",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "4x8GB",
+   "size": "32GB",
+   "price": "168.99"
+  },
+  {
+   "name": "G.Skill Ripjaws V Series",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "93.04"
+  },
+  {
+   "name": "V7",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "55.97"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "1x16GB",
+   "size": "16GB",
+   "price": "85.99"
+  },
+  {
+   "name": "Mushkin Silverline",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "34.90"
+  },
+  {
+   "name": "Corsair Vengeance",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "42.98"
+  },
+  {
+   "name": "Kingston HyperX Fury White",
+   "speed": "DDR3-1866",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "74.46"
+  },
+  {
+   "name": "Kingston FURY",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "14",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "76.99"
+  },
+  {
+   "name": "Crucial Ballistix Sport LT",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "4x4GB",
+   "size": "16GB",
+   "price": "95.99"
+  },
+  {
+   "name": "Crucial",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "2x4GB",
+   "size": "8GB"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "84.88"
+  },
+  {
+   "name": "GeIL EVO POTENZA",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "79.99"
+  },
+  {
+   "name": "Corsair Dominator Platinum",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x16GB",
+   "size": "32GB",
+   "price": "239.99"
+  },
+  {
+   "name": "Kingston FURY",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "14",
+   "modules": "1x16GB",
+   "size": "16GB",
+   "price": "80.02"
+  },
+  {
+   "name": "Corsair Vengeance LED",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "4x16GB",
+   "size": "64GB",
+   "price": "399.99"
+  },
+  {
+   "name": "Crucial Ballistix Sport LT",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "2x16GB",
+   "size": "32GB",
+   "price": "169.00"
+  },
+  {
+   "name": "Kingston ValueRAM",
+   "speed": "DDR2-800",
+   "type": "240-pin DIMM",
+   "cas": "6",
+   "modules": "2x2GB",
+   "size": "4GB",
+   "price": "23.95"
+  },
+  {
+   "name": "Corsair XMS3",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "50.98"
+  },
+  {
+   "name": "Kingston FURY",
+   "speed": "DDR4-2400",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "86.99"
+  },
+  {
+   "name": "Corsair Vengeance LPX",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "48.24"
+  },
+  {
+   "name": "Corsair Vengeance Pro",
+   "speed": "DDR3-1866",
+   "type": "240-pin DIMM",
+   "cas": "11",
+   "modules": "4x8GB",
+   "size": "32GB",
+   "price": "146.55"
+  },
+  {
+   "name": "G.Skill Ripjaws V Series",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "89.89"
+  },
+  {
+   "name": "Crucial",
+   "speed": "DDR4-2133",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "45.98"
+  },
+  {
+   "name": "G.Skill Ripjaws V Series",
+   "speed": "DDR4-3000",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "95.89"
+  },
+  {
+   "name": "Crucial Ballistix Sport",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "9",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "84.88"
+  },
+  {
+   "name": "G.Skill TridentZ Series",
+   "speed": "DDR4-3200",
+   "type": "288-pin DIMM",
+   "cas": "16",
+   "modules": "4x8GB",
+   "size": "32GB",
+   "price": "205.21"
+  },
+  {
+   "name": "Kingston HyperX Fury White",
+   "speed": "DDR3-1866",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "2x4GB",
+   "size": "8GB",
+   "price": "49.59"
+  },
+  {
+   "name": "Kingston FURY",
+   "speed": "DDR4-2666",
+   "type": "288-pin DIMM",
+   "cas": "15",
+   "modules": "1x8GB",
+   "size": "8GB",
+   "price": "43.88"
+  },
+  {
+   "name": "G.Skill Ripjaws X Series",
+   "speed": "DDR3-1600",
+   "type": "240-pin DIMM",
+   "cas": "10",
+   "modules": "2x8GB",
+   "size": "16GB",
+   "price": "82.99"
+  }
+ ]
+
