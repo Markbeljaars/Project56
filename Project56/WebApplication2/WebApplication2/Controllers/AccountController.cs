@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
             var conn = new MySqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=***********");
             conn.Open();
 
-            var stmt = new MySqlCommand("SELECT * FROM users", conn);
+            var stmt = new MySqlCommand("SELECT * FROM CPU", conn);
             MySqlDataReader myReader = stmt.ExecuteReader();
 
             var account = new Account();
