@@ -9,6 +9,7 @@
     var address = "";
     var emailaddress = "";
     var password = "";
+    var passwordconf = "";
 
     if (IsPost)
     {
@@ -18,39 +19,44 @@
         address = Request.Form["address"];
         emailaddress = Request.Form["emailaddress"];
         password = Request.Form["password"];
+        passwordconf = Request.Form["passwordconf"];
 
-        using (var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123"))
-        {
-            var cmd = new SqlCommand("INSERT INTO Users (username, Name, Surname, Address, Email, Password) VALUES (@1, @2, @3, @4, @5, @6)", conn);
-            cmd.Parameters.AddWithValue("@1", username);
-            cmd.Parameters.AddWithValue("@2", firstname);
-            cmd.Parameters.AddWithValue("@3", lastname);
-            cmd.Parameters.AddWithValue("@4", address);
-            cmd.Parameters.AddWithValue("@5", emailaddress);
-            cmd.Parameters.AddWithValue("@6", password);
+        if(password == passwordconf) {
+            using (var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123"))
+            {
+                var cmd = new SqlCommand("INSERT INTO Users (username, Name, Surname, Address, Email, Password) VALUES (@1, @2, @3, @4, @5, @6)", conn);
+                cmd.Parameters.AddWithValue("@1", username);
+                cmd.Parameters.AddWithValue("@2", firstname);
+                cmd.Parameters.AddWithValue("@3", lastname);
+                cmd.Parameters.AddWithValue("@4", address);
+                cmd.Parameters.AddWithValue("@5", emailaddress);
+                cmd.Parameters.AddWithValue("@6", password);
 
-            conn.Open();
-            cmd.ExecuteNonQuery();
+                conn.Open();
+                cmd.ExecuteNonQuery();
+            }
         }
 
     }
-       
+
 }
 
 <h2>register</h2>
 <form method="POST">
     Username:<br>
-    <input type="text" name="username" value="@Request.Form["username"]"><br>
+    <input type="text" name="username" value="@Request.Form["username"]" placeholder="Ex.: BobEleveld"><br>
     First name:<br>
-    <input type="text" name="firstname" value="@Request.Form["firstname"]"><br>
+    <input type="text" name="firstname" value="@Request.Form["firstname"]" placeholder="Ex.: Bob"><br>
     Last name:<br>
-    <input type="text" name="lastname" value="@Request.Form["lastname"]"><br>
+    <input type="text" name="lastname" value="@Request.Form["lastname"]" placeholder="Ex.: Eleveld"><br>
     Address name:<br>
-    <input type="text" name="address" value="@Request.Form["address"]"><br>
+    <input type="text" name="address" value="@Request.Form["address"]" placeholder="Ex.: Wijnhaven 107"><br>
     E-mail address:<br>
-    <input type="text" name="emailaddress" value="@Request.Form["emailaddress"]"><br>
+    <input type="text" name="emailaddress" value="@Request.Form["emailaddress"]" placeholder="Ex.: B.Eleveld@hr.nl"><br>
     Password:<br>
-    <input type="text" name="password" value="@Request.Form["password"]"><br><br>
+    <input type="password" name="password" value="@Request.Form["password"]"><br>
+    Password Confirmation:<br>
+    <input type="password" name="passwordconf" value="@Request.Form["passwordconf"]"><br><br>
 
     <input type="submit" value="Submit">
 </form>
