@@ -11,10 +11,9 @@ namespace WebApplication2.Models
     {
         [Key]
         public string username { get; set; }
-
         [Required(ErrorMessage = "Your password is required")]
         public string password { get; set; }
-        //[Compare("Password", EmailMessage = "Please confirm your password")]
+        [Compare("Password", ErrorMessage = "Please confirm your password")]
         public string confirmPassword { get; set; }
         [Required(ErrorMessage = "Your first name is required and must be unique!")]
         public string name { get; set; }
