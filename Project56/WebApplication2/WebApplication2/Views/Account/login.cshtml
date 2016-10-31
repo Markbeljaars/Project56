@@ -1,12 +1,15 @@
-﻿
+﻿@model WebApplication2.Models.Account
 @{
     ViewBag.Title = "login";
     Layout = "~/Views/Shared/_Layout.cshtml";
 
+    var username = "";
+    var password = "";
+
     if (IsPost)
     {
-        @Model.username = Request.Form["username"];
-        @Model.password = Request.Form["password"];
+        username = Request.Form["username"];
+        password = Request.Form["password"];
     }
 }
 

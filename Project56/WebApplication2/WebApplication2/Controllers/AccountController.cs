@@ -35,21 +35,21 @@ namespace WebApplication2.Controllers
             return View();
         }
 
-        public ActionResult login(Account account)
+        public ActionResult login()
         {
-            //var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
-            //conn.Open();
+            var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
+            conn.Open();
 
-            //var stmt = new SqlCommand("SELECT count(*) FROM Users u WHERE Username=@username AND Password=@password", conn);
+            var stmt = new SqlCommand("SELECT * FROM Users u WHERE Username=@username AND Password=@password", conn);
 
-            //var myReader = stmt.ExecuteReader();
-            //while (myReader.Read())
-            //{
-            //    if (myReader.GetInt32(0) == 1)
-            //    {
-            //        Console.WriteLine("Cool");
-            //    }
-            //}
+            var myReader = stmt.ExecuteReader();
+            while (myReader.Read())
+            {
+                if (myReader.GetInt32(0) == 1)
+                {
+                    Console.WriteLine("Cool");
+                }
+            }
             return View();
         }
 
