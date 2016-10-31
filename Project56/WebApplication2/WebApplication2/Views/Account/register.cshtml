@@ -1,0 +1,57 @@
+﻿@using System.Data.SqlClient;
+@{
+    ViewBag.Title = "register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var username = "";
+    var firstname = "";
+    var lastname = "";
+    var address = "";
+    var emailaddress = "";
+    var password = "";
+
+    if (IsPost)
+    {
+        username = Request.Form["username"];
+        firstname = Request.Form["firstname"];
+        lastname = Request.Form["lastname"];
+        address = Request.Form["address"];
+        emailaddress = Request.Form["emailaddress"];
+        password = Request.Form["password"];
+
+        using (var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123"))
+        {
+            var cmd = new SqlCommand("INSERT INTO Users (username, Name, Surname, Address, Email, Password) VALUES (@1, @2, @3, @4, @5, @6)", conn);
+            cmd.Parameters.AddWithValue("@1", username);
+            cmd.Parameters.AddWithValue("@2", firstname);
+            cmd.Parameters.AddWithValue("@3", lastname);
+            cmd.Parameters.AddWithValue("@4", address);
+            cmd.Parameters.AddWithValue("@5", emailaddress);
+            cmd.Parameters.AddWithValue("@6", password);
+
+            conn.Open();
+            cmd.ExecuteNonQuery();
+        }
+
+    }
+       
+}
+
+<h2>register</h2>
+<form>
+    Username:<br>
+    <input type="text" name="username" value="@Request.Form["username"]"><br>
+    First name:<br>
+    <input type="text" name="firstname" value="@Request.Form["firstname"]"><br>
+    Last name:<br>
+    <input type="text" name="lastname" value="@Request.Form["lastname"]"><br>
+    Address name:<br>
+    <input type="text" name="address" value="@Request.Form["address"]"><br>
+    E-mail address:<br>
+    <input type="text" name="emailaddress" value="@Request.Form["emailaddress"]"><br>
+    Password:<br>
+    <input type="text" name="password" value="@Request.Form["password"]"><br><br>
+
+    <input type="submit" value="Submit">
+</form>
+
