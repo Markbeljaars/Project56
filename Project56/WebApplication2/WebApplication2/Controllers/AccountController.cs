@@ -35,17 +35,17 @@ namespace WebApplication2.Controllers
             return View();
         }
 
-        public ActionResult login()
+        public ActionResult login(Account account)
         {
             var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
             conn.Open();
 
-            var stmt = new SqlCommand("SELECT * FROM Users u WHERE Username=@username AND Password=@password", conn);
+            var stmt = new SqlCommand("SELECT * FROM Users u WHERE u.Username= '" + account.username + "' AND u.Password='" + account.password+"'",conn);
 
             var myReader = stmt.ExecuteReader();
             while (myReader.Read())
             {
-                if (myReader.GetInt32(0) == 1)
+                if (myReader.GetInt32(0) == 1) //FIX DIT MARK
                 {
                     Console.WriteLine("Cool");
                 }
