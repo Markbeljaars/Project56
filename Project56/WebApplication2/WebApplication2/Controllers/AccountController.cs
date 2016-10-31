@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using MySql.Data.MySqlClient;
 using System.Web.Mvc;
 using WebApplication2.Models;
+using System.Data.SqlClient;
 
 namespace WebApplication2.Controllers
 {
@@ -12,11 +12,12 @@ namespace WebApplication2.Controllers
         // GET: account/profile
         public ActionResult profile()
         {
-            var conn = new MySqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=***********");
+            var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
             conn.Open();
 
-            var stmt = new MySqlCommand("SELECT * FROM CPU", conn);
-            MySqlDataReader myReader = stmt.ExecuteReader();
+            var stmt = new SqlCommand("SELECT * FROM Users", conn);
+
+            var myReader = stmt.ExecuteReader();
 
             var account = new Account();
 
@@ -27,6 +28,11 @@ namespace WebApplication2.Controllers
                        
              //= new Account() { Id = 1, name = "Admin", address = "Wijnhaven 107" };
             return View(account);
+        }
+
+        public ActionResult register()
+        {
+            return View();
         }
 
         //[HttpPost]
