@@ -29,7 +29,7 @@
                 Session["LoggedIn"] = AccountFactory.genAcc(username);
                 if(Session["LoggedIn"] != null)
                 {
-                    Debug.Write((string)Session["LoggedIn"]);
+                    Debug.Write(Session["LoggedIn"].);
                     Response.Redirect("/account/profile");
                     
                 }
