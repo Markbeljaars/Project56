@@ -47,14 +47,7 @@ namespace WebApplication2.Controllers
             return View();
         }
 
-        //[HttpPost]
-        //public ActionResult Register(Account account) { 
-
-        //    if (ModelState.IsValid)
-        //    {
-                
-        //    }
-        //}
+        
         
 
         
