@@ -35,30 +35,8 @@ namespace WebApplication2.Controllers
             return View();
         }
 
-        public ActionResult login(Account account)
+        public ActionResult login()
         {
-            var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
-            conn.Open();
-
-            try {
-                var stmt = new SqlCommand("SELECT * FROM Users u WHERE u.Username= '" + account.username + "' AND u.Password= '" + account.password + "'", conn);
-                //stmt.Parameters.AddWithValue("@uName", account.username);
-                //stmt.Parameters.AddWithValue("@uPass", account.password);
-
-
-                int myReader = (int)stmt.ExecuteScalar();
-                if (myReader > 1)
-                {
-                    ViewBag.Message("Login Success");
-                }
-                else
-                {
-                    ViewBag.Message("Login failed");
-                } }
-            catch(NullReferenceException e)
-            {
-                Console.WriteLine(e.Message);
-            }
             return View();
         }
 

@@ -1,6 +1,7 @@
-﻿@model WebApplication2.Models.Account
+﻿@using System.Data.SqlClient;
+@using System.Diagnostics;
 @{
-    ViewBag.Title = "login";
+    ViewBag.Title = "Login";
     Layout = "~/Views/Shared/_Layout.cshtml";
 
     var username = "";
@@ -10,6 +11,29 @@
     {
         username = Request.Form["username"];
         password = Request.Form["password"];
+
+        var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
+        conn.Open();
+
+        try
+        {
+            var stmt = new SqlCommand("SELECT COUNT(*) FROM Users u WHERE u.Username= '" + username + "' AND u.Password= '" + password + "'", conn);
+
+
+            int myReader = (int)stmt.ExecuteScalar();
+            if (myReader > 0)
+            {
+                Debug.Write("Succesfully logged in.");
+            }
+            else
+            {
+                Debug.Write("Login failed.");
+            }
+        }
+        catch (NullReferenceException e)
+        {
+            Console.WriteLine(e.Message);
+        }
     }
 }
 
