@@ -37,6 +37,8 @@ namespace WebApplication2.Controllers
 
         public ActionResult login()
         {
+            ViewBag.Message = "Please enter your login details.";
+
             return View();
         }
 

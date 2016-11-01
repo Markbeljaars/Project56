@@ -2,6 +2,7 @@
 @using System.Diagnostics;
 @{
     ViewBag.Title = "Login";
+
     Layout = "~/Views/Shared/_Layout.cshtml";
 
     var username = "";
@@ -24,10 +25,16 @@
             if (myReader > 0)
             {
                 Debug.Write("Succesfully logged in.");
+                Session["LoggedIn"] = username;
+                if(Session["LoggedIn"] != null)
+                {
+                    Response.Redirect("/account/profile");
+                }
             }
             else
             {
                 Debug.Write("Login failed.");
+
             }
         }
         catch (NullReferenceException e)
@@ -44,7 +51,7 @@
     Username:<br>
 <input type="text" name="username" value="@Request.Form["username"]" placeholder="Ex.: BobEleveld"><br>
     Password:<br>
-<input type="text" name="password" value="@Request.Form["password"]" placeholder="Ex.: Jedikkepapa"><br><br>
+<input type="password" name="password" value="@Request.Form["password"]" placeholder="Ex.: **********"><br><br>
     
     <input type="submit" value="Submit">
 </form>
