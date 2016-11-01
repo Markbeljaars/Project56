@@ -222,6 +222,7 @@
     <Content Include="Views\Account\login.cshtml" />
     <Content Include="Views\Account\adminpage.cshtml" />
     <Content Include="Views\Account\logout.cshtml" />
+    <Content Include="Views\Account\useraccounts.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

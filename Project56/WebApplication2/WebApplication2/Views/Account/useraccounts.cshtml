@@ -1,0 +1,44 @@
+﻿@using WebApplication2.Models;
+@using System.Data;
+@using System.Data.SqlClient;
+@{
+    var currSession = (Account)Session["LoggedIn"];
+
+    var firstname = "";
+    var lastname = "";
+    var address = "";
+    var emailaddress = "";
+    var type = "";
+
+    if (currSession == null || currSession.type == "User")
+    {
+        Response.Redirect("/home/index");
+
+    }
+    else
+    {
+        ViewBag.Title = currSession.username;
+
+        firstname = currSession.name;
+        lastname = currSession.surname;
+        address = currSession.address;
+        emailaddress = currSession.email;
+        type = currSession.type;
+    }
+    var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
+    conn.Open();
+
+    var stmt = new SqlCommand("SELECT * FROM Users", conn);
+
+    var myReader = stmt.ExecuteReader();
+
+    var account = new Account();
+
+    while (myReader.Read())
+    {
+        ViewBag.Message = myReader.GetValue(0);
+    }
+}
+
+<h2>useraccounts</h2>
+

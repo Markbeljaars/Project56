@@ -51,10 +51,16 @@ namespace WebApplication2.Controllers
 
             return View();
         }
+        public ActionResult useraccounts()
+        {
+           
 
-        
-        
+            //= new Account() { Id = 1, name = "Admin", address = "Wijnhaven 107" };
+            return View();
+        }
 
-        
+
+
+
     }
 }
