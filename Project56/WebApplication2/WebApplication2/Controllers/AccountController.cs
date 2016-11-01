@@ -40,15 +40,24 @@ namespace WebApplication2.Controllers
             var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
             conn.Open();
 
-            var stmt = new SqlCommand("SELECT * FROM Users u WHERE u.Username= '" + account.username + "' AND u.Password='" + account.password+"'",conn);
+            try {
+                var stmt = new SqlCommand("SELECT * FROM Users u WHERE u.Username= '" + account.username + "' AND u.Password= '" + account.password + "'", conn);
+                //stmt.Parameters.AddWithValue("@uName", account.username);
+                //stmt.Parameters.AddWithValue("@uPass", account.password);
 
-            var myReader = stmt.ExecuteReader();
-            while (myReader.Read())
-            {
-                if (myReader.GetInt32(0) == 1) //FIX DIT MARK
+
+                int myReader = (int)stmt.ExecuteScalar();
+                if (myReader > 1)
                 {
-                    Console.WriteLine("Cool");
+                    ViewBag.Message("Login Success");
                 }
+                else
+                {
+                    ViewBag.Message("Login failed");
+                } }
+            catch(NullReferenceException e)
+            {
+                Console.WriteLine(e.Message);
             }
             return View();
         }
