@@ -42,6 +42,11 @@ namespace WebApplication2.Controllers
             return View();
         }
 
+        public ActionResult adminpage()
+        {
+            return View();
+        }
+
         //[HttpPost]
         //public ActionResult Register(Account account) { 
 

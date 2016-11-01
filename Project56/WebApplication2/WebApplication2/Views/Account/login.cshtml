@@ -28,7 +28,20 @@
                 Session["LoggedIn"] = username;
                 if(Session["LoggedIn"] != null)
                 {
-                    Response.Redirect("/account/profile");
+                    var stmt2 = new SqlCommand("SELECT Type FROM Users u WHERE u.Username= '" + username + "'", conn);
+                    SqlDataReader reader2 = stmt2.ExecuteReader();
+                    while (reader2.Read()){
+                        var accounttype = reader2.GetValue(0);
+                        if ((string)accounttype == "admin"){
+                            Response.Redirect("/account/adminpage");
+                        }
+                        else
+                        {
+                            Response.Redirect("/home/index");
+                        }
+                    }
+
+
                 }
             }
             else
