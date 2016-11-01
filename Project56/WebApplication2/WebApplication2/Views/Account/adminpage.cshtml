@@ -1,15 +1,30 @@
 ﻿@using WebApplication2.Models;
 @{
     var currSession = (Account)Session["LoggedIn"];
-    ViewBag.Title = currSession.username;
 
-    var firstname = currSession.name;
-    var lastname = currSession.surname;
-    var address = currSession.address;
-    var emailaddress = currSession.email;
-    var type = currSession.type;
- }
-    
+    var firstname = "";
+    var lastname = "";
+    var address = "";
+    var emailaddress = "";
+    var type = "";
+
+    if (currSession == null || currSession.type == "User")
+    {
+        Response.Redirect("/home/index");
+       
+    }
+    else
+    {
+        ViewBag.Title = currSession.username;
+
+        firstname = currSession.name;
+        lastname = currSession.surname;
+        address = currSession.address;
+        emailaddress = currSession.email;
+        type = currSession.type;
+    }
+}
+
 
 <h2>Admin Profile Page</h2>
 <h4> Name: @firstname  @lastname </h4>

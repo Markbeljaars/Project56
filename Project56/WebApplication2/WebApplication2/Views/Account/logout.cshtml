@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "logout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    Session.Abandon();
+    Response.Redirect("/home/index");
+}
+
+

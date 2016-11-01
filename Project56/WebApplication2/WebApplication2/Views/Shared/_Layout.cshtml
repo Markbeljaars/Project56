@@ -1,4 +1,21 @@
-﻿<!DOCTYPE html>
+﻿@{ 
+    var loginbtn = "";
+    var action = "";
+
+    var currSession = Session["LoggedIn"];
+    if(currSession == null)
+    {
+        loginbtn = "Login";
+        action = "login";
+    }
+    else
+    {
+        loginbtn = "Logout";
+        action = "logout";
+    }
+}
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -23,7 +40,7 @@
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
-                    <li>@Html.ActionLink("Login", "login", "account")</li>
+                    <li>@Html.ActionLink(@loginbtn, @action,"account")</li>
                     <li>@Html.ActionLink("Register", "register", "account") </li>
                 </ul>
             </div>

@@ -33,7 +33,6 @@ namespace WebApplication2.Database
                     }
                 }
             }
-                
             return generatedAccount;
         }
     }
