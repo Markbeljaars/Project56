@@ -1,5 +1,6 @@
 ﻿@using System.Data.SqlClient;
 @using System.Diagnostics;
+@using WebApplication2.Database;
 @{
     ViewBag.Title = "Login";
 
@@ -25,10 +26,12 @@
             if (myReader > 0)
             {
                 Debug.Write("Succesfully logged in.");
-                Session["LoggedIn"] = username;
+                Session["LoggedIn"] = AccountFactory.genAcc(username);
                 if(Session["LoggedIn"] != null)
                 {
+                    Debug.Write((string)Session["LoggedIn"]);
                     Response.Redirect("/account/profile");
+                    
                 }
             }
             else
