@@ -1,7 +1,21 @@
-﻿
+﻿@using WebApplication2.Models;
 @{
-    ViewBag.Title = "adminpage";
-}
+    var currSession = (Account)Session["LoggedIn"];
+    ViewBag.Title = currSession.username;
 
-<h2>Admin Page</h2>
+    var firstname = currSession.name;
+    var lastname = currSession.surname;
+    var address = currSession.address;
+    var emailaddress = currSession.email;
+    var type = currSession.type;
+ }
+    
+
+<h2>Admin Profile Page</h2>
+<h4> Name: @firstname  @lastname </h4>
+<h4> Address: @address </h4>
+<h4> E-mail: @emailaddress </h4>
+<h4> Type: @type </h4>
+
+
 

@@ -16,8 +16,7 @@ namespace WebApplication2.Database
             var connString = "Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123";
             using (SqlConnection conn = new SqlConnection(connString))
             {
-                SqlCommand stmt = new SqlCommand("SELECT * FROM Users WHERE username = @userName", conn);
-                stmt.Parameters.AddWithValue("@userName", uName);
+                SqlCommand stmt = new SqlCommand("SELECT * FROM Users WHERE username = '" + uName + "'", conn);
                 conn.Open();
                 using(SqlDataReader dReader = stmt.ExecuteReader())
                 {

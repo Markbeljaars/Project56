@@ -1,5 +1,6 @@
 ﻿@using System.Data.SqlClient;
 @using System.Diagnostics;
+@using WebApplication2.Models;
 @using WebApplication2.Database;
 @{
     ViewBag.Title = "Login";
@@ -27,11 +28,25 @@
             {
                 Debug.Write("Succesfully logged in.");
                 Session["LoggedIn"] = AccountFactory.genAcc(username);
-                if(Session["LoggedIn"] != null)
+                if (Session["LoggedIn"] != null)
                 {
-                    Debug.Write(Session["LoggedIn"].);
-                    Response.Redirect("/account/profile");
-                    
+                    //var stmt2 = new SqlCommand("SELECT Type FROM Users u WHERE u.Username= '" + username + "'", conn);
+                    //SqlDataReader reader2 = stmt2.ExecuteReader();
+                    //while (reader2.Read())
+                    //{
+
+                    var accounttype = (Account)Session["LoggedIn"];
+                    if (accounttype.type == "admin")
+                    {
+                        Response.Redirect("/account/adminpage");
+                    }
+                    else
+                    {
+                        Response.Redirect("/home/index");
+                    }
+                    //}
+
+
                 }
             }
             else
@@ -47,17 +62,12 @@
     }
 }
 
-
-
 <h2>login</h2>
 <form method="POST">
     Username:<br>
-<input type="text" name="username" value="@Request.Form["username"]" placeholder="Ex.: BobEleveld"><br>
+    <input type="text" name="username" value="@Request.Form["username"]" placeholder="Ex.: BobEleveld"><br>
     Password:<br>
-<input type="password" name="password" value="@Request.Form["password"]" placeholder="Ex.: **********"><br><br>
-    
+    <input type="password" name="password" value="@Request.Form["password"]" placeholder="Ex.: ****"><br><br>
+
     <input type="submit" value="Submit">
 </form>
-
-
-
