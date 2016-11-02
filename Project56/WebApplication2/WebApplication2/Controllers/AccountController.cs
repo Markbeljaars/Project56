@@ -58,6 +58,10 @@ namespace WebApplication2.Controllers
             //= new Account() { Id = 1, name = "Admin", address = "Wijnhaven 107" };
             return View();
         }
+        public ActionResult noadmin()
+        {
+            return View();
+        }
 
 
 

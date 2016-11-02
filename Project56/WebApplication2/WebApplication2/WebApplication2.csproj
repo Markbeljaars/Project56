@@ -223,6 +223,7 @@
     <Content Include="Views\Account\adminpage.cshtml" />
     <Content Include="Views\Account\logout.cshtml" />
     <Content Include="Views\Account\useraccounts.cshtml" />
+    <Content Include="Views\Account\noadmin.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
