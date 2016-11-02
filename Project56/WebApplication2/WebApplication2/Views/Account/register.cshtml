@@ -13,6 +13,7 @@
 
     if (IsPost)
     {
+       
         username = Request.Form["username"];
         firstname = Request.Form["firstname"];
         lastname = Request.Form["lastname"];
@@ -24,16 +25,36 @@
         if(password == passwordconf) {
             using (var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123"))
             {
-                var cmd = new SqlCommand("INSERT INTO Users (username, Name, Surname, Address, Email, Password) VALUES (@1, @2, @3, @4, @5, @6)", conn);
-                cmd.Parameters.AddWithValue("@1", username);
-                cmd.Parameters.AddWithValue("@2", firstname);
-                cmd.Parameters.AddWithValue("@3", lastname);
-                cmd.Parameters.AddWithValue("@4", address);
-                cmd.Parameters.AddWithValue("@5", emailaddress);
-                cmd.Parameters.AddWithValue("@6", password);
-
+                SqlCommand usernameCheck = new SqlCommand("SELECT username FROM Users WHERE username = '" + username + "'", conn);
                 conn.Open();
-                cmd.ExecuteNonQuery();
+                var reader = usernameCheck.ExecuteReader();
+
+                reader.Read();
+                var existingUsername = reader.GetValue(0);
+                conn.Close();
+
+                if (existingUsername.ToString() != username)
+                {
+                    var cmd = new SqlCommand("INSERT INTO Users (username, Name, Surname, Address, Email, Password) VALUES (@1, @2, @3, @4, @5, @6)", conn);
+                    cmd.Parameters.AddWithValue("@1", username);
+                    cmd.Parameters.AddWithValue("@2", firstname);
+                    cmd.Parameters.AddWithValue("@3", lastname);
+                    cmd.Parameters.AddWithValue("@4", address);
+                    cmd.Parameters.AddWithValue("@5", emailaddress);
+                    cmd.Parameters.AddWithValue("@6", password);
+
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                }
+                else
+                {
+
+                    <text>This username is already in use. Please enter a unique username.</text>
+                    System.Threading.Thread.Sleep(5000);
+                    Response.Redirect("/account/register");
+                }
+
+
             }   }   }   }
 
 <h2>register</h2>
