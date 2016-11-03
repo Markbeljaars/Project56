@@ -166,10 +166,9 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AbstractController.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\DatabaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Database\AccountFactory.cs" />
-    <Compile Include="Database\MongoConnection.cs" />
-    <Compile Include="Database\IDatabase.cs" />
+    <Compile Include="Controllers\AccountFactory.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

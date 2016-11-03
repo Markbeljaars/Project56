@@ -2,6 +2,7 @@
 @using System.Diagnostics;
 @using WebApplication2.Models;
 @using WebApplication2.Database;
+@using WebApplication2.Controllers;
 @{
 
     ViewBag.Title = "Login";
@@ -16,16 +17,14 @@
         username = Request.Form["username"];
         password = Request.Form["password"];
 
-        var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
-        conn.Open();
+        DatabaseController.connect();
 
         try
         {
-            var stmt = new SqlCommand("SELECT COUNT(*) FROM Users u WHERE u.Username= '" + username + "' AND u.Password= '" + password + "'", conn);
-
-
-            int myReader = (int)stmt.ExecuteScalar();
-            if (myReader > 0)
+            var myRs = DatabaseController.runScalarQuery("SELECT COUNT(*) FROM Users u WHERE u.Username= '" + username + "' AND u.Password= '" + password + "'");
+            
+           
+            if (myRs > 0)
             {
                 Debug.Write("Succesfully logged in.");
                 Session["LoggedIn"] = AccountFactory.genAcc(username);
