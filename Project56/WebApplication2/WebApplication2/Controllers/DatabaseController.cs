@@ -32,6 +32,11 @@ namespace WebApplication2.Controllers
 
             return myRsInt;
         }
+        public static void runNonQuery(string query)
+        {
+            stmt = new SqlCommand(query, conn);
+            var myRs = stmt.ExecuteNonQuery();
+        }
 
         public static void close()
         {
