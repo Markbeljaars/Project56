@@ -1,0 +1,11 @@
+"UPDATE Users SET username= '" + input1 +"' WHERE username= +'" oldusername"'"
+
+"UPDATE Users SET name= '" + input1 +"' WHERE username= +'" +findusername"
+
+"UPDATE Users SET surname= '" + input1 +"' WHERE username= +'" findusername"'"
+
+"UPDATE Users SET type= '" + input1 +"'+ WHERE username= +'" findusername"'"
+
+"UPDATE Users SET address= '" + input1 +"' WHERE username= +'" findusername"'"
+
+"UPDATE Users SET email= '" + input1 +"' WHERE username= +'" findusername"'"
