@@ -16,74 +16,86 @@
     var email = "";
     var type = "";
 
-    if (currSession == null || currSession.type == "User")
-    {
-        Response.Redirect("/account/noadmin");
 
-    }
+     if (currSession == null || currSession.type == "User")
+      {
+         Response.Redirect("/account/noadmin");
+
+     }
     else {
 
-        if (IsPost)
+    if (IsPost)
+    {
+        username = Request.Form["Username"];
+        if (Request.Form["Request"] != null)
         {
-            if (Request.Form["Request"] != null)
+
+            DatabaseController.connect();
+
+            var myRs = DatabaseController.runQuery("SELECT * FROM Users u WHERE u.Username= '" + username + "'");
+            while (myRs.Read())
             {
-                username = Request.Form["Username"];
-                DatabaseController.connect();
-
-                var myRs = DatabaseController.runQuery("SELECT * FROM Users u WHERE u.Username= '" + username + "'");
-                while (myRs.Read())
+                try
                 {
-                    try
+                    if (myRs != null)
                     {
-                        if (myRs != null)
-                        {
-                            Debug.Write("Existing user account");
-                            password = myRs["Password"].ToString();
-                            name = myRs["Name"].ToString();
-                            surname = myRs["Surname"].ToString();
-                            address = myRs["Address"].ToString();
-                            email = myRs["Email"].ToString();
-                            type = myRs["Type"].ToString();
+                        Debug.Write("Existing user account");
+                        password = myRs["Password"].ToString();
+                        name = myRs["Name"].ToString();
+                        surname = myRs["Surname"].ToString();
+                        address = myRs["Address"].ToString();
+                        email = myRs["Email"].ToString();
+                        type = myRs["Type"].ToString();
 
-                        }
-                        else
-                        {
-                            < text > Non existing user account.</ text >
-                        }
                     }
-                    catch (NullReferenceException e)
+                    else
                     {
-                        Console.WriteLine(e.Message);
+                            < text > Non existing user account.</ text >
                     }
                 }
-                myRs.Close();
+                catch (NullReferenceException e)
+                {
+                    Console.WriteLine(e.Message);
+                }
             }
-            if (Request.Form["Update"] != null)
-            {
-                password = Request.Form["password"];
-                name = Request.Form["name"];
-                surname = Request.Form["surname"];
-                address = Request.Form["address"];
-                email = Request.Form["email"];
-                type = Request.Form["type"];
+            Debug.WriteLine("  stop punt 1");
+            myRs.Close();
+        }
+
+        if (Request.Form["Update"] != null)
+        {
 
 
+            Debug.WriteLine("  stop punt 2 update");
 
-                var cmd = new SqlCommand("UPDATE Users SET password = @1, name = @2, surname = @3, address = @4, email = @5, type = @6 WHERE Username = '" + username + "'", DatabaseController.conn);
-                cmd.Parameters.AddWithValue("@1", @password);
-                cmd.Parameters.AddWithValue("@2", @name);
-                cmd.Parameters.AddWithValue("@3", @surname);
-                cmd.Parameters.AddWithValue("@4", @address);
-                cmd.Parameters.AddWithValue("@5", @email);
-                cmd.Parameters.AddWithValue("@6", @type);
+            var Upassword = Request.Form["password"];
+            Debug.WriteLine(Upassword);
+            var Uname = Request.Form["name"];
+            var Usurname = Request.Form["surname"];
+            var Uaddress = Request.Form["address"];
+            var Uemail = Request.Form["email"];
+            var Utype = Request.Form["type"];
 
-                cmd.ExecuteNonQuery();
-                DatabaseController.close();
-                Debug.Write("got em");
+            var query = "UPDATE Users SET password = '" + Upassword + "', name = '" + Uname + "', surname = '" + Usurname + "', address = '" + Uaddress + "', email = '" + Uaddress + "' WHERE Username = '" + username + "'";
+            Debug.WriteLine(query);
 
-            }
+            // cmd.Parameters.AddWithValue("@1", @password);
+            // cmd.Parameters.AddWithValue("@2", @name);
+            // cmd.Parameters.AddWithValue("@3", @surname);
+            //  cmd.Parameters.AddWithValue("@4", @address);
+            //  cmd.Parameters.AddWithValue("@5", @email);
+            //  cmd.Parameters.AddWithValue("@6", @type);
+
+
+            SqlConnection conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
+
+            SqlCommand stmt = new SqlCommand(query, conn);
+            conn.Open();
+            stmt.ExecuteNonQuery();
+            conn.Close();
         }
     }
+     }
     }
 
 
@@ -96,21 +108,19 @@
 <h2>Edit user accounts</h2>
 <form method="POST">
     Username:<br>
-    <input type="text" name="username" value="@Request.Form["username"]" placeholder="Ex.: BobEleveld"><br>
+    <input type="text" name="username" value="@Request.Form["username"]" placeholder="Ex.: BobEleveld"><br> 
     Password:<br>
-    <input type="text" name="password" value="@Request.Form["password"]" placeholder="@password"><br>
-    First name:<br>
-    <input type="text" name="name" value="@Request.Form["Name"]" placeholder="@name"><br>
-    Last name:<br>
-    <input type="text" name="surname" value="@Request.Form["Surname"]" placeholder="@surname"><br>
-    Address name:<br>
-    <input type="text" name="address" value="@Request.Form["Address"]" placeholder="@address"><br>
-    E-mail address:<br>
-    <input type="text" name="email" value="@Request.Form["Email"]" placeholder="@email"><br>
-    Type:<br>
-    <input type="text" name="type" value="@Request.Form["Type"]" placeholder="@type"><br>
+    <input type="text" name="password" value="@password"><br>
+    Name:<br>
+    <input type="text" name="name" value="@name"><br>
+     Surname:<br>
+    <input type="text" name="surname" value="@surname"><br>
+    Address:<br>
+     <input type="text" name="address" value="@address"><br>
+     Email:<br>
+    <input type="text" name="email" value="@email"><br>
     <br>
-
+    
     <input name="Request" type="submit" value="Request"/>
     <input name="Update" type="submit" value="Update"/>
 </form>

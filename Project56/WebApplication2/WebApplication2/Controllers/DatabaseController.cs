@@ -9,7 +9,7 @@ namespace WebApplication2.Controllers
 {
     public class DatabaseController
     {
-        public static SqlConnection conn;
+        public static SqlConnection conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
         public static SqlCommand stmt;
         public static void connect()
         {
