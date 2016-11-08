@@ -70,6 +70,9 @@
                 cmd.Parameters.AddWithValue("@6", email);
                 cmd.Parameters.AddWithValue("@7", type);
 
+                cmd.ExecuteNonQuery();
+                DatabaseController.close();
+
 
 
             }
