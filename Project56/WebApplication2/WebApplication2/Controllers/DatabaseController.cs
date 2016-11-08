@@ -28,6 +28,7 @@ namespace WebApplication2.Controllers
         public static int runScalarQuery(string query)
         {
             stmt = new SqlCommand(query, conn);
+            
             int myRsInt = (int)stmt.ExecuteScalar();
 
             return myRsInt;

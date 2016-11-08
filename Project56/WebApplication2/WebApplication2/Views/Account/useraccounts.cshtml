@@ -25,10 +25,10 @@
             
                 try
                 {
-                    var myRs = DatabaseController.runScalarQuery("SELECT * FROM Users u WHERE u.Username= '" + username + "'");
+                    var myRs = DatabaseController.runQuery("SELECT * FROM Users u WHERE u.Username= '" + username + "'");
 
 
-                    if (myRs > 0)
+                    if (myRs != null)
                     {
                         Debug.Write("Existing user account");
 
