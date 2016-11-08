@@ -31,49 +31,55 @@
                 DatabaseController.connect();
 
                 var myRs = DatabaseController.runQuery("SELECT * FROM Users u WHERE u.Username= '" + username + "'");
-                myRs.Read();
-                var currentedit = myRs.GetValue(0);
-
-                try
+                while (myRs.Read())
                 {
-
-
-                    if (myRs != null)
+                    try
                     {
-                        Debug.Write("Existing user account");
-                        password = myRs["Password"].ToString();
-                        name = myRs["Name"].ToString();
-                        surname = myRs["Surname"].ToString();
-                        address = myRs["Address"].ToString();
-                        email = myRs["Email"].ToString();
-                        type = myRs["Type"].ToString();
+                        if (myRs != null)
+                        {
+                            Debug.Write("Existing user account");
+                            password = myRs["Password"].ToString();
+                            name = myRs["Name"].ToString();
+                            surname = myRs["Surname"].ToString();
+                            address = myRs["Address"].ToString();
+                            email = myRs["Email"].ToString();
+                            type = myRs["Type"].ToString();
 
-                    }
-                    else
-                    {
+                        }
+                        else
+                        {
                             < text > Non existing user account.</ text >
+                        }
+                    }
+                    catch (NullReferenceException e)
+                    {
+                        Console.WriteLine(e.Message);
                     }
                 }
-                catch (NullReferenceException e)
-                {
-                    Console.WriteLine(e.Message);
-                }
+                myRs.Close();
             }
             if (Request.Form["Update"] != null)
             {
-                DatabaseController.connect();
-                var cmd = new SqlCommand("UPDATE Users SET password = @2, name = @3, surname = @4, address = @5, email = @6, type = @7 WHERE Username = '" + username + "'", DatabaseController.conn);
-                cmd.Parameters.AddWithValue("@2", password);
-                cmd.Parameters.AddWithValue("@3", name);
-                cmd.Parameters.AddWithValue("@4", surname);
-                cmd.Parameters.AddWithValue("@5", address);
-                cmd.Parameters.AddWithValue("@6", email);
-                cmd.Parameters.AddWithValue("@7", type);
+                password = Request.Form["password"];
+                name = Request.Form["name"];
+                surname = Request.Form["surname"];
+                address = Request.Form["address"];
+                email = Request.Form["email"];
+                type = Request.Form["type"];
+
+
+
+                var cmd = new SqlCommand("UPDATE Users SET password = @1, name = @2, surname = @3, address = @4, email = @5, type = @6 WHERE Username = '" + username + "'", DatabaseController.conn);
+                cmd.Parameters.AddWithValue("@1", @password);
+                cmd.Parameters.AddWithValue("@2", @name);
+                cmd.Parameters.AddWithValue("@3", @surname);
+                cmd.Parameters.AddWithValue("@4", @address);
+                cmd.Parameters.AddWithValue("@5", @email);
+                cmd.Parameters.AddWithValue("@6", @type);
 
                 cmd.ExecuteNonQuery();
                 DatabaseController.close();
-
-
+                Debug.Write("got em");
 
             }
         }
@@ -87,24 +93,22 @@
 
 
 
-<h2>useraccounts</h2>
+<h2>Edit user accounts</h2>
 <form method="POST">
     Username:<br>
     <input type="text" name="username" value="@Request.Form["username"]" placeholder="Ex.: BobEleveld"><br>
     Password:<br>
-    <input type="text" name="password" value="@password"><br>
-    Name:<br>
-    <input type="text" name="name" value="@name"><br>
-    Surname:<br>
-    <input type="text" name="surname" value="@surname"><br>
-    Address:<br>
-    <input type="text" name="address" value="@address"><br>
-    Email:<br>
-    <input type="text" name="email" value="@email"><br>
+    <input type="text" name="password" value="@Request.Form["password"]" placeholder="@password"><br>
+    First name:<br>
+    <input type="text" name="name" value="@Request.Form["Name"]" placeholder="@name"><br>
+    Last name:<br>
+    <input type="text" name="surname" value="@Request.Form["Surname"]" placeholder="@surname"><br>
+    Address name:<br>
+    <input type="text" name="address" value="@Request.Form["Address"]" placeholder="@address"><br>
+    E-mail address:<br>
+    <input type="text" name="email" value="@Request.Form["Email"]" placeholder="@email"><br>
     Type:<br>
-    <input type="text" name="type" value="@type"><br>
-    
-    
+    <input type="text" name="type" value="@Request.Form["Type"]" placeholder="@type"><br>
     <br>
 
     <input name="Request" type="submit" value="Request"/>
