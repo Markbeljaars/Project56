@@ -1,44 +1,85 @@
-﻿@using WebApplication2.Models;
-@using System.Data;
-@using System.Data.SqlClient;
+﻿@using System.Data.SqlClient;
+@using System.Diagnostics;
+@using WebApplication2.Models;
+@using WebApplication2.Database;
+@using WebApplication2.Controllers;
 @{
+    ViewBag.Title = "UserAccounts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var username = "";
     var currSession = (Account)Session["LoggedIn"];
-
-    var firstname = "";
-    var lastname = "";
-    var address = "";
-    var emailaddress = "";
-    var type = "";
 
     if (currSession == null || currSession.type == "User")
     {
-        Response.Redirect("/home/index");
+        Response.Redirect("/account/noadmin");
 
     }
-    else
-    {
-        ViewBag.Title = currSession.username;
+    else {
 
-        firstname = currSession.name;
-        lastname = currSession.surname;
-        address = currSession.address;
-        emailaddress = currSession.email;
-        type = currSession.type;
+        if (IsPost)
+        {
+            if (Request.Form["Request"] != null)
+            {
+                username = Request.Form["Username"];
+                DatabaseController.connect();
+            
+                try
+                {
+                    var myRs = DatabaseController.runScalarQuery("SELECT * FROM Users u WHERE u.Username= '" + username + "'");
+
+
+                    if (myRs > 0)
+                    {
+                        Debug.Write("Existing user account");
+
+                    }
+                    else
+                    {
+                            < text > Non existing user account.</ text >
+                    }
+                }
+                catch (NullReferenceException e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            if (Request.Form["Update"] != null)
+            {
+
+            }
+        }
     }
-    var conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
-    conn.Open();
 
-    var stmt = new SqlCommand("SELECT * FROM Users", conn);
 
-    var myReader = stmt.ExecuteReader();
 
-    var account = new Account();
 
-    while (myReader.Read())
-    {
-        ViewBag.Message = myReader.GetValue(0);
-    }
-}
+
+
+
 
 <h2>useraccounts</h2>
+<form method="POST">
+    Username:<br>
+    <input type="text" name="username" value="@Request.Form["username"]" placeholder="Ex.: BobEleveld"><br>
+    Password:<br>
+    <input type="text" name="password" value="@Request.Form["Password"]" placeholder="Ex.: Blabla"><br>
+    Name:<br>
+    <input type="text" name="name" value="@Request.Form["Name"]" placeholder="Ex.: Bob"><br>
+    Surname:<br>
+    <input type="text" name="surname" value="@Request.Form["Surname"]" placeholder="Ex.: Eleveld"><br>
+    Address:<br>
+    <input type="text" name="address" value="@Request.Form["Address"]" placeholder="Ex.: Boblaan 12"><br>
+    Email:<br>
+    <input type="text" name="email" value="@Request.Form["Email"]" placeholder="Ex.: bobross@gmail.com"><br>
+    Type:<br>
+    <input type="text" name="type" value="@Request.Form["Type"]" placeholder="Admin or User"><br>
+    
+    
+    <br>
+
+    <input name="Request" type="submit" value="Request"/>
+    <input name="Update" type="submit" value="Update"/>
+</form>
+
+
 
