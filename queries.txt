@@ -9,3 +9,5 @@
 "UPDATE Users u SET address= '" + input1 +"' WHERE u.Username= +'" findusername"'"
 
 "UPDATE Users u SET email= '" + input1 +"' WHERE u.Username= +'" findusername"'"
+
+UPDATE Users u SET username ='" +username+ "', password ='" + password+"', name = '" + name+"', surname = '" +surname"', address = '" +address+"', email = '" + email+"', type = '" +type+ "' WHERE Username = '"username"'

@@ -9,6 +9,13 @@
     var username = "";
     var currSession = (Account)Session["LoggedIn"];
 
+    var password = "";
+    var name = "";
+    var surname = "";
+    var address = "";
+    var email = "";
+    var type = "";
+
     if (currSession == null || currSession.type == "User")
     {
         Response.Redirect("/account/noadmin");
@@ -22,15 +29,24 @@
             {
                 username = Request.Form["Username"];
                 DatabaseController.connect();
-            
+
+                var myRs = DatabaseController.runQuery("SELECT * FROM Users u WHERE u.Username= '" + username + "'");
+                myRs.Read();
+                var currentedit = myRs.GetValue(0);
+
                 try
                 {
-                    var myRs = DatabaseController.runQuery("SELECT * FROM Users u WHERE u.Username= '" + username + "'");
 
 
                     if (myRs != null)
                     {
                         Debug.Write("Existing user account");
+                        password = myRs["Password"].ToString();
+                        name = myRs["Name"].ToString();
+                        surname = myRs["Surname"].ToString();
+                        address = myRs["Address"].ToString();
+                        email = myRs["Email"].ToString();
+                        type = myRs["Type"].ToString();
 
                     }
                     else
@@ -45,9 +61,20 @@
             }
             if (Request.Form["Update"] != null)
             {
+                DatabaseController.connect();
+                var cmd = new SqlCommand("UPDATE Users SET password = @2, name = @3, surname = @4, address = @5, email = @6, type = @7 WHERE Username = '" + username + "'", DatabaseController.conn);
+                cmd.Parameters.AddWithValue("@2", password);
+                cmd.Parameters.AddWithValue("@3", name);
+                cmd.Parameters.AddWithValue("@4", surname);
+                cmd.Parameters.AddWithValue("@5", address);
+                cmd.Parameters.AddWithValue("@6", email);
+                cmd.Parameters.AddWithValue("@7", type);
+
+
 
             }
         }
+    }
     }
 
 
@@ -62,17 +89,17 @@
     Username:<br>
     <input type="text" name="username" value="@Request.Form["username"]" placeholder="Ex.: BobEleveld"><br>
     Password:<br>
-    <input type="text" name="password" value="@Request.Form["Password"]" placeholder="Ex.: Blabla"><br>
+    <input type="text" name="password" value="@password"><br>
     Name:<br>
-    <input type="text" name="name" value="@Request.Form["Name"]" placeholder="Ex.: Bob"><br>
+    <input type="text" name="name" value="@name"><br>
     Surname:<br>
-    <input type="text" name="surname" value="@Request.Form["Surname"]" placeholder="Ex.: Eleveld"><br>
+    <input type="text" name="surname" value="@surname"><br>
     Address:<br>
-    <input type="text" name="address" value="@Request.Form["Address"]" placeholder="Ex.: Boblaan 12"><br>
+    <input type="text" name="address" value="@address"><br>
     Email:<br>
-    <input type="text" name="email" value="@Request.Form["Email"]" placeholder="Ex.: bobross@gmail.com"><br>
+    <input type="text" name="email" value="@email"><br>
     Type:<br>
-    <input type="text" name="type" value="@Request.Form["Type"]" placeholder="Admin or User"><br>
+    <input type="text" name="type" value="@type"><br>
     
     
     <br>
