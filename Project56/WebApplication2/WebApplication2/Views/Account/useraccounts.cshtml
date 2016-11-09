@@ -51,51 +51,64 @@
                     else
                     {
                             < text > Non existing user account.</ text >
+                        }
+                    }
+                    catch (NullReferenceException e)
+                    {
+                        Console.WriteLine(e.Message);
                     }
                 }
-                catch (NullReferenceException e)
-                {
-                    Console.WriteLine(e.Message);
-                }
+                Debug.WriteLine("  stop punt 1");
+                myRs.Close();
             }
-            Debug.WriteLine("  stop punt 1");
-            myRs.Close();
-        }
 
-        if (Request.Form["Update"] != null)
-        {
+            if (Request.Form["Update"] != null)
+            {
 
 
-            Debug.WriteLine("  stop punt 2 update");
+                Debug.WriteLine("  stop punt 2 update");
 
-            var Upassword = Request.Form["password"];
-            Debug.WriteLine(Upassword);
-            var Uname = Request.Form["name"];
-            var Usurname = Request.Form["surname"];
-            var Uaddress = Request.Form["address"];
-            var Uemail = Request.Form["email"];
-            var Utype = Request.Form["type"];
+                var Upassword = Request.Form["password"];
+                Debug.WriteLine(Upassword);
+                var Uname = Request.Form["name"];
+                var Usurname = Request.Form["surname"];
+                var Uaddress = Request.Form["address"];
+                var Uemail = Request.Form["email"];
+                var Utype = Request.Form["type"];
 
-            var query = "UPDATE Users SET password = '" + Upassword + "', name = '" + Uname + "', surname = '" + Usurname + "', address = '" + Uaddress + "', email = '" + Uemail + "' WHERE Username = '" + username + "'";
-            Debug.WriteLine(query);
+                var query = "UPDATE Users SET password = '" + Upassword + "', name = '" + Uname + "', surname = '" + Usurname + "', address = '" + Uaddress + "', email = '" + Uemail + "' WHERE Username = '" + username + "'";
+                Debug.WriteLine(query);
 
-            // cmd.Parameters.AddWithValue("@1", @password);
-            // cmd.Parameters.AddWithValue("@2", @name);
-            // cmd.Parameters.AddWithValue("@3", @surname);
-            //  cmd.Parameters.AddWithValue("@4", @address);
-            //  cmd.Parameters.AddWithValue("@5", @email);
-            //  cmd.Parameters.AddWithValue("@6", @type);
+                // cmd.Parameters.AddWithValue("@1", @password);
+                // cmd.Parameters.AddWithValue("@2", @name);
+                // cmd.Parameters.AddWithValue("@3", @surname);
+                //  cmd.Parameters.AddWithValue("@4", @address);
+                //  cmd.Parameters.AddWithValue("@5", @email);
+                //  cmd.Parameters.AddWithValue("@6", @type);
 
 
-            SqlConnection conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
+                SqlConnection conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
 
-            SqlCommand stmt = new SqlCommand(query, conn);
-            conn.Open();
-            stmt.ExecuteNonQuery();
-            conn.Close();
+                SqlCommand stmt = new SqlCommand(query, conn);
+                conn.Open();
+                stmt.ExecuteNonQuery();
+                conn.Close();
+            }
+            if (Request.Form["Delete"] != null)
+            {
+                Debug.WriteLine(" delete meth");
+                var query = "DELETE FROM Users WHERE Username ='" + username + "'";
+                //Debug.WriteLine(query);
+                SqlConnection conn = new SqlConnection("Data Source=145.24.222.224,8080;Initial Catalog=Project56;User ID=abc;Password=abc123");
+
+                SqlCommand stmt = new SqlCommand(query, conn);
+                conn.Open();
+                stmt.ExecuteNonQuery();
+                conn.Close();
+            }
+
         }
     }
-     }
     }
 
 
@@ -123,6 +136,7 @@
     
     <input name="Request" type="submit" value="Request"/>
     <input name="Update" type="submit" value="Update"/>
+    <input name="Delete" type="submit" value="Delete" />
 </form>
 
 

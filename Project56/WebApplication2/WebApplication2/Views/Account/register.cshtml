@@ -28,6 +28,7 @@
             var reader = DatabaseController.runQuery("SELECT username FROM Users WHERE username = '" + username + "'");
 
             reader.Read();
+
             var existingUsername = reader.GetValue(0);
 
             if (existingUsername.ToString() != username)
