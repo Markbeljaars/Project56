@@ -76,7 +76,7 @@
             var Uemail = Request.Form["email"];
             var Utype = Request.Form["type"];
 
-            var query = "UPDATE Users SET password = '" + Upassword + "', name = '" + Uname + "', surname = '" + Usurname + "', address = '" + Uaddress + "', email = '" + Uaddress + "' WHERE Username = '" + username + "'";
+            var query = "UPDATE Users SET password = '" + Upassword + "', name = '" + Uname + "', surname = '" + Usurname + "', address = '" + Uaddress + "', email = '" + Uemail + "' WHERE Username = '" + username + "'";
             Debug.WriteLine(query);
 
             // cmd.Parameters.AddWithValue("@1", @password);
