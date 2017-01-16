@@ -183,8 +183,14 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Account.cs" />
+    <Compile Include="Models\Case.cs" />
+    <Compile Include="Models\Cpu.cs" />
     <Compile Include="Models\MainDBContext.cs" />
     <Compile Include="Models\Memory.cs" />
+    <Compile Include="Models\Motherboard.cs" />
+    <Compile Include="Models\Powersupply.cs" />
+    <Compile Include="Models\Storage.cs" />
+    <Compile Include="Models\Videocard.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
